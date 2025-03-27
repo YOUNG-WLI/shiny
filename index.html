@@ -3,21 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shiny colors hub</title>
+    <title>SHINY COLORS HUB</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            margin-top: 20%;
+            margin-top: 10%;
         }
         img {
             max-width: 100%;
             height: auto;
         }
+        .countdown {
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
     </style>
+    <script>
+        function updateCountdown() {
+            const idolmaster20th = new Date("2025-07-26T00:00:00");
+            const shinyColors7th = new Date("2025-04-24T00:00:00");
+            const now = new Date();
+
+            const diff1 = Math.ceil((idolmaster20th - now) / (1000 * 60 * 60 * 24));
+            const diff2 = Math.ceil((shinyColors7th - now) / (1000 * 60 * 60 * 24));
+
+            document.getElementById("idolmaster20th").textContent = `THE iDOLM@STER 20주년까지 D-${diff1}`;
+            document.getElementById("shinyColors7th").textContent = `THE iDOLM@STER SHINY COLORS 7주년까지 D-${diff2}`;
+        }
+        setInterval(updateCountdown, 1000);
+    </script>
 </head>
 <body>
-    <h1>THE iDOLM@STER Shiny Colors!</h1>
+    <h1>THE iDOLM@STER SHINY COLORS!</h1>
     <img src="image.jpg" alt="Sample Image">
+    <div class="countdown" id="idolmaster20th"></div>
+    <div class="countdown" id="shinyColors7th"></div>
 </body>
 </html>
+
