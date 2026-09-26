@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-08",
+  "albumId": "laca-25302",
+  "trackNumber": 8,
+  "title": "Here for you",
+  "vocal": "福丸小糸",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Here for you.txt",
+    "sha256": "c2ae4649aed78858674299180dc52637296e121f55bb8e09125fc2a4a24053bd",
+    "originalFile": "laca-25302-08.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "君と出会った日　今もおぼえているよ",
+          "pronunciation": "키미토 데앗타 히 이마모 오보에테이루요",
+          "translation": "너를 만난 날, 지금도 기억하고 있어"
+        },
+        {
+          "number": 2,
+          "original": "小さくあたたかな手のひら　ぎゅっと握ったね",
+          "pronunciation": "치이사쿠 아타타카나 테노히라 귯토 니깃타네",
+          "translation": "작고 따뜻한 손을 꼭 잡았었지"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 3,
+          "original": "かがやく笑顔　大粒の涙さえ",
+          "pronunciation": "카가야쿠 에가오 오오츠부노 나미다사에",
+          "translation": "빛나는 미소도 굵은 눈물방울마저도"
+        },
+        {
+          "number": 4,
+          "original": "かけがえのない瞬間",
+          "pronunciation": "카케가에노 나이 슌칸",
+          "translation": "무엇과도 바꿀 수 없는 순간"
+        },
+        {
+          "number": 5,
+          "original": "心のアルバムに入れて",
+          "pronunciation": "코코로노 아루바무니 이레테",
+          "translation": "마음속 앨범에 담아"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 6,
+          "original": "ねぇ　ずっと　君だけの味方でいるよ",
+          "pronunciation": "네에 즛토 키미다케노 미카타데 이루요",
+          "translation": "있지, 언제나 오직 네 편으로 있을게"
+        },
+        {
+          "number": 7,
+          "original": "何が起ころうとも",
+          "pronunciation": "나니가 오코로오토모",
+          "translation": "무슨 일이 일어나든"
+        },
+        {
+          "number": 8,
+          "original": "この手じゃどうにも頼りないのかな",
+          "pronunciation": "코노 테자 도오니모 타요리나이노카나",
+          "translation": "이 손으로는 아무래도 미덥지 못할까"
+        },
+        {
+          "number": 9,
+          "original": "大人になっても　その先でも",
+          "pronunciation": "오토나니 낫테모 소노 사키데모",
+          "translation": "어른이 되어도, 그 이후에도"
+        },
+        {
+          "number": 10,
+          "original": "そばにいられたなら",
+          "pronunciation": "소바니 이라레타나라",
+          "translation": "곁에 있을 수 있다면"
+        },
+        {
+          "number": 11,
+          "original": "遠い星に願うけれど",
+          "pronunciation": "토오이 호시니 네가우케레도",
+          "translation": "먼 별에게 소원을 빌지만"
+        },
+        {
+          "number": 12,
+          "original": "届かない　ひとりごと",
+          "pronunciation": "토도카나이 히토리고토",
+          "translation": "닿지 않는 혼잣말"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 13,
+          "original": "春のおでかけも　夏の夕暮れだって",
+          "pronunciation": "하루노 오데카케모 나츠노 유우구레닷테",
+          "translation": "봄날의 외출도 여름의 해 질 녘도"
+        },
+        {
+          "number": 14,
+          "original": "秋も冬も繰り返して　君は大きくなったね",
+          "pronunciation": "아키모 후유모 쿠리카에시테 키미와 오오키쿠 낫타네",
+          "translation": "가을도 겨울도 거듭하며 너는 자랐구나"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 15,
+          "original": "押し入れの中　こっそり教えてくれた",
+          "pronunciation": "오시이레노 나카 콧소리 오시에테쿠레타",
+          "translation": "벽장 안에서 살며시 알려주었던"
+        },
+        {
+          "number": 16,
+          "original": "ふたりだけのひみつは　誰にも知られないままで",
+          "pronunciation": "후타리다케노 히미츠와 다레니모 시라레나이 마마데",
+          "translation": "우리 둘만의 비밀은 누구에게도 알려지지 않은 채"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 17,
+          "original": "君はいつの日か忘れちゃうかな",
+          "pronunciation": "키미와 이츠노 히카 와스레차우카나",
+          "translation": "너는 언젠가 잊어버릴까"
+        },
+        {
+          "number": 18,
+          "original": "ともに過ごした時間",
+          "pronunciation": "토모니 스고시타 지칸",
+          "translation": "함께 보낸 시간을"
+        },
+        {
+          "number": 19,
+          "original": "それでもかまわないから",
+          "pronunciation": "소레데모 카마와나이카라",
+          "translation": "그래도 상관없으니까"
+        },
+        {
+          "number": 20,
+          "original": "どうか幸せでいて",
+          "pronunciation": "도오카 시아와세데 이테",
+          "translation": "부디 행복하게 지내줘"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 21,
+          "original": "広い外の世界で　おともだちもふえて",
+          "pronunciation": "히로이 소토노 세카이데 오토모다치모 후에테",
+          "translation": "넓은 바깥세상에서 친구도 늘어나고"
+        },
+        {
+          "number": 22,
+          "original": "君と目が合わなくなってく",
+          "pronunciation": "키미토 메가 아와나쿠 낫테쿠",
+          "translation": "너와 눈이 마주치는 일은 줄어가"
+        },
+        {
+          "number": 23,
+          "original": "かなしくなんかないさ",
+          "pronunciation": "카나시쿠난카 나이사",
+          "translation": "슬프지는 않아"
+        },
+        {
+          "number": 24,
+          "original": "泣けもしないぬいぐるみだから",
+          "pronunciation": "나케모 시나이 누이구루미다카라",
+          "translation": "울 수도 없는 봉제인형이니까"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 25,
+          "original": "ねぇ　ずっと　君だけの味方でいるよ",
+          "pronunciation": "네에 즛토 키미다케노 미카타데 이루요",
+          "translation": "있지, 언제나 오직 네 편으로 있을게"
+        },
+        {
+          "number": 26,
+          "original": "言葉はいらない",
+          "pronunciation": "코토바와 이라나이",
+          "translation": "말은 필요 없어"
+        },
+        {
+          "number": 27,
+          "original": "この手じゃどうにも頼りないのかな",
+          "pronunciation": "코노 테자 도오니모 타요리나이노카나",
+          "translation": "이 손으로는 아무래도 미덥지 못할까"
+        },
+        {
+          "number": 28,
+          "original": "大人になっても　その先でも",
+          "pronunciation": "오토나니 낫테모 소노 사키데모",
+          "translation": "어른이 되어도, 그 이후에도"
+        },
+        {
+          "number": 29,
+          "original": "君は君のままで",
+          "pronunciation": "키미와 키미노 마마데",
+          "translation": "너는 너인 그대로"
+        },
+        {
+          "number": 30,
+          "original": "たまに思い出してみてよ",
+          "pronunciation": "타마니 오모이다시테 미테요",
+          "translation": "가끔 떠올려 봐줘"
+        },
+        {
+          "number": 31,
+          "original": "いつもここにいるから",
+          "pronunciation": "이츠모 코코니 이루카라",
+          "translation": "언제나 여기 있을 테니까"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-01",
+  "albumId": "laca-25302",
+  "trackNumber": 1,
+  "title": "Embers glow",
+  "vocal": "風野灯織",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Embers glow.txt",
+    "sha256": "ff8bba2a0eaaa964e63ab77f6d47f72559e0610718164ca277a9c3db2a849530",
+    "originalFile": "laca-25302-01.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "過去=きのう, 掌=て, 文体=フレーズ, 音色=おと, 段階=グラデーション, 詩=うた, 秒針=とけい, 体温=ぬくもり, 一片=かけら, 成長=グラデュエーション의 지정 읽기를 적용했습니다.",
+    "首肯=しゅこう, 綻ばす=ほころばす로 가정했습니다. 음원 확인이 필요합니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "暮れなずんだ歩道で",
+          "pronunciation": "쿠레나즌다 호도오데",
+          "translation": "해가 쉬이 저물지 않는 보도에서"
+        },
+        {
+          "number": 2,
+          "original": "識(し)らなかった言葉が　灯る",
+          "pronunciation": "시라나캇타 코토바가 토모루",
+          "translation": "알지 못했던 말이 불을 밝혀"
+        },
+        {
+          "number": 3,
+          "original": "呼吸するみたいに　やさしく",
+          "pronunciation": "코큐우스루 미타이니 야사시쿠",
+          "translation": "숨 쉬듯 다정하게"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 4,
+          "original": "「まだ戸惑っているの？」",
+          "pronunciation": "마다 토마돗테이루노?",
+          "translation": "“아직도 망설이고 있니?”"
+        },
+        {
+          "number": 5,
+          "original": "自分の科白のリフレイン",
+          "pronunciation": "지분노 세리후노 리후레인",
+          "translation": "내가 했던 말의 되풀이"
+        },
+        {
+          "number": 6,
+          "original": "でも首肯しなかった",
+          "pronunciation": "데모 슈코오시나캇타",
+          "translation": "하지만 고개를 끄덕이지 않았어"
+        },
+        {
+          "number": 7,
+          "original": "過去(きのう)までと違う予感がしたから",
+          "pronunciation": "키노오마데토 치가우 요칸가 시타카라",
+          "translation": "어제까지와는 다른 예감이 들었으니까"
+        },
+        {
+          "number": 8,
+          "original": "直向きさと不器用との",
+          "pronunciation": "히타무키사토 부키요오토노",
+          "translation": "한결같음과 서투름이 함께한"
+        },
+        {
+          "number": 9,
+          "original": "回り道で　出遇えた星々",
+          "pronunciation": "마와리미치데 데아에타 호시보시",
+          "translation": "돌아가는 길에서 만난 별들"
+        },
+        {
+          "number": 10,
+          "original": "掌(て)にあまるくらいだ",
+          "pronunciation": "테니 아마루 쿠라이다",
+          "translation": "손에 다 담을 수 없을 정도야"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 11,
+          "original": "小さな灯火　揺れたのは",
+          "pronunciation": "치이사나 토모시비 유레타노와",
+          "translation": "작은 등불이 흔들린 건"
+        },
+        {
+          "number": 12,
+          "original": "紛れもなく　あなたへの",
+          "pronunciation": "마기레모 나쿠 아나타에노",
+          "translation": "틀림없이 너를 향한"
+        },
+        {
+          "number": 13,
+          "original": "風が吹き抜けたから",
+          "pronunciation": "카제가 후키누케타카라",
+          "translation": "바람이 스쳐 갔기 때문이야"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 14,
+          "original": "綺麗な文体(フレーズ)じゃ　伝えきれなかった",
+          "pronunciation": "키레이나 후레에즈자 츠타에키레나캇타",
+          "translation": "예쁜 문구로는 다 전할 수 없었어"
+        },
+        {
+          "number": 15,
+          "original": "そんなもどかしささえ　音色(おと)に込めて",
+          "pronunciation": "손나 모도카시사사에 오토니 코메테",
+          "translation": "그런 답답함마저 소리에 담아"
+        },
+        {
+          "number": 16,
+          "original": "「願いから　決意へ」羽化していく言葉",
+          "pronunciation": "네가이카라 케츠이에 우카시테이쿠 코토바",
+          "translation": "“바람에서 결의로” 날개를 펴는 말"
+        },
+        {
+          "number": 17,
+          "original": "その段階(グラデーション)さえ　届けたくて",
+          "pronunciation": "소노 구라데에숀사에 토도케타쿠테",
+          "translation": "그 변화의 과정마저 전하고 싶어서"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 18,
+          "original": "躰の奥でずっと　鼓動していた絆",
+          "pronunciation": "카라다노 오쿠데 즛토 코도오시테이타 키즈나",
+          "translation": "몸 깊은 곳에서 줄곧 고동치던 인연"
+        },
+        {
+          "number": 19,
+          "original": "「私のため」じゃなくて「誰かのため」",
+          "pronunciation": "와타시노 타메자 나쿠테 다레카노 타메",
+          "translation": "“나를 위해”가 아니라 “누군가를 위해”"
+        },
+        {
+          "number": 20,
+          "original": "今だから言えるよ　今でこそ歌うよ",
+          "pronunciation": "이마다카라 이에루요 이마데코소 우타우요",
+          "translation": "지금이기에 말할 수 있어, 지금이야말로 노래할게"
+        },
+        {
+          "number": 21,
+          "original": "Embers glow　あなたの灯りになる詩(うた)",
+          "pronunciation": "엠버즈 글로우 아나타노 아카리니 나루 우타",
+          "translation": "잔불이 빛나, 너의 등불이 되어줄 노래"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 22,
+          "original": "心が悴みそうで　秒針(とけい)が凍る夜にも",
+          "pronunciation": "코코로가 카지카미소오데 토케이가 코오루 요루니모",
+          "translation": "마음이 얼어붙을 듯하고 시계마저 멎는 밤에도"
+        },
+        {
+          "number": 23,
+          "original": "寄り添える希望でありますように",
+          "pronunciation": "요리소에루 키보오데 아리마스 요오니",
+          "translation": "곁을 지켜줄 희망이 될 수 있기를"
+        },
+        {
+          "number": 24,
+          "original": "「きっと大丈夫だよ」体温(ぬくもり)伝う声",
+          "pronunciation": "킷토 다이조오부다요 누쿠모리 츠타우 코에",
+          "translation": "“분명 괜찮을 거야” 온기가 전해지는 목소리"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 25,
+          "original": "何気ない一瞬が　未来の一片(かけら)だった",
+          "pronunciation": "나니게나이 잇슌가 미라이노 카케라닷타",
+          "translation": "평범한 한순간이 미래의 한 조각이었어"
+        },
+        {
+          "number": 26,
+          "original": "そんな奇蹟　幾度　瞼に焼いた",
+          "pronunciation": "손나 키세키 이쿠도 마부타니 야이타",
+          "translation": "그런 기적을 몇 번이고 눈에 새겼어"
+        },
+        {
+          "number": 27,
+          "original": "見つけ出してくれた　信じ続けてくれた",
+          "pronunciation": "미츠케다시테쿠레타 신지츠즈케테쿠레타",
+          "translation": "나를 찾아주었어, 계속 믿어주었어"
+        },
+        {
+          "number": 28,
+          "original": "次の闇は私が綻ばすよ Embrace",
+          "pronunciation": "츠기노 야미와 와타시가 호코로바스요 엠브레이스",
+          "translation": "다음 어둠은 내가 풀어낼게, 품에 안아"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 29,
+          "original": "今だから言えるよ　今でこそ歌うよ",
+          "pronunciation": "이마다카라 이에루요 이마데코소 우타우요",
+          "translation": "지금이기에 말할 수 있어, 지금이야말로 노래할게"
+        },
+        {
+          "number": 30,
+          "original": "Embers glow　生まれた灯りを",
+          "pronunciation": "엠버즈 글로우 우마레타 아카리오",
+          "translation": "잔불이 빛나, 피어난 그 불빛을"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 31,
+          "original": "綺麗な文体(フレーズ)じゃ　伝えきれなかった",
+          "pronunciation": "키레이나 후레에즈자 츠타에키레나캇타",
+          "translation": "예쁜 문구로는 다 전할 수 없었어"
+        },
+        {
+          "number": 32,
+          "original": "そんなもどかしささえ　音色(おと)に込めて",
+          "pronunciation": "손나 모도카시사사에 오토니 코메테",
+          "translation": "그런 답답함마저 소리에 담아"
+        },
+        {
+          "number": 33,
+          "original": "「願いから　決意へ」羽化していく言葉",
+          "pronunciation": "네가이카라 케츠이에 우카시테이쿠 코토바",
+          "translation": "“바람에서 결의로” 날개를 펴는 말"
+        },
+        {
+          "number": 34,
+          "original": "また成長(グラデュエーション)して　続く空へ",
+          "pronunciation": "마타 구라듀에에숀시테 츠즈쿠 소라에",
+          "translation": "다시 성장시켜, 이어지는 하늘로"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 35,
+          "original": "躰の奥でずっと　鼓動していた絆",
+          "pronunciation": "카라다노 오쿠데 즛토 코도오시테이타 키즈나",
+          "translation": "몸 깊은 곳에서 줄곧 고동치던 인연"
+        },
+        {
+          "number": 36,
+          "original": "「私のため」じゃなくて「誰かのため」",
+          "pronunciation": "와타시노 타메자 나쿠테 다레카노 타메",
+          "translation": "“나를 위해”가 아니라 “누군가를 위해”"
+        },
+        {
+          "number": 37,
+          "original": "夢の在り処になる　明日の在り処になる",
+          "pronunciation": "유메노 아리카니 나루 아시타노 아리카니 나루",
+          "translation": "꿈이 머무는 곳이 될게, 내일이 머무는 곳이 될게"
+        },
+        {
+          "number": 38,
+          "original": "Embers glow　あなたの灯りになりたい",
+          "pronunciation": "엠버즈 글로우 아나타노 아카리니 나리타이",
+          "translation": "잔불이 빛나, 너의 등불이 되고 싶어"
+        }
+      ]
+    }
+  ]
+}

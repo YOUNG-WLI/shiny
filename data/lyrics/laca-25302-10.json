@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-10",
+  "albumId": "laca-25302",
+  "trackNumber": 10,
+  "title": "リフレクトサイン -9 colors-",
+  "vocal": "Team.Luna",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/リフレクトサイン.txt",
+    "sha256": "c3aa4460ea05e549b34e921140ffc016dbe12daf7cb4672ab2c427688385287a",
+    "originalFile": "laca-25302-10.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "입력 파일명에는 colors 버전 표기가 없어 앨범 목록의 해당 팀 곡에 연결했습니다. 제공 원문을 사용했으며 해당 버전의 가창·파트 배분은 음원과 대조하지 않았습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "見上げた空が今　行き止まりに見えていても",
+          "pronunciation": "미아게타 소라가 이마 이키도마리니 미에테이테모",
+          "translation": "올려다본 하늘이 지금은 막다른 길처럼 보여도"
+        },
+        {
+          "number": 2,
+          "original": "明日は隠れてる　暗がりのなかにそっと鼓動がある",
+          "pronunciation": "아시타와 카쿠레테루 쿠라가리노 나카니 솟토 코도오가 아루",
+          "translation": "내일은 숨어 있어, 어둠 속에 고요한 고동이 있어"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 3,
+          "original": "あやふやな闇にすくむ",
+          "pronunciation": "아야후야나 야미니 스쿠무",
+          "translation": "불확실한 어둠에 움츠러든"
+        },
+        {
+          "number": 4,
+          "original": "勇気の手を取るように",
+          "pronunciation": "유우키노 테오 토루 요오니",
+          "translation": "용기의 손을 잡아주듯"
+        },
+        {
+          "number": 5,
+          "original": "千夜を駆け抜けてみよう",
+          "pronunciation": "센야오 카케누케테미요오",
+          "translation": "천 번의 밤을 달려 나가 보자"
+        },
+        {
+          "number": 6,
+          "original": "君をつれて",
+          "pronunciation": "키미오 츠레테",
+          "translation": "너를 데리고"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 7,
+          "original": "信じて　めぐりめぐる未来を",
+          "pronunciation": "신지테 메구리메구루 미라이오",
+          "translation": "믿어줘, 돌고 도는 미래를"
+        },
+        {
+          "number": 8,
+          "original": "私の光で照らすよ",
+          "pronunciation": "와타시노 히카리데 테라스요",
+          "translation": "나의 빛으로 비출게"
+        },
+        {
+          "number": 9,
+          "original": "悠然とまばゆい　あの月になってそばにいる",
+          "pronunciation": "유우젠토 마바유이 아노 츠키니 낫테 소바니 이루",
+          "translation": "의연하고 눈부신 저 달이 되어 곁에 있을게"
+        },
+        {
+          "number": 10,
+          "original": "リフレクトサイン",
+          "pronunciation": "리후레쿠토 사인",
+          "translation": "빛을 되비추는 신호"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 11,
+          "original": "翳(かげ)りを帯びている　たたずむ半分のシルエット",
+          "pronunciation": "카게리오 오비테이루 타타즈무 한분노 시루엣토",
+          "translation": "그늘을 머금고 가만히 서 있는 절반의 실루엣"
+        },
+        {
+          "number": 12,
+          "original": "明日はまた違う微笑みで　世界をそっと眺めてる",
+          "pronunciation": "아시타와 마타 치가우 호호에미데 세카이오 솟토 나가메테루",
+          "translation": "내일은 또 다른 미소로 세상을 조용히 바라봐"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 13,
+          "original": "欠けているから何度でも",
+          "pronunciation": "카케테이루카라 난도데모",
+          "translation": "이지러져 있기에 몇 번이고"
+        },
+        {
+          "number": 14,
+          "original": "満ちていけるんだろう",
+          "pronunciation": "미치테이케룬다로오",
+          "translation": "차오를 수 있는 거겠지"
+        },
+        {
+          "number": 15,
+          "original": "新しい自分へと",
+          "pronunciation": "아타라시이 지분에토",
+          "translation": "새로운 나를 향해"
+        },
+        {
+          "number": 16,
+          "original": "そう私も",
+          "pronunciation": "소오 와타시모",
+          "translation": "그래, 나도"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 17,
+          "original": "こぼれた　まっさらな煌めきは",
+          "pronunciation": "코보레타 맛사라나 키라메키와",
+          "translation": "쏟아진 티 없이 새로운 반짝임은"
+        },
+        {
+          "number": 18,
+          "original": "君という光受けたから",
+          "pronunciation": "키미토 이우 히카리 우케타카라",
+          "translation": "너라는 빛을 받았기 때문이야"
+        },
+        {
+          "number": 19,
+          "original": "とめどなく変わって　あの月のように輝くよ",
+          "pronunciation": "토메도 나쿠 카왓테 아노 츠키노 요오니 카가야쿠요",
+          "translation": "끝없이 변하며 저 달처럼 빛날게"
+        },
+        {
+          "number": 20,
+          "original": "マニフェストサイン",
+          "pronunciation": "마니훼스토 사인",
+          "translation": "결의를 드러내는 신호"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 21,
+          "original": "ひとすじ　降りそそぎ続けたい",
+          "pronunciation": "히토스지 후리소소기츠즈케타이",
+          "translation": "한 줄기 빛으로 계속 쏟아지고 싶어"
+        },
+        {
+          "number": 22,
+          "original": "二度とない　旅路の彼方へ",
+          "pronunciation": "니도토 나이 타비지노 카나타에",
+          "translation": "다시없을 여정의 저편으로"
+        },
+        {
+          "number": 23,
+          "original": "立ち止まりまた走ってゆく　瞳のそばにいる",
+          "pronunciation": "타치도마리 마타 하싯테유쿠 히토미노 소바니 이루",
+          "translation": "멈춰 섰다가 다시 달려가는 그 눈동자 곁에 있을게"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 24,
+          "original": "信じて　めぐりめぐる未来を",
+          "pronunciation": "신지테 메구리메구루 미라이오",
+          "translation": "믿어줘, 돌고 도는 미래를"
+        },
+        {
+          "number": 25,
+          "original": "私の光で照らすよ",
+          "pronunciation": "와타시노 히카리데 테라스요",
+          "translation": "나의 빛으로 비출게"
+        },
+        {
+          "number": 26,
+          "original": "悠然とまばゆい　あの月になってそばにいる",
+          "pronunciation": "유우젠토 마바유이 아노 츠키니 낫테 소바니 이루",
+          "translation": "의연하고 눈부신 저 달이 되어 곁에 있을게"
+        },
+        {
+          "number": 27,
+          "original": "リフレクトサイン",
+          "pronunciation": "리후레쿠토 사인",
+          "translation": "빛을 되비추는 신호"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-05",
+  "albumId": "laca-25301",
+  "trackNumber": 5,
+  "title": "どっちみちLOVE",
+  "vocal": "大崎甘奈",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/どっちみちLOVE.txt",
+    "sha256": "23d0583bcab9756a527fe578c1bc345aee5081b5ae3174db971f9402538d9cab",
+    "originalFile": "laca-25301-05.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "だって！だって！　好きなんです。",
+          "pronunciation": "닷테! 닷테! 스키난데스.",
+          "translation": "그치만! 그치만! 좋아하는걸요."
+        },
+        {
+          "number": 2,
+          "original": "重なったキセキ Lucky×Lucky",
+          "pronunciation": "카사낫타 키세키 럭키 럭키",
+          "translation": "겹쳐진 기적, 행운에 또 행운"
+        },
+        {
+          "number": 3,
+          "original": "“彼女”ってバレたらなぁ...",
+          "pronunciation": "카노죳테 바레타라나아",
+          "translation": "‘여자 친구’라는 걸 들키면 좋겠다…"
+        },
+        {
+          "number": 4,
+          "original": "なんてね、夢見ちゃう",
+          "pronunciation": "난테네 유메 미차우",
+          "translation": "막 이러면서 꿈꾸게 돼"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "教室の中　ふたりだけ見える赤い糸",
+          "pronunciation": "쿄오시츠노 나카 후타리다케 미에루 아카이 이토",
+          "translation": "교실 안에서 우리 둘에게만 보이는 붉은 실"
+        },
+        {
+          "number": 6,
+          "original": "やっぱもどかしいな、実際。",
+          "pronunciation": "얏파 모도카시이나 짓사이",
+          "translation": "역시 답답하네, 솔직히"
+        },
+        {
+          "number": 7,
+          "original": "誰にでも優しいんだもん...！",
+          "pronunciation": "다레니데모 야사시인다몬!",
+          "translation": "누구에게나 다정하잖아…!"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 8,
+          "original": "めっちゃカッコいいの　わかってないのなんで！？",
+          "pronunciation": "멧차 캇코이이노 와캇테나이노 난데!?",
+          "translation": "엄청 멋지다는 걸 왜 모르는 거야!?"
+        },
+        {
+          "number": 9,
+          "original": "全部がキラキラしてる　これってかなり恋かも☆",
+          "pronunciation": "젠부가 키라키라시테루 코렛테 카나리 코이카모",
+          "translation": "모든 게 반짝여, 이거 완전 사랑일지도☆"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 10,
+          "original": "だって！だって！　好きなんです。",
+          "pronunciation": "닷테! 닷테! 스키난데스.",
+          "translation": "그치만! 그치만! 좋아하는걸요."
+        },
+        {
+          "number": 11,
+          "original": "重なったキセキ Lucky×Lucky",
+          "pronunciation": "카사낫타 키세키 럭키 럭키",
+          "translation": "겹쳐진 기적, 행운에 또 행운"
+        },
+        {
+          "number": 12,
+          "original": "“彼女”ってバレたらなぁ...",
+          "pronunciation": "카노죳테 바레타라나아",
+          "translation": "‘여자 친구’라는 걸 들키면 좋겠다…"
+        },
+        {
+          "number": 13,
+          "original": "どんな顔するのかな？　マイダーリン",
+          "pronunciation": "돈나 카오 스루노카나 마이 다아린",
+          "translation": "어떤 표정을 지을까? 내 사랑"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 14,
+          "original": "ねえ、覚えてる？　今日で3ヶ月の記念日",
+          "pronunciation": "네에 오보에테루? 쿄오데 산카게츠노 키넨비",
+          "translation": "있지, 기억해? 오늘이 사귄 지 3개월 기념일이야"
+        },
+        {
+          "number": 15,
+          "original": "なんかいつも通りだね",
+          "pronunciation": "난카 이츠모도오리다네",
+          "translation": "어쩐지 평소와 다름없네"
+        },
+        {
+          "number": 16,
+          "original": "もう知らない！　ちょっと拗ねちゃお",
+          "pronunciation": "모오 시라나이! 춋토 스네차오",
+          "translation": "이젠 몰라! 조금 토라져 볼까"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 17,
+          "original": "放課後のデート　さりげないエスコート",
+          "pronunciation": "호오카고노 데에토 사리게나이 에스코오토",
+          "translation": "방과 후 데이트, 자연스러운 에스코트"
+        },
+        {
+          "number": 18,
+          "original": "「ちゃんと覚えてるよ」とか　史上最強にLOVEかも☆",
+          "pronunciation": "찬토 오보에테루요 토카 시조오 사이쿄오니 라부카모",
+          "translation": "“잘 기억하고 있어”라니, 역대급으로 사랑스러울지도☆"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 19,
+          "original": "だって！だって！　好きなんです。",
+          "pronunciation": "닷테! 닷테! 스키난데스.",
+          "translation": "그치만! 그치만! 좋아하는걸요."
+        },
+        {
+          "number": 20,
+          "original": "ヤキモキ　結局 Happy×Happy",
+          "pronunciation": "야키모키 켓쿄쿠 해피 해피",
+          "translation": "애태워도 결국 행복에 또 행복"
+        },
+        {
+          "number": 21,
+          "original": "たまにはギュってしてね！",
+          "pronunciation": "타마니와 귯테 시테네!",
+          "translation": "가끔은 꼭 안아줘!"
+        },
+        {
+          "number": 22,
+          "original": "それでね、許せちゃうマイダーリン",
+          "pronunciation": "소레데네 유루세차우 마이 다아린",
+          "translation": "그러면 말이야, 용서해 버려, 내 사랑"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 23,
+          "original": "ありのままで　傍にいたいの",
+          "pronunciation": "아리노 마마데 소바니 이타이노",
+          "translation": "있는 그대로 네 곁에 있고 싶어"
+        },
+        {
+          "number": 24,
+          "original": "でもねでもね　嫌われたくはないの",
+          "pronunciation": "데모네 데모네 키라와레타쿠와 나이노",
+          "translation": "하지만, 하지만 미움받고 싶지는 않아"
+        },
+        {
+          "number": 25,
+          "original": "あぁ、なんで　またワガママになっちゃうのかな",
+          "pronunciation": "아아 난데 마타 와가마마니 낫차우노카나",
+          "translation": "아아, 왜 또 제멋대로 굴게 되는 걸까"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 26,
+          "original": "もう天使じゃいられないよ (La La Love you！)",
+          "pronunciation": "모오 텐시자 이라레나이요 (라 라 러브 유!)",
+          "translation": "더는 천사처럼 있을 수 없어 (널 사랑해!)"
+        },
+        {
+          "number": 27,
+          "original": "本音チラチラっと (La La Love me！)",
+          "pronunciation": "혼네 치라치랏토 (라 라 러브 미!)",
+          "translation": "속마음을 살짝살짝 (날 사랑해!)"
+        },
+        {
+          "number": 28,
+          "original": "世界中が羨んじゃう甘々な恋しよ？",
+          "pronunciation": "세카이주우가 우라얀자우 아마아마나 코이 시요?",
+          "translation": "온 세상이 부러워할 만큼 달콤한 사랑을 하자"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 29,
+          "original": "何度だって言いたいの",
+          "pronunciation": "난도닷테 이이타이노",
+          "translation": "몇 번이고 말하고 싶어"
+        },
+        {
+          "number": 30,
+          "original": "振り向いてくれる前から",
+          "pronunciation": "후리무이테 쿠레루 마에카라",
+          "translation": "네가 나를 바라봐 주기 전부터"
+        },
+        {
+          "number": 31,
+          "original": "泣いちゃいそうなくらいに　やっぱり",
+          "pronunciation": "나이차이소오나 쿠라이니 얏파리",
+          "translation": "울 것 같을 정도로, 역시"
+        },
+        {
+          "number": 32,
+          "original": "「大好き...」",
+          "pronunciation": "다이스키",
+          "translation": "“정말 좋아해…”"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 33,
+          "original": "どうしたって、好きなんです。",
+          "pronunciation": "도오시탓테 스키난데스",
+          "translation": "어쩔 수 없이 좋아하는걸요"
+        },
+        {
+          "number": 34,
+          "original": "ふたりのペースでいいじゃん！いいじゃん！",
+          "pronunciation": "후타리노 페에스데 이이잔! 이이잔!",
+          "translation": "우리 둘의 속도로 가면 되잖아! 좋잖아!"
+        },
+        {
+          "number": 35,
+          "original": "変わらず　ずっと傍で",
+          "pronunciation": "카와라즈 즛토 소바데",
+          "translation": "변함없이 언제나 곁에서"
+        },
+        {
+          "number": 36,
+          "original": "シャイなLOVE　伝えてねマイダーリン",
+          "pronunciation": "샤이나 라부 츠타에테네 마이 다아린",
+          "translation": "수줍은 사랑을 전해줘, 내 사랑"
+        }
+      ]
+    }
+  ]
+}

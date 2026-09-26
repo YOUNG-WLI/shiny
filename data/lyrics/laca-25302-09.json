@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-09",
+  "albumId": "laca-25302",
+  "trackNumber": 9,
+  "title": "HELL-O",
+  "vocal": "斑鳩ルカ",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/HELL-O.txt",
+    "sha256": "cf984f73a6d80bbcfd10fb092ad68c608e1546b1845521261681f490e0554a1c",
+    "originalFile": "laca-25302-09.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "HELL-O는 hell과 hello의 말장난으로 해석했습니다.",
+    "生命=いのち, Others=たにん, ○○○nm=数百ナノ를 반영했습니다.",
+    "虚吐いて는 うそついて, 擦った는 こすった, 2拍3連은 にはくさんれん으로 가정했습니다. 특히 이 세 구절은 음원 확인이 필요합니다.",
+    "J-P.의 지시 대상과 '擦った トーラス状'의 구체적 의미는 원문만으로 확정하지 않고 보수적으로 옮겼습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "人影も消えた　深夜の街",
+          "pronunciation": "히토카게모 키에타 신야노 마치",
+          "translation": "사람 그림자마저 사라진 심야의 거리"
+        },
+        {
+          "number": 2,
+          "original": "ため息みたく　瞬くネオン",
+          "pronunciation": "타메이키 미타쿠 마타타쿠 네온",
+          "translation": "한숨처럼 깜빡이는 네온"
+        },
+        {
+          "number": 3,
+          "original": "ふと",
+          "pronunciation": "후토",
+          "translation": "문득"
+        },
+        {
+          "number": 4,
+          "original": "それとダブる　心臓のビート",
+          "pronunciation": "소레토 다부루 신조오노 비이토",
+          "translation": "그것과 겹치는 심장의 박동"
+        },
+        {
+          "number": 5,
+          "original": "理由などなく　ただリピート",
+          "pronunciation": "리유우나도 나쿠 타다 리피이토",
+          "translation": "이유도 없이 그저 반복"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 6,
+          "original": "明りも届かない　[路地裏]",
+          "pronunciation": "아카리모 토도카나이 [로지우라]",
+          "translation": "불빛도 닿지 않는 [뒷골목]"
+        },
+        {
+          "number": 7,
+          "original": "アスファルト穿ち　光求め",
+          "pronunciation": "아스화루토 우가치 히카리 모토메",
+          "translation": "아스팔트를 뚫고 빛을 구하며"
+        },
+        {
+          "number": 8,
+          "original": "踏みしだかれ散る花　Ah",
+          "pronunciation": "후미시다카레 치루 하나 아",
+          "translation": "짓밟혀 지는 꽃, 아"
+        },
+        {
+          "number": 9,
+          "original": "踏切が歌う　2拍3連",
+          "pronunciation": "후미키리가 우타우 니하쿠 산렌",
+          "translation": "건널목이 노래하는 2박 셋잇단 리듬"
+        },
+        {
+          "number": 10,
+          "original": "すれ違う　生命(いのち)の音",
+          "pronunciation": "스레치가우 이노치노 오토",
+          "translation": "스쳐 지나가는 생명의 소리"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 11,
+          "original": "なぁ　Raison d'etre",
+          "pronunciation": "나아 레존 데에토루",
+          "translation": "있잖아, 존재 이유"
+        },
+        {
+          "number": 12,
+          "original": "もっと虚吐いてJ-P.　[眠れるまで]",
+          "pronunciation": "못토 우소 츠이테 제이 피이 [네무레루마데]",
+          "translation": "더 거짓을 말해줘, J-P. [잠들 수 있을 때까지]"
+        },
+        {
+          "number": 13,
+          "original": "価値や定義すらも",
+          "pronunciation": "카치야 테이기스라모",
+          "translation": "가치나 정의조차도"
+        },
+        {
+          "number": 14,
+          "original": "Others(たにん)次第とか　What's the hell？",
+          "pronunciation": "타닌 시다이토카 왓츠 더 헬?",
+          "translation": "남에게 달렸다니, 대체 뭐야?"
+        },
+        {
+          "number": 15,
+          "original": "絡みついた視線で　編まれてく絶望",
+          "pronunciation": "카라미츠이타 시센데 아마레테쿠 제츠보오",
+          "translation": "휘감긴 시선으로 짜여 가는 절망"
+        },
+        {
+          "number": 16,
+          "original": "不完全なこの世界",
+          "pronunciation": "후칸젠나 코노 세카이",
+          "translation": "불완전한 이 세상"
+        },
+        {
+          "number": 17,
+          "original": "聞こえてる？",
+          "pronunciation": "키코에테루?",
+          "translation": "들리고 있어?"
+        },
+        {
+          "number": 18,
+          "original": "HELL-O",
+          "pronunciation": "헬로",
+          "translation": "지옥에서 건네는 인사"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 19,
+          "original": "ありふれたランドリー　洗えない傷",
+          "pronunciation": "아리후레타 란도리이 아라에나이 키즈",
+          "translation": "흔한 세탁소, 씻어낼 수 없는 상처"
+        },
+        {
+          "number": 20,
+          "original": "抱えたまま素通り　Ah",
+          "pronunciation": "카카에타 마마 스도오리 아",
+          "translation": "끌어안은 채 지나쳐, 아"
+        },
+        {
+          "number": 21,
+          "original": "遠くで　ハウってるみたいなサイレン",
+          "pronunciation": "토오쿠데 하웃테루 미타이나 사이렌",
+          "translation": "멀리서 하울링이 이는 듯한 사이렌"
+        },
+        {
+          "number": 22,
+          "original": "声なき声が呼んでる",
+          "pronunciation": "코에나키 코에가 욘데루",
+          "translation": "소리 없는 목소리가 부르고 있어"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 23,
+          "original": "叫んで　蔑んで",
+          "pronunciation": "사켄데 사게슨데",
+          "translation": "외치고, 경멸하고"
+        },
+        {
+          "number": 24,
+          "original": "閉ざした心　叩くような",
+          "pronunciation": "토자시타 코코로 타타쿠 요오나",
+          "translation": "닫힌 마음을 두드리는 듯한"
+        },
+        {
+          "number": 25,
+          "original": "シャッターの落書き",
+          "pronunciation": "샷타아노 라쿠가키",
+          "translation": "셔터의 낙서"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 26,
+          "original": "なぁ　Raison d'etre",
+          "pronunciation": "나아 레존 데에토루",
+          "translation": "있잖아, 존재 이유"
+        },
+        {
+          "number": 27,
+          "original": "今はまだ見えなくて　[いいだろう？]",
+          "pronunciation": "이마와 마다 미에나쿠테 [이이다로오?]",
+          "translation": "지금은 아직 보이지 않아도 [괜찮잖아?]"
+        },
+        {
+          "number": 28,
+          "original": "たかが○○○nm(数百ナノ)の",
+          "pronunciation": "타카가 스우햐쿠 나노노",
+          "translation": "고작 수백 나노미터의"
+        },
+        {
+          "number": 29,
+          "original": "この可視光で",
+          "pronunciation": "코노 카시코오데",
+          "translation": "이 가시광선으로"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 30,
+          "original": "擦った　トーラス状",
+          "pronunciation": "코슷타 토오라스조오",
+          "translation": "문질러진 고리 모양"
+        },
+        {
+          "number": 31,
+          "original": "今は　この空白を　[味わって]",
+          "pronunciation": "이마와 코노 쿠우하쿠오 [아지왓테]",
+          "translation": "지금은 이 공백을 [음미하며]"
+        },
+        {
+          "number": 32,
+          "original": "ただ満ちるものに",
+          "pronunciation": "타다 미치루 모노니",
+          "translation": "그저 차오르는 것에"
+        },
+        {
+          "number": 33,
+          "original": "この身委ね　走り続けてく",
+          "pronunciation": "코노 미 유다네 하시리츠즈케테쿠",
+          "translation": "이 몸을 맡기고 계속 달려가"
+        },
+        {
+          "number": 34,
+          "original": "甘ったるい衝動と",
+          "pronunciation": "아맛타루이 쇼오도오토",
+          "translation": "지나치게 달콤한 충동과"
+        },
+        {
+          "number": 35,
+          "original": "未完成のこの世界",
+          "pronunciation": "미칸세이노 코노 세카이",
+          "translation": "미완성인 이 세상"
+        },
+        {
+          "number": 36,
+          "original": "聞こえてる？",
+          "pronunciation": "키코에테루?",
+          "translation": "들리고 있어?"
+        },
+        {
+          "number": 37,
+          "original": "HELLO",
+          "pronunciation": "헬로",
+          "translation": "안녕"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-06",
+  "albumId": "laca-25301",
+  "trackNumber": 6,
+  "title": "ワタシグラビティ",
+  "vocal": "芹沢あさひ",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/ワタシグラビティ.txt",
+    "sha256": "17048ea7ce1e44b69d20629753567204a48459ea1a86fbe623ee85e98154ed09",
+    "originalFile": "laca-25301-06.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "わかる／かわる／がわる는 소리의 반복을 살려 '알아, 변해, 번갈아'로 옮겼습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 2,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 3,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 4,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "ふわりふわり",
+          "pronunciation": "후와리 후와리",
+          "translation": "둥실둥실"
+        },
+        {
+          "number": 6,
+          "original": "浮いてく　キミの声",
+          "pronunciation": "우이테쿠 키미노 코에",
+          "translation": "떠오르는 너의 목소리"
+        },
+        {
+          "number": 7,
+          "original": "電波みたい",
+          "pronunciation": "덴파 미타이",
+          "translation": "전파 같아"
+        },
+        {
+          "number": 8,
+          "original": "近づいて",
+          "pronunciation": "치카즈이테",
+          "translation": "가까이 다가와"
+        },
+        {
+          "number": 9,
+          "original": "ワク、ワク、とき、めき、",
+          "pronunciation": "와쿠 와쿠 토키 메키",
+          "translation": "두근, 두근, 설, 렘"
+        },
+        {
+          "number": 10,
+          "original": "ねえ、聞こえる？",
+          "pronunciation": "네에 키코에루?",
+          "translation": "있지, 들리니?"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 11,
+          "original": "まだ知らないリズム",
+          "pronunciation": "마다 시라나이 리즈무",
+          "translation": "아직 모르는 리듬"
+        },
+        {
+          "number": 12,
+          "original": "よくばりなハート　ノック、ノック",
+          "pronunciation": "요쿠바리나 하아토 놋쿠 놋쿠",
+          "translation": "욕심 많은 마음에 똑똑"
+        },
+        {
+          "number": 13,
+          "original": "重力より先に",
+          "pronunciation": "주우료쿠요리 사키니",
+          "translation": "중력보다 먼저"
+        },
+        {
+          "number": 14,
+          "original": "ワタシをひっぱるのはキミ",
+          "pronunciation": "와타시오 힛파루노와 키미",
+          "translation": "나를 끌어당기는 건 너"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 15,
+          "original": "「惑星までショートカットしちゃお」",
+          "pronunciation": "와쿠세이마데 쇼오토캇토 시차오",
+          "translation": "“행성까지 지름길로 가 버리자”"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 16,
+          "original": "ワタシグラビティ",
+          "pronunciation": "와타시 구라비티",
+          "translation": "나라는 중력"
+        },
+        {
+          "number": 17,
+          "original": "キミの中心　まわる　おどる　リアル",
+          "pronunciation": "키미노 추우신 마와루 오도루 리아루",
+          "translation": "너를 중심으로 돌고 춤추는 현실"
+        },
+        {
+          "number": 18,
+          "original": "Eyesで合図",
+          "pronunciation": "아이즈데 아이즈",
+          "translation": "눈으로 보내는 신호"
+        },
+        {
+          "number": 19,
+          "original": "とびきりトリッキー",
+          "pronunciation": "토비키리 토릿키이",
+          "translation": "더없이 예측 불가"
+        },
+        {
+          "number": 20,
+          "original": "未来起動",
+          "pronunciation": "미라이 키도오",
+          "translation": "미래 가동"
+        },
+        {
+          "number": 21,
+          "original": "世界が更新",
+          "pronunciation": "세카이가 코오신",
+          "translation": "세상이 갱신돼"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 22,
+          "original": "ワタシグラビティ",
+          "pronunciation": "와타시 구라비티",
+          "translation": "나라는 중력"
+        },
+        {
+          "number": 23,
+          "original": "フィーリングでわかる　かわる　がわる",
+          "pronunciation": "휘이링구데 와카루 카와루 가와루",
+          "translation": "느낌으로 알아, 변해, 번갈아"
+        },
+        {
+          "number": 24,
+          "original": "ちゃんと見ててね、ちゃんと見ててね",
+          "pronunciation": "찬토 미테테네 찬토 미테테네",
+          "translation": "잘 보고 있어줘, 잘 보고 있어줘"
+        },
+        {
+          "number": 25,
+          "original": "ピンときたらもう",
+          "pronunciation": "핀토 키타라 모오",
+          "translation": "감이 오는 순간 벌써"
+        },
+        {
+          "number": 26,
+          "original": "ハート駆け出してく",
+          "pronunciation": "하아토 카케다시테쿠",
+          "translation": "마음이 달려 나가"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 27,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 28,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 29,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 30,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 31,
+          "original": "スワイプして。ほら、",
+          "pronunciation": "스와이푸시테 호라",
+          "translation": "화면을 넘겨 봐. 자,"
+        },
+        {
+          "number": 32,
+          "original": "ぱちぱち、綺麗",
+          "pronunciation": "파치파치 키레이",
+          "translation": "반짝반짝, 예뻐"
+        },
+        {
+          "number": 33,
+          "original": "どれもこれもホントの",
+          "pronunciation": "도레모 코레모 혼토노",
+          "translation": "이것도 저것도 모두 진짜"
+        },
+        {
+          "number": 34,
+          "original": "ワタシ",
+          "pronunciation": "와타시",
+          "translation": "나"
+        },
+        {
+          "number": 35,
+          "original": "キミだけに見せてあげるよ Ah",
+          "pronunciation": "키미다케니 미세테 아게루요 아",
+          "translation": "너에게만 보여줄게, 아"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 36,
+          "original": "重力無視で加速中",
+          "pronunciation": "주우료쿠 무시데 카소쿠추우",
+          "translation": "중력을 무시하며 가속 중"
+        },
+        {
+          "number": 37,
+          "original": "視界、鼓動",
+          "pronunciation": "시카이 코도오",
+          "translation": "시야, 심장박동"
+        },
+        {
+          "number": 38,
+          "original": "良好、上昇",
+          "pronunciation": "료오코오 조오쇼오",
+          "translation": "양호, 상승"
+        },
+        {
+          "number": 39,
+          "original": "瞳の奥、永久に",
+          "pronunciation": "히토미노 오쿠 에이큐우니",
+          "translation": "눈동자 깊은 곳에 영원히"
+        },
+        {
+          "number": 40,
+          "original": "きら、きら、天の川",
+          "pronunciation": "키라 키라 아마노가와",
+          "translation": "반짝, 반짝, 은하수"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 41,
+          "original": "「おにゅーなジブンに会いにいこうよ」",
+          "pronunciation": "오뉴우나 지분니 아이니 이코오요",
+          "translation": "“새로운 나를 만나러 가자”"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 42,
+          "original": "ワタシグラビティ",
+          "pronunciation": "와타시 구라비티",
+          "translation": "나라는 중력"
+        },
+        {
+          "number": 43,
+          "original": "想像叶う　まざる　まるで　カオス",
+          "pronunciation": "소오조오 카나우 마자루 마루데 카오스",
+          "translation": "상상이 이루어져, 뒤섞여, 마치 혼돈"
+        },
+        {
+          "number": 44,
+          "original": "夢がマーブル",
+          "pronunciation": "유메가 마아부루",
+          "translation": "꿈들이 마블 무늬를 이루고"
+        },
+        {
+          "number": 45,
+          "original": "しゅわっとサイダー",
+          "pronunciation": "슈왓토 사이다아",
+          "translation": "톡 쏘는 사이다"
+        },
+        {
+          "number": 46,
+          "original": "青い軌道",
+          "pronunciation": "아오이 키도오",
+          "translation": "푸른 궤도"
+        },
+        {
+          "number": 47,
+          "original": "無限の遊泳",
+          "pronunciation": "무겐노 유우에이",
+          "translation": "무한한 유영"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 48,
+          "original": "ワタシグラビティ",
+          "pronunciation": "와타시 구라비티",
+          "translation": "나라는 중력"
+        },
+        {
+          "number": 49,
+          "original": "うれしさの渦で",
+          "pronunciation": "우레시사노 우즈데",
+          "translation": "기쁨의 소용돌이 속에서"
+        },
+        {
+          "number": 50,
+          "original": "さみしさなんてもう",
+          "pronunciation": "사미시사난테 모오",
+          "translation": "외로움 따윈 이제"
+        },
+        {
+          "number": 51,
+          "original": "消えちゃうよ",
+          "pronunciation": "키에차우요",
+          "translation": "사라져 버려"
+        },
+        {
+          "number": 52,
+          "original": "どっかに消えちゃうよ",
+          "pronunciation": "돗카니 키에차우요",
+          "translation": "어딘가로 사라져 버려"
+        },
+        {
+          "number": 53,
+          "original": "キミってふしぎだね",
+          "pronunciation": "키밋테 후시기다네",
+          "translation": "너는 참 신기해"
+        },
+        {
+          "number": 54,
+          "original": "ひらめき　ほらMake it",
+          "pronunciation": "히라메키 호라 메이크 잇",
+          "translation": "번뜩임, 자, 이루어 봐"
+        },
+        {
+          "number": 55,
+          "original": "越えてくの",
+          "pronunciation": "코에테쿠노",
+          "translation": "넘어가는 거야"
+        },
+        {
+          "number": 56,
+          "original": "ねぇもっと先へ行こう",
+          "pronunciation": "네에 못토 사키에 이코오",
+          "translation": "있지, 더 앞으로 가자"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "lines": [
+        {
+          "number": 57,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 58,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 59,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        },
+        {
+          "number": 60,
+          "original": "Gravity to my world",
+          "pronunciation": "그래비티 투 마이 월드",
+          "translation": "내 세상으로 끌어당기는 중력"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "lines": [
+        {
+          "number": 61,
+          "original": "Link your signal _ beep beep beep",
+          "pronunciation": "링크 유어 시그널 비프 비프 비프",
+          "translation": "너의 신호를 연결해, 삐 삐 삐"
+        },
+        {
+          "number": 62,
+          "original": "Link your feeling _ feel feel feel",
+          "pronunciation": "링크 유어 필링 필 필 필",
+          "translation": "너의 감정을 연결해, 느껴, 느껴, 느껴"
+        }
+      ]
+    }
+  ]
+}

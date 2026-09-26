@@ -1,0 +1,397 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-02",
+  "albumId": "laca-25303",
+  "trackNumber": 2,
+  "title": "Lights on me",
+  "vocal": "白瀬咲耶",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Lights on me.txt",
+    "sha256": "7a7c59afc1f7db82285046a67adb1bc0fd7852b114591911dc0d53a842a57d6c",
+    "originalFile": "laca-25303-02.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "正解(こたえ)의 지정 읽기를 반영했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "相も変わらずに騒がしい街並み",
+          "pronunciation": "아이모 카와라즈니 사와가시이 마치나미",
+          "translation": "여전히 소란스러운 거리"
+        },
+        {
+          "number": 2,
+          "original": "並んだTraffic light　揃って変わるの",
+          "pronunciation": "나란다 트래픽 라이트 소롯테 카와루노",
+          "translation": "늘어선 신호등이 한꺼번에 바뀌어"
+        },
+        {
+          "number": 3,
+          "original": "瞳にスローで映ったような One scene",
+          "pronunciation": "히토미니 스로오데 우츳타 요오나 원 신",
+          "translation": "눈동자에 느리게 비친 듯한 한 장면"
+        },
+        {
+          "number": 4,
+          "original": "私だけが動けないまま",
+          "pronunciation": "와타시다케가 우고케나이 마마",
+          "translation": "나만 움직이지 못한 채"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "流れていく景色に置いてかれそうで",
+          "pronunciation": "나가레테이쿠 케시키니 오이테카레소오데",
+          "translation": "흘러가는 풍경에 뒤처질 것 같아"
+        },
+        {
+          "number": 6,
+          "original": "このままでいいのかなって",
+          "pronunciation": "코노 마마데 이이노카낫테",
+          "translation": "이대로 괜찮을까 하고"
+        },
+        {
+          "number": 7,
+          "original": "目を閉じ I'm asking to myself",
+          "pronunciation": "메오 토지 아임 애스킹 투 마이셀프",
+          "translation": "눈을 감고 나 자신에게 물어봐"
+        },
+        {
+          "number": 8,
+          "original": "きっとI will be alright",
+          "pronunciation": "킷토 아이 윌 비 올라이트",
+          "translation": "분명 난 괜찮을 거야"
+        },
+        {
+          "number": 9,
+          "original": "震え出しそうmy heart",
+          "pronunciation": "후루에다시소오 마이 하트",
+          "translation": "떨리기 시작할 듯한 내 마음"
+        },
+        {
+          "number": 10,
+          "original": "だからこそ今が",
+          "pronunciation": "다카라코소 이마가",
+          "translation": "그렇기에 바로 지금이"
+        },
+        {
+          "number": 11,
+          "original": "Yeah that's right",
+          "pronunciation": "예 댓츠 라이트",
+          "translation": "그래, 맞아"
+        },
+        {
+          "number": 12,
+          "original": "It's time to move on",
+          "pronunciation": "잇츠 타임 투 무브 온",
+          "translation": "앞으로 나아갈 때야"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 13,
+          "original": "Lights on me",
+          "pronunciation": "라이츠 온 미",
+          "translation": "나를 비추는 조명"
+        },
+        {
+          "number": 14,
+          "original": "終わらない映画みたい",
+          "pronunciation": "오와라나이 에이가 미타이",
+          "translation": "끝나지 않는 영화처럼"
+        },
+        {
+          "number": 15,
+          "original": "続いていくmy life",
+          "pronunciation": "츠즈이테이쿠 마이 라이프",
+          "translation": "이어지는 내 삶"
+        },
+        {
+          "number": 16,
+          "original": "スクリーンに映された",
+          "pronunciation": "스쿠리인니 우츠사레타",
+          "translation": "스크린에 비친"
+        },
+        {
+          "number": 17,
+          "original": "私はきっとヒロインなの",
+          "pronunciation": "와타시와 킷토 히로인나노",
+          "translation": "나는 분명 주인공이야"
+        },
+        {
+          "number": 18,
+          "original": "誰かのためじゃない",
+          "pronunciation": "다레카노 타메자 나이",
+          "translation": "다른 누군가를 위해서가 아니야"
+        },
+        {
+          "number": 19,
+          "original": "I do this for my dreams",
+          "pronunciation": "아이 두 디스 포 마이 드림즈",
+          "translation": "내 꿈을 위해 하는 거야"
+        },
+        {
+          "number": 20,
+          "original": "未来を見据えて",
+          "pronunciation": "미라이오 미스에테",
+          "translation": "미래를 똑바로 바라보며"
+        },
+        {
+          "number": 21,
+          "original": "I never wanna turn back",
+          "pronunciation": "아이 네버 워너 턴 백",
+          "translation": "절대 돌아가고 싶지 않아"
+        },
+        {
+          "number": 22,
+          "original": "涙流した記憶から笑い合った日々まで",
+          "pronunciation": "나미다 나가시타 키오쿠카라 와라이앗타 히비마데",
+          "translation": "눈물 흘린 기억부터 함께 웃었던 날들까지"
+        },
+        {
+          "number": 23,
+          "original": "すべてのDrama　意味を持つから",
+          "pronunciation": "스베테노 드라마 이미오 모츠카라",
+          "translation": "모든 이야기가 의미를 지니니까"
+        },
+        {
+          "number": 24,
+          "original": "Nothing is meaningless in my world",
+          "pronunciation": "너씽 이즈 미닝리스 인 마이 월드",
+          "translation": "내 세상에 의미 없는 것은 없어"
+        },
+        {
+          "number": 25,
+          "original": "私らしくありのままでいい",
+          "pronunciation": "와타시라시쿠 아리노 마마데 이이",
+          "translation": "나답게, 있는 그대로면 돼"
+        },
+        {
+          "number": 26,
+          "original": "想いを胸にLights on me",
+          "pronunciation": "오모이오 무네니 라이츠 온 미",
+          "translation": "마음을 가슴에 품고, 나를 비추는 조명"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 27,
+          "original": "日常のSay hello",
+          "pronunciation": "니치조오노 세이 헬로",
+          "translation": "일상 속의 안녕"
+        },
+        {
+          "number": 28,
+          "original": "突然のSay goodbye",
+          "pronunciation": "토츠젠노 세이 굿바이",
+          "translation": "갑작스러운 작별"
+        },
+        {
+          "number": 29,
+          "original": "心がいくつあっても足りなかった",
+          "pronunciation": "코코로가 이쿠츠 앗테모 타리나캇타",
+          "translation": "마음이 몇 개 있어도 모자랐어"
+        },
+        {
+          "number": 30,
+          "original": "着飾る言葉やまして正解(こたえ)なんて",
+          "pronunciation": "키카자루 코토바야 마시테 코타에난테",
+          "translation": "꾸며낸 말이나, 더구나 정답 같은 건"
+        },
+        {
+          "number": 31,
+          "original": "必要じゃないことに気付いたわ",
+          "pronunciation": "히츠요오자 나이 코토니 키즈이타와",
+          "translation": "필요 없다는 걸 깨달았어"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 32,
+          "original": "あの時こうしてたらどうなったの",
+          "pronunciation": "아노 토키 코오시테타라 도오낫타노",
+          "translation": "그때 이렇게 했다면 어떻게 됐을까"
+        },
+        {
+          "number": 33,
+          "original": "タラレバ言って庇ってないで Oh",
+          "pronunciation": "타라레바 잇테 카밧테나이데 오",
+          "translation": "만약만 늘어놓으며 자신을 감싸지 마, 오"
+        },
+        {
+          "number": 34,
+          "original": "(Hah) 見たい未来だけを思いきり描きたい",
+          "pronunciation": "(하) 미타이 미라이다케오 오모이키리 에가키타이",
+          "translation": "(하) 보고 싶은 미래만 마음껏 그리고 싶어"
+        },
+        {
+          "number": 35,
+          "original": "そう感じた One special day",
+          "pronunciation": "소오 칸지타 원 스페셜 데이",
+          "translation": "그렇게 느꼈던 특별한 하루"
+        },
+        {
+          "number": 36,
+          "original": "Here I go",
+          "pronunciation": "히어 아이 고",
+          "translation": "자, 이제 갈게"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 37,
+          "original": "Lights on me",
+          "pronunciation": "라이츠 온 미",
+          "translation": "나를 비추는 조명"
+        },
+        {
+          "number": 38,
+          "original": "さっき見た映画なら",
+          "pronunciation": "삿키 미타 에이가나라",
+          "translation": "아까 본 영화라면"
+        },
+        {
+          "number": 39,
+          "original": "巻き戻せるけど",
+          "pronunciation": "마키모도세루케도",
+          "translation": "되감을 수 있지만"
+        },
+        {
+          "number": 40,
+          "original": "今この瞬間だけは",
+          "pronunciation": "이마 코노 슌칸다케와",
+          "translation": "지금 이 순간만은"
+        },
+        {
+          "number": 41,
+          "original": "二度と巡り会えないから",
+          "pronunciation": "니도토 메구리아에나이카라",
+          "translation": "두 번 다시 만날 수 없으니까"
+        },
+        {
+          "number": 42,
+          "original": "ちゃんと焼き付けたい",
+          "pronunciation": "찬토 야키츠케타이",
+          "translation": "확실하게 새겨두고 싶어"
+        },
+        {
+          "number": 43,
+          "original": "All for my memories",
+          "pronunciation": "올 포 마이 메모리즈",
+          "translation": "모두 내 추억을 위해"
+        },
+        {
+          "number": 44,
+          "original": "過去も連れて明日へ",
+          "pronunciation": "카코모 츠레테 아시타에",
+          "translation": "과거도 데리고 내일로"
+        },
+        {
+          "number": 45,
+          "original": "I will never turn back",
+          "pronunciation": "아이 윌 네버 턴 백",
+          "translation": "절대로 뒤돌아가지 않을 거야"
+        },
+        {
+          "number": 46,
+          "original": "出逢いや別れ何度も繰り返すシナリオは",
+          "pronunciation": "데아이야 와카레 난도모 쿠리카에스 시나리오와",
+          "translation": "만남과 이별을 몇 번이고 반복하는 시나리오는"
+        },
+        {
+          "number": 47,
+          "original": "私だけに用意された",
+          "pronunciation": "와타시다케니 요오이사레타",
+          "translation": "오직 나만을 위해 준비된"
+        },
+        {
+          "number": 48,
+          "original": "Such a special story just for me",
+          "pronunciation": "서치 어 스페셜 스토리 저스트 포 미",
+          "translation": "오직 나만의 아주 특별한 이야기"
+        },
+        {
+          "number": 49,
+          "original": "涙しても強くなれるよ",
+          "pronunciation": "나미다시테모 츠요쿠 나레루요",
+          "translation": "눈물 흘려도 강해질 수 있어"
+        },
+        {
+          "number": 50,
+          "original": "想いを胸に Lights on me",
+          "pronunciation": "오모이오 무네니 라이츠 온 미",
+          "translation": "마음을 가슴에 품고, 나를 비추는 조명"
+        },
+        {
+          "number": 51,
+          "original": "(Now I stand, Lights on me)",
+          "pronunciation": "(나우 아이 스탠드 라이츠 온 미)",
+          "translation": "(이제 내가 서 있어, 조명이 나를 비춰)"
+        },
+        {
+          "number": 52,
+          "original": "Oh woah oh oh oh",
+          "pronunciation": "오 워 오 오 오",
+          "translation": "오 워 오 오 오"
+        },
+        {
+          "number": 53,
+          "original": "(Now I stand, Lights on me)",
+          "pronunciation": "(나우 아이 스탠드 라이츠 온 미)",
+          "translation": "(이제 내가 서 있어, 조명이 나를 비춰)"
+        },
+        {
+          "number": 54,
+          "original": "Oh woah oh oh oh",
+          "pronunciation": "오 워 오 오 오",
+          "translation": "오 워 오 오 오"
+        },
+        {
+          "number": 55,
+          "original": "想いを胸にLights on me",
+          "pronunciation": "오모이오 무네니 라이츠 온 미",
+          "translation": "마음을 가슴에 품고, 나를 비추는 조명"
+        },
+        {
+          "number": 56,
+          "original": "願いを込めてLights on me",
+          "pronunciation": "네가이오 코메테 라이츠 온 미",
+          "translation": "소원을 담아, 나를 비추는 조명"
+        }
+      ]
+    }
+  ]
+}

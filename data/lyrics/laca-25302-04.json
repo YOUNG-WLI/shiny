@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-04",
+  "albumId": "laca-25302",
+  "trackNumber": 4,
+  "title": "カラースプレーとうさぎさん",
+  "vocal": "幽谷霧子",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/カラースプレーとうさぎさん.txt",
+    "sha256": "ae91d74dea85b86c95d06c50d7439b884d07ea687ebc639aea93ccfa9305d84c",
+    "originalFile": "laca-25302-04.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "カラースプレー는 제과용 색색의 스프링클로 해석했습니다.",
+    "箱庭(ガーデン)은 ガーデン으로, 熱る는 ほてる로 읽었습니다. 후자는 음원 확인이 필요합니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "七色の生地が　おいしそうで好き",
+          "pronunciation": "나나이로노 키지가 오이시소오데 스키",
+          "translation": "일곱 빛깔 반죽이 맛있어 보여서 좋아"
+        },
+        {
+          "number": 2,
+          "original": "ふわふわのドレス　素敵　おどろき",
+          "pronunciation": "후와후와노 도레스 스테키 오도로키",
+          "translation": "하늘하늘한 드레스, 멋져, 놀라워"
+        },
+        {
+          "number": 3,
+          "original": "アイシングすれば気持ちいい",
+          "pronunciation": "아이싱구스레바 키모치 이이",
+          "translation": "아이싱을 하면 기분이 좋아"
+        },
+        {
+          "number": 4,
+          "original": "なんだってあり　楽しいおしゃべり",
+          "pronunciation": "난닷테 아리 타노시이 오샤베리",
+          "translation": "뭐든 좋아, 즐거운 수다"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "朝も昼も夜も　それ以外でも",
+          "pronunciation": "아사모 히루모 요루모 소레 이가이데모",
+          "translation": "아침에도 낮에도 밤에도, 그 밖의 시간에도"
+        },
+        {
+          "number": 6,
+          "original": "レポートもタブレットも順調",
+          "pronunciation": "레포오토모 타부렛토모 준초오",
+          "translation": "리포트도 태블릿도 순조로워"
+        },
+        {
+          "number": 7,
+          "original": "女の子たちは器用　でも",
+          "pronunciation": "온나노코타치와 키요오 데모",
+          "translation": "여자아이들은 재주가 많아, 하지만"
+        },
+        {
+          "number": 8,
+          "original": "寝る前に飲んでる　ビタミンB",
+          "pronunciation": "네루 마에니 논데루 비타민 비이",
+          "translation": "자기 전에 챙겨 먹는 비타민 B"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 9,
+          "original": "一緒ならいつも強くなれるし",
+          "pronunciation": "잇쇼나라 이츠모 츠요쿠 나레루시",
+          "translation": "함께라면 언제나 강해질 수 있고"
+        },
+        {
+          "number": 10,
+          "original": "本能のままに自由になるし",
+          "pronunciation": "혼노오노 마마니 지유우니 나루시",
+          "translation": "본능대로 자유로워지고"
+        },
+        {
+          "number": 11,
+          "original": "カフェテリアだけど　それも忘れちゃうほど",
+          "pronunciation": "카페테리아다케도 소레모 와스레차우 호도",
+          "translation": "여긴 카페테리아지만 그것마저 잊어버릴 만큼"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 12,
+          "original": "カラースプレーとうさぎさん",
+          "pronunciation": "카라아 스푸레에토 우사기상",
+          "translation": "컬러 스프링클과 토끼 씨"
+        },
+        {
+          "number": 13,
+          "original": "こら　しっぽを掴んだら",
+          "pronunciation": "코라 싯포오 츠칸다라",
+          "translation": "이봐, 꼬리를 붙잡으면"
+        },
+        {
+          "number": 14,
+          "original": "あの　うるさい目覚ましが",
+          "pronunciation": "아노 우루사이 메자마시가",
+          "translation": "저 시끄러운 알람이"
+        },
+        {
+          "number": 15,
+          "original": "響き　渡る　迷路",
+          "pronunciation": "히비키 와타루 메이로",
+          "translation": "울려 퍼지는 미로"
+        },
+        {
+          "number": 16,
+          "original": "まだ　帰りたくないんだ",
+          "pronunciation": "마다 카에리타쿠 나인다",
+          "translation": "아직 돌아가고 싶지 않아"
+        },
+        {
+          "number": 17,
+          "original": "まだ　夢をみていたいな",
+          "pronunciation": "마다 유메오 미테이타이나",
+          "translation": "아직 꿈꾸고 싶어"
+        },
+        {
+          "number": 18,
+          "original": "ほら　チョコレートアイスが",
+          "pronunciation": "호라 초코레에토 아이스가",
+          "translation": "봐, 초콜릿 아이스크림이"
+        },
+        {
+          "number": 19,
+          "original": "溶ける　溶ける　溶けるよ",
+          "pronunciation": "토케루 토케루 토케루요",
+          "translation": "녹아, 녹아, 녹고 있어"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 20,
+          "original": "溶ける　溶ける　溶ける..",
+          "pronunciation": "토케루 토케루 토케루",
+          "translation": "녹아, 녹아, 녹아…"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 21,
+          "original": "宇宙と交信　途中で放心　熱る",
+          "pronunciation": "우추우토 코오신 토추우데 호오신 호테루",
+          "translation": "우주와 교신, 도중에 넋을 잃고 달아올라"
+        },
+        {
+          "number": 22,
+          "original": "暴れる　好奇心　可愛いの",
+          "pronunciation": "아바레루 코오키신 카와이이노",
+          "translation": "날뛰는 호기심, 귀여워"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 23,
+          "original": "今日は泣いちゃう　明日は食べちゃう",
+          "pronunciation": "쿄오와 나이차우 아시타와 타베차우",
+          "translation": "오늘은 울어버리고 내일은 먹어버려"
+        },
+        {
+          "number": 24,
+          "original": "青い春の海　雛は歌うたい",
+          "pronunciation": "아오이 하루노 우미 히나와 우타우타이",
+          "translation": "푸른 봄의 바다, 어린 새는 노래해"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 25,
+          "original": "溺れてみたい　溺れていたい",
+          "pronunciation": "오보레테미타이 오보레테이타이",
+          "translation": "빠져보고 싶어, 빠져 있고 싶어"
+        },
+        {
+          "number": 26,
+          "original": "ずっとずっとこのままならいい",
+          "pronunciation": "즛토 즛토 코노 마마나라 이이",
+          "translation": "계속 계속 이대로라면 좋겠어"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 27,
+          "original": "チェリーフレーバーの猫さん",
+          "pronunciation": "체리이 후레에바아노 네코상",
+          "translation": "체리 향의 고양이 씨"
+        },
+        {
+          "number": 28,
+          "original": "いや　なぞなぞはもうダメ",
+          "pronunciation": "이야 나조나조와 모오 다메",
+          "translation": "아니, 수수께끼는 이제 그만"
+        },
+        {
+          "number": 29,
+          "original": "その　足跡の行方は",
+          "pronunciation": "소노 아시아토노 유쿠에와",
+          "translation": "그 발자국이 향하는 곳은"
+        },
+        {
+          "number": 30,
+          "original": "薔薇が　残る　箱庭(ガーデン)",
+          "pronunciation": "바라가 노코루 가아덴",
+          "translation": "장미가 남아 있는 작은 정원"
+        },
+        {
+          "number": 31,
+          "original": "まだ　帰りたくないんだ",
+          "pronunciation": "마다 카에리타쿠 나인다",
+          "translation": "아직 돌아가고 싶지 않아"
+        },
+        {
+          "number": 32,
+          "original": "まだ　夢をみていたいな",
+          "pronunciation": "마다 유메오 미테이타이나",
+          "translation": "아직 꿈꾸고 싶어"
+        },
+        {
+          "number": 33,
+          "original": "ほら　ホイップクリームが",
+          "pronunciation": "호라 호잇푸 쿠리이무가",
+          "translation": "봐, 휘핑크림이"
+        },
+        {
+          "number": 34,
+          "original": "へたる　へたる　へたるよ",
+          "pronunciation": "헤타루 헤타루 헤타루요",
+          "translation": "꺼져, 꺼져, 주저앉고 있어"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 35,
+          "original": "へたる　へたる　へたる..夢",
+          "pronunciation": "헤타루 헤타루 헤타루 유메",
+          "translation": "꺼져, 꺼져, 꺼져… 꿈"
+        },
+        {
+          "number": 36,
+          "original": "溶ける　溶ける　溶ける..甘く",
+          "pronunciation": "토케루 토케루 토케루 아마쿠",
+          "translation": "녹아, 녹아, 녹아… 달콤하게"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 37,
+          "original": "カラースプレーとうさぎさん",
+          "pronunciation": "카라아 스푸레에토 우사기상",
+          "translation": "컬러 스프링클과 토끼 씨"
+        },
+        {
+          "number": 38,
+          "original": "こら　しっぽを掴んだら",
+          "pronunciation": "코라 싯포오 츠칸다라",
+          "translation": "이봐, 꼬리를 붙잡으면"
+        },
+        {
+          "number": 39,
+          "original": "あの　うるさい目覚ましが",
+          "pronunciation": "아노 우루사이 메자마시가",
+          "translation": "저 시끄러운 알람이"
+        },
+        {
+          "number": 40,
+          "original": "響き　渡る　迷路",
+          "pronunciation": "히비키 와타루 메이로",
+          "translation": "울려 퍼지는 미로"
+        },
+        {
+          "number": 41,
+          "original": "まだ　帰りたくないんだ",
+          "pronunciation": "마다 카에리타쿠 나인다",
+          "translation": "아직 돌아가고 싶지 않아"
+        },
+        {
+          "number": 42,
+          "original": "まだ　夢をみていたいな",
+          "pronunciation": "마다 유메오 미테이타이나",
+          "translation": "아직 꿈꾸고 싶어"
+        },
+        {
+          "number": 43,
+          "original": "ほら　チョコレートアイスが",
+          "pronunciation": "호라 초코레에토 아이스가",
+          "translation": "봐, 초콜릿 아이스크림이"
+        },
+        {
+          "number": 44,
+          "original": "溶ける　溶ける　溶けるよ",
+          "pronunciation": "토케루 토케루 토케루요",
+          "translation": "녹아, 녹아, 녹고 있어"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 45,
+          "original": "へたる　へたる　へたる..",
+          "pronunciation": "헤타루 헤타루 헤타루",
+          "translation": "꺼져, 꺼져, 꺼져…"
+        }
+      ]
+    }
+  ]
+}

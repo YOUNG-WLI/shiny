@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.tools/
+.artifacts/
+dist/
+songs.js
+_verify.html
+.env
+.env.*
+.openai/

@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-09",
+  "albumId": "laca-25303",
+  "trackNumber": 9,
+  "title": "Unstoppable",
+  "vocal": "七草にちか",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Unstoppable.txt",
+    "sha256": "0d14498f63f10c6085c29056ca6cf869fb539ab099490e21aaa61083fcc76914",
+    "originalFile": "laca-25303-09.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "Without brakes",
+          "pronunciation": "위다웃 브레이크스",
+          "translation": "브레이크 없이"
+        },
+        {
+          "number": 2,
+          "original": "My own way",
+          "pronunciation": "마이 오운 웨이",
+          "translation": "나만의 길"
+        },
+        {
+          "number": 3,
+          "original": "Nothing at all holding me back",
+          "pronunciation": "너씽 앳 올 홀딩 미 백",
+          "translation": "무엇도 날 붙잡을 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 4,
+          "original": "Without brakes",
+          "pronunciation": "위다웃 브레이크스",
+          "translation": "브레이크 없이"
+        },
+        {
+          "number": 5,
+          "original": "Don't escape",
+          "pronunciation": "돈트 이스케이프",
+          "translation": "도망치지 마"
+        },
+        {
+          "number": 6,
+          "original": "Nothing at all holding me back",
+          "pronunciation": "너씽 앳 올 홀딩 미 백",
+          "translation": "무엇도 날 붙잡을 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 7,
+          "original": "不可能とか限界は",
+          "pronunciation": "후카노오토카 겐카이와",
+          "translation": "불가능이나 한계는"
+        },
+        {
+          "number": 8,
+          "original": "ハナから持ち合わせてない",
+          "pronunciation": "하나카라 모치아와세테나이",
+          "translation": "애초부터 갖고 있지 않아"
+        },
+        {
+          "number": 9,
+          "original": "どんな困難も超えていく",
+          "pronunciation": "돈나 콘난모 코에테이쿠",
+          "translation": "어떤 어려움도 넘어갈 거야"
+        },
+        {
+          "number": 10,
+          "original": "覚悟ならブレないわ",
+          "pronunciation": "카쿠고나라 부레나이와",
+          "translation": "각오라면 흔들리지 않아"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 11,
+          "original": "誰かのルールに興味はないから",
+          "pronunciation": "다레카노 루우루니 쿄오미와 나이카라",
+          "translation": "다른 누군가의 규칙에는 관심 없으니까"
+        },
+        {
+          "number": 12,
+          "original": "I wanna be free",
+          "pronunciation": "아이 워너 비 프리",
+          "translation": "자유롭고 싶어"
+        },
+        {
+          "number": 13,
+          "original": "また駆け出していく",
+          "pronunciation": "마타 카케다시테이쿠",
+          "translation": "다시 달려 나가"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 14,
+          "original": "私なら Here I come",
+          "pronunciation": "와타시나라 히어 아이 컴",
+          "translation": "나라면, 지금 간다"
+        },
+        {
+          "number": 15,
+          "original": "憧れは手放すの",
+          "pronunciation": "아코가레와 테바나스노",
+          "translation": "동경은 놓아줄 거야"
+        },
+        {
+          "number": 16,
+          "original": "確かめて Feel my heart",
+          "pronunciation": "타시카메테 필 마이 하트",
+          "translation": "확인해 봐, 내 마음을 느껴"
+        },
+        {
+          "number": 17,
+          "original": "着飾らずありのままでいい",
+          "pronunciation": "키카자라즈 아리노 마마데 이이",
+          "translation": "꾸미지 않고 있는 그대로면 돼"
+        },
+        {
+          "number": 18,
+          "original": "がむしゃらでも進む my way",
+          "pronunciation": "가무샤라데모 스스무 마이 웨이",
+          "translation": "무작정이어도 나아가, 나의 길을"
+        },
+        {
+          "number": 19,
+          "original": "迷わないから I am unstoppable",
+          "pronunciation": "마요와나이카라 아이 앰 언스토퍼블",
+          "translation": "망설이지 않으니까, 날 멈출 수 없어"
+        },
+        {
+          "number": 20,
+          "original": "Don't stop at all",
+          "pronunciation": "돈트 스톱 앳 올",
+          "translation": "조금도 멈추지 마"
+        },
+        {
+          "number": 21,
+          "original": "Unstoppable",
+          "pronunciation": "언스토퍼블",
+          "translation": "멈출 수 없어"
+        },
+        {
+          "number": 22,
+          "original": "Don't stop at all",
+          "pronunciation": "돈트 스톱 앳 올",
+          "translation": "조금도 멈추지 마"
+        },
+        {
+          "number": 23,
+          "original": "Unstoppable",
+          "pronunciation": "언스토퍼블",
+          "translation": "멈출 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 24,
+          "original": "正しい道か分からない",
+          "pronunciation": "타다시이 미치카 와카라나이",
+          "translation": "옳은 길인지 모르겠어"
+        },
+        {
+          "number": 25,
+          "original": "頭で考えてるより",
+          "pronunciation": "아타마데 캉가에테루요리",
+          "translation": "머리로 생각만 하기보다"
+        },
+        {
+          "number": 26,
+          "original": "強みや武器はなくても",
+          "pronunciation": "츠요미야 부키와 나쿠테모",
+          "translation": "강점이나 무기가 없어도"
+        },
+        {
+          "number": 27,
+          "original": "進み続けていくの",
+          "pronunciation": "스스미츠즈케테이쿠노",
+          "translation": "계속 나아갈 거야"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 28,
+          "original": "傷つかないための言い訳なら",
+          "pronunciation": "키즈츠카나이 타메노 이이와케나라",
+          "translation": "상처받지 않으려는 변명이라면"
+        },
+        {
+          "number": 29,
+          "original": "Now I don't need it",
+          "pronunciation": "나우 아이 돈트 니드 잇",
+          "translation": "이제 필요 없어"
+        },
+        {
+          "number": 30,
+          "original": "後悔しないように",
+          "pronunciation": "코오카이시나이 요오니",
+          "translation": "후회하지 않도록"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 31,
+          "original": "無意味でしょ Slow me down",
+          "pronunciation": "무이미데쇼 슬로우 미 다운",
+          "translation": "날 늦추려 해도 소용없잖아"
+        },
+        {
+          "number": 32,
+          "original": "向かい風さえ巻き込んで",
+          "pronunciation": "무카이카제사에 마키콘데",
+          "translation": "맞바람마저 끌어들여"
+        },
+        {
+          "number": 33,
+          "original": "この場所で Show it now",
+          "pronunciation": "코노 바쇼데 쇼 잇 나우",
+          "translation": "이곳에서 지금 보여줘"
+        },
+        {
+          "number": 34,
+          "original": "正解はひとつだけじゃない",
+          "pronunciation": "세이카이와 히토츠다케자 나이",
+          "translation": "정답은 하나만 있는 게 아니야"
+        },
+        {
+          "number": 35,
+          "original": "泥だらけで描くnew day",
+          "pronunciation": "도로다라케데 에가쿠 뉴 데이",
+          "translation": "진흙투성이로 그리는 새로운 날"
+        },
+        {
+          "number": 36,
+          "original": "恐れないから I am unstoppable",
+          "pronunciation": "오소레나이카라 아이 앰 언스토퍼블",
+          "translation": "두렵지 않으니까, 날 멈출 수 없어"
+        },
+        {
+          "number": 37,
+          "original": "Don't stop at all",
+          "pronunciation": "돈트 스톱 앳 올",
+          "translation": "조금도 멈추지 마"
+        },
+        {
+          "number": 38,
+          "original": "Don't stop at all",
+          "pronunciation": "돈트 스톱 앳 올",
+          "translation": "조금도 멈추지 마"
+        },
+        {
+          "number": 39,
+          "original": "Unstoppable",
+          "pronunciation": "언스토퍼블",
+          "translation": "멈출 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 40,
+          "original": "私なら Here I come",
+          "pronunciation": "와타시나라 히어 아이 컴",
+          "translation": "나라면, 지금 간다"
+        },
+        {
+          "number": 41,
+          "original": "憧れた未来を今",
+          "pronunciation": "아코가레타 미라이오 이마",
+          "translation": "동경하던 미래를 지금"
+        },
+        {
+          "number": 42,
+          "original": "確かめて Feel my world",
+          "pronunciation": "타시카메테 필 마이 월드",
+          "translation": "확인해 봐, 내 세상을 느껴"
+        },
+        {
+          "number": 43,
+          "original": "私らしく歩いているわ",
+          "pronunciation": "와타시라시쿠 아루이테이루와",
+          "translation": "나답게 걸어가고 있어"
+        },
+        {
+          "number": 44,
+          "original": "踏み出す一歩さらに前へ",
+          "pronunciation": "후미다스 잇포 사라니 마에에",
+          "translation": "내딛는 한 걸음, 더 앞으로"
+        },
+        {
+          "number": 45,
+          "original": "終わらないから I am unstoppable",
+          "pronunciation": "오와라나이카라 아이 앰 언스토퍼블",
+          "translation": "끝나지 않으니까, 날 멈출 수 없어"
+        },
+        {
+          "number": 46,
+          "original": "Don't stop at all",
+          "pronunciation": "돈트 스톱 앳 올",
+          "translation": "조금도 멈추지 마"
+        },
+        {
+          "number": 47,
+          "original": "Unstoppable",
+          "pronunciation": "언스토퍼블",
+          "translation": "멈출 수 없어"
+        },
+        {
+          "number": 48,
+          "original": "Don't stop at all",
+          "pronunciation": "돈트 스톱 앳 올",
+          "translation": "조금도 멈추지 마"
+        },
+        {
+          "number": 49,
+          "original": "Unstoppable",
+          "pronunciation": "언스토퍼블",
+          "translation": "멈출 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 50,
+          "original": "Without brakes",
+          "pronunciation": "위다웃 브레이크스",
+          "translation": "브레이크 없이"
+        },
+        {
+          "number": 51,
+          "original": "My own way",
+          "pronunciation": "마이 오운 웨이",
+          "translation": "나만의 길"
+        },
+        {
+          "number": 52,
+          "original": "Nothing at all holding me back",
+          "pronunciation": "너씽 앳 올 홀딩 미 백",
+          "translation": "무엇도 날 붙잡을 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 53,
+          "original": "Without brakes",
+          "pronunciation": "위다웃 브레이크스",
+          "translation": "브레이크 없이"
+        },
+        {
+          "number": 54,
+          "original": "Don't escape",
+          "pronunciation": "돈트 이스케이프",
+          "translation": "도망치지 마"
+        },
+        {
+          "number": 55,
+          "original": "Nothing at all holding me back",
+          "pronunciation": "너씽 앳 올 홀딩 미 백",
+          "translation": "무엇도 날 붙잡을 수 없어"
+        }
+      ]
+    }
+  ]
+}

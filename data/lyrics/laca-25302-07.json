@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-07",
+  "albumId": "laca-25302",
+  "trackNumber": 7,
+  "title": "Hold on me",
+  "vocal": "和泉愛依",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Hold on me.txt",
+    "sha256": "3fae7ab1248bc308a5a02b8bf9b7d7b87fddf3948d36a7767bba81154cdd639c",
+    "originalFile": "laca-25302-07.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "タッタッターラ　タララ　ララララ",
+          "pronunciation": "탓탓타아라 타라라 라라라라",
+          "translation": "탓탓타라 타라라 라라라라"
+        },
+        {
+          "number": 2,
+          "original": "タッタッタララ　タラララ　ララ",
+          "pronunciation": "탓탓타라라 타라라라 라라",
+          "translation": "탓탓타라라 타라라라 라라"
+        },
+        {
+          "number": 3,
+          "original": "ラタッターラ　タララ　ララララ　ラー",
+          "pronunciation": "라탓타아라 타라라 라라라라 라아",
+          "translation": "라탓타라 타라라 라라라라 라"
+        },
+        {
+          "number": 4,
+          "original": "Ah..",
+          "pronunciation": "아",
+          "translation": "아…"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "一日に何度も連絡くれたり",
+          "pronunciation": "이치니치니 난도모 렌라쿠 쿠레타리",
+          "translation": "하루에도 몇 번씩 연락해 주고"
+        },
+        {
+          "number": 6,
+          "original": "誰よりも近くでフォローしてくれたり",
+          "pronunciation": "다레요리모 치카쿠데 훠로오시테 쿠레타리",
+          "translation": "누구보다 가까이에서 챙겨주고"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 7,
+          "original": "どんなときも応援してくれて",
+          "pronunciation": "돈나 토키모 오오엔시테쿠레테",
+          "translation": "어떤 때든 응원해 주며"
+        },
+        {
+          "number": 8,
+          "original": "肯定してくれる",
+          "pronunciation": "코오테이시테쿠레루",
+          "translation": "나를 인정해 줘"
+        },
+        {
+          "number": 9,
+          "original": "とっても熱烈",
+          "pronunciation": "톳테모 네츠레츠",
+          "translation": "정말 열렬해"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 10,
+          "original": "まっすぐな愛とカタルシス",
+          "pronunciation": "맛스구나 아이토 카타루시스",
+          "translation": "곧은 사랑과 카타르시스"
+        },
+        {
+          "number": 11,
+          "original": "私が癒してあげよう",
+          "pronunciation": "와타시가 이야시테 아게요오",
+          "translation": "내가 위로해 줄게"
+        },
+        {
+          "number": 12,
+          "original": "ちゃんと解ってる　キミを",
+          "pronunciation": "찬토 와캇테루 키미오",
+          "translation": "잘 알고 있어, 너를"
+        },
+        {
+          "number": 13,
+          "original": "ちょっぴり行き過ぎちゃう感情も",
+          "pronunciation": "춋피리 이키스기차우 칸조오모",
+          "translation": "조금 지나쳐 버리는 감정도"
+        },
+        {
+          "number": 14,
+          "original": "度が過ぎちゃう行動も",
+          "pronunciation": "도가 스기차우 코오도오모",
+          "translation": "도를 넘는 행동도"
+        },
+        {
+          "number": 15,
+          "original": "受け入れてあげる",
+          "pronunciation": "우케이레테 아게루",
+          "translation": "받아줄게"
+        },
+        {
+          "number": 16,
+          "original": "そんな関係が大好き",
+          "pronunciation": "손나 칸케이가 다이스키",
+          "translation": "그런 관계가 정말 좋아"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 17,
+          "original": "メイク変えたらすぐ気づいてくれたり",
+          "pronunciation": "메이쿠 카에타라 스구 키즈이테쿠레타리",
+          "translation": "화장을 바꾸면 바로 알아봐 주고"
+        },
+        {
+          "number": 18,
+          "original": "新しい洋服褒めてくれたり",
+          "pronunciation": "아타라시이 요오후쿠 호메테쿠레타리",
+          "translation": "새 옷을 칭찬해 주고"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 19,
+          "original": "突然くれたプレゼント",
+          "pronunciation": "토츠젠 쿠레타 푸레젠토",
+          "translation": "갑자기 건넨 선물"
+        },
+        {
+          "number": 20,
+          "original": "どうして欲しいものが分かるんだろう？　不思議だな",
+          "pronunciation": "도오시테 호시이 모노가 와카룬다로오? 후시기다나",
+          "translation": "어떻게 내가 원하는 걸 알까? 신기해"
+        },
+        {
+          "number": 21,
+          "original": "怖いくらいの優しさ　若干強烈",
+          "pronunciation": "코와이 쿠라이노 야사시사 쟛칸 쿄오레츠",
+          "translation": "무서울 만큼 다정함, 조금은 강렬해"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 22,
+          "original": "空っぽな愛じゃクライシス",
+          "pronunciation": "카랏포나 아이자 쿠라이시스",
+          "translation": "텅 빈 사랑이라면 위기"
+        },
+        {
+          "number": 23,
+          "original": "私が満たしてあげよう",
+          "pronunciation": "와타시가 미타시테 아게요오",
+          "translation": "내가 채워줄게"
+        },
+        {
+          "number": 24,
+          "original": "かなり変わってる　キミの",
+          "pronunciation": "카나리 카왓테루 키미노",
+          "translation": "꽤나 독특한 너의"
+        },
+        {
+          "number": 25,
+          "original": "なんだか振り切れてる感覚と",
+          "pronunciation": "난다카 후리키레테루 칸카쿠토",
+          "translation": "어쩐지 한계를 넘은 감각과"
+        },
+        {
+          "number": 26,
+          "original": "型破りな表現が",
+          "pronunciation": "카타야부리나 효오겐가",
+          "translation": "틀을 깬 표현이"
+        },
+        {
+          "number": 27,
+          "original": "恋しくなってく",
+          "pronunciation": "코이시쿠 낫테쿠",
+          "translation": "그리워져"
+        },
+        {
+          "number": 28,
+          "original": "それが独特で病みつき",
+          "pronunciation": "소레가 도쿠토쿠데 야미츠키",
+          "translation": "그 독특함에 중독돼"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 29,
+          "original": "Hold on me",
+          "pronunciation": "홀드 온 미",
+          "translation": "나를 놓지 마"
+        },
+        {
+          "number": 30,
+          "original": "Hold on me",
+          "pronunciation": "홀드 온 미",
+          "translation": "나를 놓지 마"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 31,
+          "original": "まっすぐな愛とカタルシス",
+          "pronunciation": "맛스구나 아이토 카타루시스",
+          "translation": "곧은 사랑과 카타르시스"
+        },
+        {
+          "number": 32,
+          "original": "私が癒してあげよう",
+          "pronunciation": "와타시가 이야시테 아게요오",
+          "translation": "내가 위로해 줄게"
+        },
+        {
+          "number": 33,
+          "original": "ちゃんと解ってる　キミを",
+          "pronunciation": "찬토 와캇테루 키미오",
+          "translation": "잘 알고 있어, 너를"
+        },
+        {
+          "number": 34,
+          "original": "ちょっぴり行き過ぎちゃう感情も",
+          "pronunciation": "춋피리 이키스기차우 칸조오모",
+          "translation": "조금 지나쳐 버리는 감정도"
+        },
+        {
+          "number": 35,
+          "original": "度が過ぎちゃう行動も",
+          "pronunciation": "도가 스기차우 코오도오모",
+          "translation": "도를 넘는 행동도"
+        },
+        {
+          "number": 36,
+          "original": "受け入れてあげる",
+          "pronunciation": "우케이레테 아게루",
+          "translation": "받아줄게"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 37,
+          "original": "空っぽな愛じゃクライシス",
+          "pronunciation": "카랏포나 아이자 쿠라이시스",
+          "translation": "텅 빈 사랑이라면 위기"
+        },
+        {
+          "number": 38,
+          "original": "私が満たしてあげよう",
+          "pronunciation": "와타시가 미타시테 아게요오",
+          "translation": "내가 채워줄게"
+        },
+        {
+          "number": 39,
+          "original": "かなり変わってる　キミの",
+          "pronunciation": "카나리 카왓테루 키미노",
+          "translation": "꽤나 독특한 너의"
+        },
+        {
+          "number": 40,
+          "original": "なんだか振り切れてる感覚と",
+          "pronunciation": "난다카 후리키레테루 칸카쿠토",
+          "translation": "어쩐지 한계를 넘은 감각과"
+        },
+        {
+          "number": 41,
+          "original": "型破りな表現が",
+          "pronunciation": "카타야부리나 효오겐가",
+          "translation": "틀을 깬 표현이"
+        },
+        {
+          "number": 42,
+          "original": "恋しくなってく",
+          "pronunciation": "코이시쿠 낫테쿠",
+          "translation": "그리워져"
+        },
+        {
+          "number": 43,
+          "original": "それが独特で病みつき",
+          "pronunciation": "소레가 도쿠토쿠데 야미츠키",
+          "translation": "그 독특함에 중독돼"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 44,
+          "original": "離さないでいて　離さないからね",
+          "pronunciation": "하나사나이데 이테 하나사나이카라네",
+          "translation": "놓지 말아줘, 나도 놓지 않을 테니까"
+        },
+        {
+          "number": 45,
+          "original": "境界線はうやむやになって",
+          "pronunciation": "쿄오카이센와 우야무야니 낫테",
+          "translation": "경계선은 흐릿해지고"
+        },
+        {
+          "number": 46,
+          "original": "だけど、ね、大好きだよ",
+          "pronunciation": "다케도 네 다이스키다요",
+          "translation": "그렇지만, 있지, 정말 좋아해"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 47,
+          "original": "Haa...",
+          "pronunciation": "하아",
+          "translation": "하아…"
+        },
+        {
+          "number": 48,
+          "original": "Ah..",
+          "pronunciation": "아",
+          "translation": "아…"
+        }
+      ]
+    }
+  ]
+}

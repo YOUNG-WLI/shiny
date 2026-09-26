@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-07",
+  "albumId": "laca-25303",
+  "trackNumber": 7,
+  "title": "Paradox",
+  "vocal": "浅倉 透",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Paradox.txt",
+    "sha256": "89d638320d0b5d4c6090eb2d0c76ff40ab89c33fcdd42b649fb5a4c9ad079cfe",
+    "originalFile": "laca-25303-07.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "檻(こどく)는 '코도쿠'라는 지정 읽기를 따르고 번역에는 우리와 고독의 중의성을 반영했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "ポケットに　そっと忍ばせた",
+          "pronunciation": "포켓토니 솟토 시노바세타",
+          "translation": "주머니에 살며시 숨겨둔"
+        },
+        {
+          "number": 2,
+          "original": "黒い感情",
+          "pronunciation": "쿠로이 칸조오",
+          "translation": "검은 감정"
+        },
+        {
+          "number": 3,
+          "original": "端正な仮面の下に潜む",
+          "pronunciation": "탄세이나 카멘노 시타니 히소무",
+          "translation": "단정한 가면 아래 숨어 있는"
+        },
+        {
+          "number": 4,
+          "original": "冷めた視線",
+          "pronunciation": "사메타 시센",
+          "translation": "차가운 시선"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "ほら　得意げに",
+          "pronunciation": "호라 토쿠이게니",
+          "translation": "봐, 의기양양하게"
+        },
+        {
+          "number": 6,
+          "original": "また　嘘をつき",
+          "pronunciation": "마타 우소오 츠키",
+          "translation": "또 거짓말을 하고"
+        },
+        {
+          "number": 7,
+          "original": "ジレンマ",
+          "pronunciation": "지렌마",
+          "translation": "딜레마"
+        },
+        {
+          "number": 8,
+          "original": "偽善者気取り",
+          "pronunciation": "기젠샤 키도리",
+          "translation": "위선자 행세"
+        },
+        {
+          "number": 9,
+          "original": "頭の中　せせら笑う",
+          "pronunciation": "아타마노 나카 세세라와라우",
+          "translation": "머릿속에서 비웃는"
+        },
+        {
+          "number": 10,
+          "original": "醜いオマエは　だ・れ・だ",
+          "pronunciation": "미니쿠이 오마에와 다 레 다",
+          "translation": "추악한 너는 누·구·냐"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 11,
+          "original": "理性や　正気じゃ",
+          "pronunciation": "리세이야 쇼오키자",
+          "translation": "이성이나 제정신으로는"
+        },
+        {
+          "number": 12,
+          "original": "手懐けられない",
+          "pronunciation": "테나즈케라레나이",
+          "translation": "길들일 수 없는"
+        },
+        {
+          "number": 13,
+          "original": "ケダモノみたいな本性",
+          "pronunciation": "케다모노 미타이나 혼쇼오",
+          "translation": "짐승 같은 본성"
+        },
+        {
+          "number": 14,
+          "original": "(Monster)",
+          "pronunciation": "(몬스터)",
+          "translation": "(괴물)"
+        },
+        {
+          "number": 15,
+          "original": "鎖で　つながれ",
+          "pronunciation": "쿠사리데 츠나가레",
+          "translation": "사슬에 묶여"
+        },
+        {
+          "number": 16,
+          "original": "ジタバタしては怯えてる",
+          "pronunciation": "지타바타시테와 오비에테루",
+          "translation": "버둥거리다 겁에 질려"
+        },
+        {
+          "number": 17,
+          "original": "永遠に独りきり",
+          "pronunciation": "에이엔니 히토리키리",
+          "translation": "영원히 혼자"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 18,
+          "original": "「愛」「夢」「希望」",
+          "pronunciation": "아이 유메 키보오",
+          "translation": "‘사랑’ ‘꿈’ ‘희망’"
+        },
+        {
+          "number": 19,
+          "original": "綺麗なものは　敵に見えた",
+          "pronunciation": "키레이나 모노와 테키니 미에타",
+          "translation": "아름다운 것들은 적으로 보였어"
+        },
+        {
+          "number": 20,
+          "original": "魂が　唸り声を上げて",
+          "pronunciation": "타마시이가 우나리고에오 아게테",
+          "translation": "영혼이 으르렁거리며"
+        },
+        {
+          "number": 21,
+          "original": "暴れ出す",
+          "pronunciation": "아바레다스",
+          "translation": "날뛰기 시작해"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 22,
+          "original": "命の理由を",
+          "pronunciation": "이노치노 리유우오",
+          "translation": "살아가는 이유를"
+        },
+        {
+          "number": 23,
+          "original": "確かめるように",
+          "pronunciation": "타시카메루 요오니",
+          "translation": "확인하듯"
+        },
+        {
+          "number": 24,
+          "original": "激しく　胸を打つ鼓動",
+          "pronunciation": "하게시쿠 무네오 우츠 코도오",
+          "translation": "거세게 가슴을 때리는 고동"
+        },
+        {
+          "number": 25,
+          "original": "(Human)",
+          "pronunciation": "(휴먼)",
+          "translation": "(인간)"
+        },
+        {
+          "number": 26,
+          "original": "明日に憧れ",
+          "pronunciation": "아시타니 아코가레",
+          "translation": "내일을 동경하며"
+        },
+        {
+          "number": 27,
+          "original": "ただ　夢中で生きていたい",
+          "pronunciation": "타다 무추우데 이키테이타이",
+          "translation": "그저 열중하며 살아가고 싶어"
+        },
+        {
+          "number": 28,
+          "original": "自分を叫びたい",
+          "pronunciation": "지분오 사케비타이",
+          "translation": "나 자신을 외치고 싶어"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 29,
+          "original": "檻(こどく)に　囚われ",
+          "pronunciation": "코도쿠니 토라와레",
+          "translation": "고독이라는 우리에 갇혀"
+        },
+        {
+          "number": 30,
+          "original": "傷を舐めながら",
+          "pronunciation": "키즈오 나메나가라",
+          "translation": "상처를 핥으면서"
+        },
+        {
+          "number": 31,
+          "original": "それでも　今に喰らいつく",
+          "pronunciation": "소레데모 이마니 쿠라이츠쿠",
+          "translation": "그래도 지금을 물고 늘어져"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 32,
+          "original": "理性や　正気じゃ",
+          "pronunciation": "리세이야 쇼오키자",
+          "translation": "이성이나 제정신으로는"
+        },
+        {
+          "number": 33,
+          "original": "手懐けられない",
+          "pronunciation": "테나즈케라레나이",
+          "translation": "길들일 수 없는"
+        },
+        {
+          "number": 34,
+          "original": "ケダモノみたいな本性",
+          "pronunciation": "케다모노 미타이나 혼쇼오",
+          "translation": "짐승 같은 본성"
+        },
+        {
+          "number": 35,
+          "original": "(Monster)",
+          "pronunciation": "(몬스터)",
+          "translation": "(괴물)"
+        },
+        {
+          "number": 36,
+          "original": "溢れる　絶望",
+          "pronunciation": "아후레루 제츠보오",
+          "translation": "넘쳐나는 절망"
+        },
+        {
+          "number": 37,
+          "original": "完璧でいればいるほど",
+          "pronunciation": "칸페키데 이레바 이루호도",
+          "translation": "완벽하면 완벽할수록"
+        },
+        {
+          "number": 38,
+          "original": "堕ちてく　定めね",
+          "pronunciation": "오치테쿠 사다메네",
+          "translation": "추락하는 운명이구나"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 39,
+          "original": "自縄自縛",
+          "pronunciation": "지조오지바쿠",
+          "translation": "스스로 옭아맨 굴레"
+        },
+        {
+          "number": 40,
+          "original": "意味あるの？",
+          "pronunciation": "이미 아루노?",
+          "translation": "의미가 있어?"
+        },
+        {
+          "number": 41,
+          "original": "抵抗したとて",
+          "pronunciation": "테이코오시타토테",
+          "translation": "저항해 봤자"
+        },
+        {
+          "number": 42,
+          "original": "所詮　シャドーファイト",
+          "pronunciation": "쇼센 샤도오 화이토",
+          "translation": "결국 그림자와의 싸움"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 43,
+          "original": "チグハグな",
+          "pronunciation": "치구하구나",
+          "translation": "뒤죽박죽인"
+        },
+        {
+          "number": 44,
+          "original": "人間ごっこ",
+          "pronunciation": "닌겐곳코",
+          "translation": "인간 흉내"
+        },
+        {
+          "number": 45,
+          "original": "出口なき",
+          "pronunciation": "데구치나키",
+          "translation": "출구 없는"
+        },
+        {
+          "number": 46,
+          "original": "パラドックスだ",
+          "pronunciation": "파라돗쿠스다",
+          "translation": "역설이야"
+        }
+      ]
+    }
+  ]
+}

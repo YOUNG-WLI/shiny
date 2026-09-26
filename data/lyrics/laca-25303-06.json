@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-06",
+  "albumId": "laca-25303",
+  "trackNumber": 6,
+  "title": "ガガリズム",
+  "vocal": "黛 冬優子",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/ガガリズム.txt",
+    "sha256": "5ed83c581af6f6cf7aa685ddf3660b8e3e3bcdd01c40396e922967ae705072f6",
+    "originalFile": "laca-25303-06.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "SWSW/HRHR/DKDK는 문맥상 そわそわ/はらはら/どきどき로, Wanna Wanna는 わなわな의 말장난으로 가정했습니다. 음원 확인이 필요합니다.",
+    "恋心(ココロ)의 지정 읽기를 적용했습니다. 원문에서 두 줄에 걸친 괄호는 위치를 유지했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "教えて！キミはどう想ってるの？ねぇ白状して",
+          "pronunciation": "오시에테! 키미와 도오 오못테루노? 네에 하쿠조오시테",
+          "translation": "말해줘! 너는 어떻게 생각해? 자, 솔직히 털어놔"
+        },
+        {
+          "number": 2,
+          "original": "(たまらない　たまらない　たまらない　Addiction)",
+          "pronunciation": "(타마라나이 타마라나이 타마라나이 어딕션)",
+          "translation": "(참을 수 없어, 참을 수 없어, 참을 수 없어, 중독)"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 3,
+          "original": "(愛のプライド？)　そんなの捨ててよ　カッコつけてないで",
+          "pronunciation": "(아이노 푸라이도?) 손나노 스테테요 캇코츠케테나이데",
+          "translation": "(사랑의 자존심?) 그런 건 버려, 멋있는 척하지 말고"
+        },
+        {
+          "number": 4,
+          "original": "ちゃんと云わなくちゃダメ",
+          "pronunciation": "찬토 이와나쿠차 다메",
+          "translation": "제대로 말해야 해"
+        },
+        {
+          "number": 5,
+          "original": "(気になってんの)　バレてるからいいじゃん　我慢しなくていいの",
+          "pronunciation": "(키니 낫텐노) 바레테루카라 이이잔 가만시나쿠테 이이노",
+          "translation": "(신경 쓰고 있잖아) 다 들켰으니 괜찮잖아, 참지 않아도 돼"
+        },
+        {
+          "number": 6,
+          "original": "Shall we 解放　いっそのこと",
+          "pronunciation": "셸 위 카이호오 잇소노 코토",
+          "translation": "우리 해방될까, 차라리"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 7,
+          "original": "LoveかLikeか　そんなのどうでもいいじゃない？(じゃない)　本能に従って",
+          "pronunciation": "러브카 라이크카 손나노 도오데모 이이자 나이? (자 나이) 혼노오니 시타갓테",
+          "translation": "사랑인지 호감인지, 그런 건 상관없잖아? (그렇잖아) 본능을 따라"
+        },
+        {
+          "number": 8,
+          "original": "Don't Don't Don't stop　覚悟決めたら私を　捕まえて",
+          "pronunciation": "돈트 돈트 돈트 스톱 카쿠고 키메타라 와타시오 츠카마에테",
+          "translation": "멈추지, 멈추지, 멈추지 마, 각오했다면 나를 붙잡아"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 9,
+          "original": "SWSW (したり)　ねぇHRHR (したり)　あぁDKDK (したり)",
+          "pronunciation": "소와소와 (시타리) 네에 하라하라 (시타리) 아아 도키도키 (시타리)",
+          "translation": "안절부절 (하다가), 있지, 조마조마 (하다가), 아아, 두근두근 (하다가)"
+        },
+        {
+          "number": 10,
+          "original": "(もぅ手遅れみたい)",
+          "pronunciation": "(모오 테오쿠레 미타이)",
+          "translation": "(이미 늦어버린 것 같아)"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 11,
+          "original": "キミの気持ち聴かせて欲しい　Wanna WannaしてるGAGA Rhythm",
+          "pronunciation": "키미노 키모치 키카세테 호시이 와나와나시테루 가가 리듬",
+          "translation": "네 마음을 들려줘, 부들부들 떨리는 가가 리듬"
+        },
+        {
+          "number": 12,
+          "original": "でもね　こんなに好きで仕方ないから　期待すると切なくなるよ",
+          "pronunciation": "데모네 콘나니 스키데 시카타나이카라 키타이스루토 세츠나쿠 나루요",
+          "translation": "그런데 이렇게나 좋아서 견딜 수 없으니까 기대하면 애가 타"
+        },
+        {
+          "number": 13,
+          "original": "息もつけない恋心(ココロ)のBPM　キミからの「スキ」を待っているの",
+          "pronunciation": "이키모 츠케나이 코코로노 비이 피이 에무 키미카라노 스키오 맛테이루노",
+          "translation": "숨 돌릴 틈 없는 마음의 BPM, 네가 ‘좋아해’라고 말하길 기다려"
+        },
+        {
+          "number": 14,
+          "original": "いますぐ強く抱きしめて　Darling",
+          "pronunciation": "이마 스구 츠요쿠 다키시메테 달링",
+          "translation": "지금 당장 꼭 안아줘, 내 사랑"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 15,
+          "original": "(たまらない　たまらない　たまらない　Addiction)",
+          "pronunciation": "(타마라나이 타마라나이 타마라나이 어딕션)",
+          "translation": "(참을 수 없어, 참을 수 없어, 참을 수 없어, 중독)"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 16,
+          "original": "(後悔なんてしたくないなら)　勇気を出して　(運命変えたいなら)",
+          "pronunciation": "(코오카이난테 시타쿠 나이나라) 유우키오 다시테 (운메이 카에타이나라)",
+          "translation": "(후회하고 싶지 않다면) 용기를 내 (운명을 바꾸고 싶다면)"
+        },
+        {
+          "number": 17,
+          "original": "手をつないでギュッてしてよ",
+          "pronunciation": "테오 츠나이데 귯테 시테요",
+          "translation": "손을 잡고 꼭 쥐어줘"
+        },
+        {
+          "number": 18,
+          "original": "(キミも本気なら)　わかるでしょ？　(あー限界)　後戻りはできない",
+          "pronunciation": "(키미모 혼키나라) 와카루데쇼? (아아 겐카이) 아토모도리와 데키나이",
+          "translation": "(너도 진심이라면) 알잖아? (아, 한계야) 되돌아갈 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 19,
+          "original": "過去のこととか未来なんて忘れちゃって(ちゃって)　自由になろうよ",
+          "pronunciation": "카코노 코토토카 미라이난테 와스레챳테 (챳테) 지유우니 나로오요",
+          "translation": "과거의 일이나 미래 따윈 잊어버리고 (버리고) 자유로워지자"
+        },
+        {
+          "number": 20,
+          "original": "Can't Can't Can't stop　キミのセカイに私を　引き込んで",
+          "pronunciation": "캔트 캔트 캔트 스톱 키미노 세카이니 와타시오 히키콘데",
+          "translation": "멈출 수, 멈출 수, 멈출 수 없어, 네 세상으로 나를 끌어들여"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 21,
+          "original": "(もっと)近づいてキミを感じてみたい",
+          "pronunciation": "(못토) 치카즈이테 키미오 칸지테미타이",
+          "translation": "(더) 가까이 가서 너를 느끼고 싶어"
+        },
+        {
+          "number": 22,
+          "original": "(もっと)ワガママもいっぱいきいて欲しいよ",
+          "pronunciation": "(못토) 와가마마모 잇파이 키이테 호시이요",
+          "translation": "(더) 내 응석도 많이 받아주면 좋겠어"
+        },
+        {
+          "number": 23,
+          "original": "(もっと)私だけを(もっと)見つめていて(もっと)誰よりも",
+          "pronunciation": "(못토) 와타시다케오 (못토) 미츠메테이테 (못토) 다레요리모",
+          "translation": "(더) 나만을 (더) 바라봐줘 (더) 누구보다도"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 24,
+          "original": "(High)仕掛けるわ　(High)最上級のTrap",
+          "pronunciation": "(하이) 시카케루와 (하이) 사이조오큐우노 트랩",
+          "translation": "(들떠) 준비할게 (들떠) 최상급 함정을"
+        },
+        {
+          "number": 25,
+          "original": "(たまらない　たまらない　たまらない　Addiction　たまらない",
+          "pronunciation": "(타마라나이 타마라나이 타마라나이 어딕션 타마라나이",
+          "translation": "(참을 수 없어, 참을 수 없어, 참을 수 없어, 중독, 참을 수 없어"
+        },
+        {
+          "number": 26,
+          "original": "たまらない)　(もぅ壊れそうだよ)",
+          "pronunciation": "타마라나이) (모오 코와레소오다요)",
+          "translation": "참을 수 없어) (이젠 부서질 것 같아)"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 27,
+          "original": "その気持ちを打ち明けてよ　涙が出ちゃうGAGA Rhythm",
+          "pronunciation": "소노 키모치오 우치아케테요 나미다가 데차우 가가 리듬",
+          "translation": "그 마음을 털어놔 줘, 눈물이 나는 가가 리듬"
+        },
+        {
+          "number": 28,
+          "original": "だから　キミの本気に賭けてもいい？　じゃなきゃHappyも逃げていくから",
+          "pronunciation": "다카라 키미노 혼키니 카케테모 이이? 자 나캬 해피모 니게테이쿠카라",
+          "translation": "그러니까 네 진심에 걸어도 될까? 그렇지 않으면 행복도 달아나니까"
+        },
+        {
+          "number": 29,
+          "original": "揺らぎつづける恋心(ココロ)のBPM　キミからの「スキ」を聴かせてよ",
+          "pronunciation": "유라기츠즈케루 코코로노 비이 피이 에무 키미카라노 스키오 키카세테요",
+          "translation": "계속 흔들리는 마음의 BPM, 네가 말하는 ‘좋아해’를 들려줘"
+        },
+        {
+          "number": 30,
+          "original": "いますぐ強く抱きしめて　Tonight",
+          "pronunciation": "이마 스구 츠요쿠 다키시메테 투나이트",
+          "translation": "지금 당장 꼭 안아줘, 오늘 밤"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 31,
+          "original": "(たまらない　たまらない　たまらない　Addiction)",
+          "pronunciation": "(타마라나이 타마라나이 타마라나이 어딕션)",
+          "translation": "(참을 수 없어, 참을 수 없어, 참을 수 없어, 중독)"
+        },
+        {
+          "number": 32,
+          "original": "I want you",
+          "pronunciation": "아이 원트 유",
+          "translation": "너를 원해"
+        },
+        {
+          "number": 33,
+          "original": "(たまらない　たまらない　たまらない　Addiction)",
+          "pronunciation": "(타마라나이 타마라나이 타마라나이 어딕션)",
+          "translation": "(참을 수 없어, 참을 수 없어, 참을 수 없어, 중독)"
+        }
+      ]
+    }
+  ]
+}

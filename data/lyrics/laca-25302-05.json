@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-05",
+  "albumId": "laca-25302",
+  "trackNumber": 5,
+  "title": "月とネオンと薄紅と",
+  "vocal": "杜野凛世",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/月とネオンと薄紅と.txt",
+    "sha256": "9e6e2b01ce62e84fb0bed0fc43bf6b3406cf968f5d34d8c76f9005181acb335a",
+    "originalFile": "laca-25302-05.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "解れた는 실이 풀리는 문맥에 따라 ほつれた로 읽었습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "夢降る夜の街に",
+          "pronunciation": "유메 후루 요루노 마치니",
+          "translation": "꿈이 내리는 밤거리에"
+        },
+        {
+          "number": 2,
+          "original": "背を向けて",
+          "pronunciation": "세오 무케테",
+          "translation": "등을 돌리고"
+        },
+        {
+          "number": 3,
+          "original": "一人　影遊び",
+          "pronunciation": "히토리 카게아소비",
+          "translation": "혼자 그림자놀이"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 4,
+          "original": "車道に連なる灯り",
+          "pronunciation": "샤도오니 츠라나루 아카리",
+          "translation": "차도에 이어지는 불빛"
+        },
+        {
+          "number": 5,
+          "original": "知らない誰かが泣きじゃくる",
+          "pronunciation": "시라나이 다레카가 나키자쿠루",
+          "translation": "모르는 누군가가 흐느껴 울어요"
+        },
+        {
+          "number": 6,
+          "original": "そんな当たり前の風景に",
+          "pronunciation": "손나 아타리마에노 후우케이니",
+          "translation": "그런 흔한 풍경에"
+        },
+        {
+          "number": 7,
+          "original": "心が痛むのです",
+          "pronunciation": "코코로가 이타무노데스",
+          "translation": "마음이 아파요"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 8,
+          "original": "誰かが捨てたちっぽけで(あけすけな)",
+          "pronunciation": "다레카가 스테타 칫포케데 (아케스케나)",
+          "translation": "누군가가 버린 작고도 (꾸밈없는)"
+        },
+        {
+          "number": 9,
+          "original": "恋心は夜に溶けて行く(Ah Ah Ah)",
+          "pronunciation": "코이고코로와 요루니 토케테유쿠 (아 아 아)",
+          "translation": "연심은 밤에 녹아들어요 (아 아 아)"
+        },
+        {
+          "number": 10,
+          "original": "「私がもしあの人なら」",
+          "pronunciation": "와타시가 모시 아노 히토나라",
+          "translation": "“내가 만약 저 사람이라면”"
+        },
+        {
+          "number": 11,
+          "original": "何処にだって(二度とは)",
+          "pronunciation": "도코니닷테 (니도토와)",
+          "translation": "어디로도 (두 번 다시는)"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 12,
+          "original": "もう帰れない",
+          "pronunciation": "모오 카에레나이",
+          "translation": "이젠 돌아갈 수 없어요"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 13,
+          "original": "心の糸が解れた音",
+          "pronunciation": "코코로노 이토가 호츠레타 오토",
+          "translation": "마음의 실이 풀려버린 소리"
+        },
+        {
+          "number": 14,
+          "original": "貴方が私を見つめた瞬間",
+          "pronunciation": "아나타가 와타시오 미츠메타 슌칸",
+          "translation": "당신이 나를 바라본 순간"
+        },
+        {
+          "number": 15,
+          "original": "全て暴かれたようで困った",
+          "pronunciation": "스베테 아바카레타 요오데 코맛타",
+          "translation": "모두 들켜버린 것 같아 곤란했어요"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 16,
+          "original": "俯かず見つめ返した",
+          "pronunciation": "우츠무카즈 미츠메카에시타",
+          "translation": "고개를 숙이지 않고 마주 보았어요"
+        },
+        {
+          "number": 17,
+          "original": "(Ah Ah Ah)貴方は気付かないままでいて",
+          "pronunciation": "(아 아 아) 아나타와 키즈카나이 마마데 이테",
+          "translation": "(아 아 아) 당신은 모르는 채로 있어줘요"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 18,
+          "original": "街灯が映し出した夢の痕",
+          "pronunciation": "가이토오가 우츠시다시타 유메노 아토",
+          "translation": "가로등이 비춘 꿈의 흔적"
+        },
+        {
+          "number": 19,
+          "original": "まばらな人波に逆らった",
+          "pronunciation": "마바라나 히토나미니 사카랏타",
+          "translation": "드문드문한 인파를 거슬러 간"
+        },
+        {
+          "number": 20,
+          "original": "一つの影が空を仰いで",
+          "pronunciation": "히토츠노 카게가 소라오 아오이데",
+          "translation": "하나의 그림자가 하늘을 우러러보며"
+        },
+        {
+          "number": 21,
+          "original": "月夜を溜息で彩る",
+          "pronunciation": "츠키요오 타메이키데 이로도루",
+          "translation": "달밤을 한숨으로 물들여요"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 22,
+          "original": "貴方のその胸の音は(その声は)",
+          "pronunciation": "아나타노 소노 무네노 오토와 (소노 코에와)",
+          "translation": "당신의 그 심장 소리는 (그 목소리는)"
+        },
+        {
+          "number": 23,
+          "original": "誰を想って鳴るのでしょうか(Ah Ah Ah)",
+          "pronunciation": "다레오 오못테 나루노데쇼오카 (아 아 아)",
+          "translation": "누구를 생각하며 울리는 걸까요 (아 아 아)"
+        },
+        {
+          "number": 24,
+          "original": "「私がもしその人なら」",
+          "pronunciation": "와타시가 모시 소노 히토나라",
+          "translation": "“내가 만약 그 사람이라면”"
+        },
+        {
+          "number": 25,
+          "original": "願うのは　贅沢でしょうか",
+          "pronunciation": "네가우노와 제이타쿠데쇼오카",
+          "translation": "바라는 건 사치일까요"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 26,
+          "original": "心模様が乱れたのは",
+          "pronunciation": "코코로모요오가 미다레타노와",
+          "translation": "마음이 어지러워진 건"
+        },
+        {
+          "number": 27,
+          "original": "今日も貴方に会えてしまったから",
+          "pronunciation": "쿄오모 아나타니 아에테시맛타카라",
+          "translation": "오늘도 당신을 만나버렸기 때문이에요"
+        },
+        {
+          "number": 28,
+          "original": "唇の端がちょっと緩んだ",
+          "pronunciation": "쿠치비루노 하시가 춋토 유룬다",
+          "translation": "입꼬리에 살짝 미소가 번졌어요"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 29,
+          "original": "横顔を見つめたままの",
+          "pronunciation": "요코가오오 미츠메타 마마노",
+          "translation": "옆얼굴을 바라보고 있는"
+        },
+        {
+          "number": 30,
+          "original": "(Ah Ah Ah)私にきっと気付かないまま",
+          "pronunciation": "(아 아 아) 와타시니 킷토 키즈카나이 마마",
+          "translation": "(아 아 아) 나를 분명 알아채지 못한 채"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 31,
+          "original": "時だけが(時だけが)",
+          "pronunciation": "토키다케가 (토키다케가)",
+          "translation": "시간만이 (시간만이)"
+        },
+        {
+          "number": 32,
+          "original": "過ぎて行く(溶けてく)のならば",
+          "pronunciation": "스기테유쿠 (토케테쿠) 노나라바",
+          "translation": "흘러간다면 (녹아간다면)"
+        },
+        {
+          "number": 33,
+          "original": "構わないと(ちっぽけな)嘘をつく私を",
+          "pronunciation": "카마와나이토 (칫포케나) 우소오 츠쿠 와타시오",
+          "translation": "상관없다고 (작디작은) 거짓말을 하는 나를"
+        },
+        {
+          "number": 34,
+          "original": "貴方は知っていますか",
+          "pronunciation": "아나타와 싯테이마스카",
+          "translation": "당신은 알고 있나요"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 35,
+          "original": "あぁ　心の糸が解れた音",
+          "pronunciation": "아아 코코로노 이토가 호츠레타 오토",
+          "translation": "아아, 마음의 실이 풀려버린 소리"
+        },
+        {
+          "number": 36,
+          "original": "貴方が私を見つめた瞬間",
+          "pronunciation": "아나타가 와타시오 미츠메타 슌칸",
+          "translation": "당신이 나를 바라본 순간"
+        },
+        {
+          "number": 37,
+          "original": "全て暴かれたようで困った",
+          "pronunciation": "스베테 아바카레타 요오데 코맛타",
+          "translation": "모두 들켜버린 것 같아 곤란했어요"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "lines": [
+        {
+          "number": 38,
+          "original": "俯かず見つめ返した",
+          "pronunciation": "우츠무카즈 미츠메카에시타",
+          "translation": "고개를 숙이지 않고 마주 보았어요"
+        },
+        {
+          "number": 39,
+          "original": "(Ah Ah Ah)少しだけ色付く　私でした",
+          "pronunciation": "(아 아 아) 스코시다케 이로즈쿠 와타시데시타",
+          "translation": "(아 아 아) 살짝 물든 나였어요"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "lines": [
+        {
+          "number": 40,
+          "original": "la la la la la la　染まる薄紅色",
+          "pronunciation": "라 라 라 라 라 라 소마루 우스베니이로",
+          "translation": "라 라 라 라 라 라, 물드는 연분홍빛"
+        }
+      ]
+    }
+  ]
+}

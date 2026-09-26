@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-02",
+  "albumId": "laca-25302",
+  "trackNumber": 2,
+  "title": "正解な不正解",
+  "vocal": "田中摩美々",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/正解な不正解.txt",
+    "sha256": "82846720407e71d6c4fd70c8c88443fed1a4a6a3cf3e8aeff30a59abe98f0c0b",
+    "originalFile": "laca-25302-02.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "イキカタ는 行き方(가는 법)와 生き方(사는 법), アイ는 답안 배열과 愛(사랑)를 겹쳐 읽을 수 있습니다.",
+    "雑音・群衆=ノイズ, 時間=いのち를 발음에 반영했습니다. 常→異常는 'じょう、いじょう', ○/×는 'まる/ばつ'로 가정했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "検索すれば　1秒で出る答えとか",
+          "pronunciation": "켄사쿠스레바 이치뵤오데 데루 코타에토카",
+          "translation": "검색하면 1초 만에 나오는 답이라든지"
+        },
+        {
+          "number": 2,
+          "original": "GPSが教える　正しい“イキカタ”",
+          "pronunciation": "지이 피이 에스가 오시에루 타다시이 이키카타",
+          "translation": "GPS가 알려주는 올바른 ‘가는 법’"
+        },
+        {
+          "number": 3,
+          "original": "間違えることのほうがムズい　こんな時代では",
+          "pronunciation": "마치가에루 코토노 호오가 무즈이 콘나 지다이데와",
+          "translation": "틀리는 쪽이 더 어려운 이런 시대에는"
+        },
+        {
+          "number": 4,
+          "original": "誰も彼もみんな完璧中毒(ホリック)で",
+          "pronunciation": "다레모 카레모 민나 칸페키 호릿쿠데",
+          "translation": "너나 할 것 없이 모두 완벽 중독자라"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "例えば　適当に選んだ答え　オ・ウ・エ・ア・イ",
+          "pronunciation": "타토에바 테키토오니 에란다 코타에 오 우 에 아 이",
+          "translation": "예를 들어 대충 고른 답, 오·우·에·아·이"
+        },
+        {
+          "number": 6,
+          "original": "○か×か　一喜一憂するより",
+          "pronunciation": "마루카 바츠카 잇키이치유우스루요리",
+          "translation": "맞느냐 틀리느냐에 일희일비하기보다"
+        },
+        {
+          "number": 7,
+          "original": "偶然出来上がった　“アイ”にときめくように",
+          "pronunciation": "구우젠 데키아갓타 아이니 토키메쿠 요오니",
+          "translation": "우연히 만들어진 ‘아이’에 설레듯"
+        },
+        {
+          "number": 8,
+          "original": "斜めの視界から愛でていたい",
+          "pronunciation": "나나메노 시카이카라 메데테이타이",
+          "translation": "비스듬한 시선으로 바라보며 즐기고 싶어"
+        },
+        {
+          "number": 9,
+          "original": "Don't you think？",
+          "pronunciation": "돈트 유 씽크?",
+          "translation": "그렇게 생각하지 않아?"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 10,
+          "original": "完璧ってそう　言い換えれば　退屈と同義で",
+          "pronunciation": "칸페킷테 소오 이이카에레바 타이쿠츠토 도오기데",
+          "translation": "완벽이란, 그래, 바꿔 말하면 지루함과 같은 뜻"
+        },
+        {
+          "number": 11,
+          "original": "ただの“いい子”じゃ　“どうでもいい子”と紙一重",
+          "pronunciation": "타다노 이이코자 도오데모 이이코토 카미히토에",
+          "translation": "그저 ‘착한 아이’라면 ‘아무래도 상관없는 아이’와 종이 한 장 차이"
+        },
+        {
+          "number": 12,
+          "original": "再放送じみた　繰り返すこの日常の景色に",
+          "pronunciation": "사이호오소오지미타 쿠리카에스 코노 니치조오노 케시키니",
+          "translation": "재방송처럼 반복되는 이 일상의 풍경에"
+        },
+        {
+          "number": 13,
+          "original": "アンチテーゼを",
+          "pronunciation": "안치테에제오",
+          "translation": "반론을 던져"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 14,
+          "original": "愛想笑い　そんでSo alive　演じるくらいなら",
+          "pronunciation": "아이소와라이 손데 소 얼라이브 엔지루 쿠라이나라",
+          "translation": "억지웃음, 그리고 생기 넘치는 척 연기할 바엔"
+        },
+        {
+          "number": 15,
+          "original": "いっそ　この不埒な感情も抱いて　奇を衒ってくほうがマシ",
+          "pronunciation": "잇소 코노 후라치나 칸조오모 다이테 키오 테랏테쿠 호오가 마시",
+          "translation": "차라리 이 발칙한 감정도 품고 별나게 구는 편이 나아"
+        },
+        {
+          "number": 16,
+          "original": "常→異常　案の定以上　Highになれるほうへ",
+          "pronunciation": "조오 이조오 안노 조오 이조오 하이니 나레루 호오에",
+          "translation": "정상에서 비정상으로, 예상했던 것 이상으로 들뜰 수 있는 쪽으로"
+        },
+        {
+          "number": 17,
+          "original": "そんな正解な不正解を　今日も",
+          "pronunciation": "손나 세이카이나 후세이카이오 쿄오모",
+          "translation": "그런 정답인 오답을 오늘도"
+        },
+        {
+          "number": 18,
+          "original": "垂れ流してく",
+          "pronunciation": "타레나가시테쿠",
+          "translation": "쏟아내고 있어"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 19,
+          "original": "趣味じゃないのに　トレンドだなんだ",
+          "pronunciation": "슈미자 나이노니 토렌도다 난다",
+          "translation": "취향도 아닌데 유행이니 뭐니"
+        },
+        {
+          "number": 20,
+          "original": "社会の雑音(ノイズ)に　ならぬよう",
+          "pronunciation": "샤카이노 노이즈니 나라누 요오",
+          "translation": "사회의 잡음이 되지 않으려"
+        },
+        {
+          "number": 21,
+          "original": "無難選んだ　あげくが　群衆(ノイズ)",
+          "pronunciation": "부난 에란다 아게쿠가 노이즈",
+          "translation": "무난함을 고른 끝에 남은 건 군중이라는 잡음"
+        },
+        {
+          "number": 22,
+          "original": "いま　How do you feel？",
+          "pronunciation": "이마 하우 두 유 필?",
+          "translation": "지금 기분이 어때?"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 23,
+          "original": "共感の数が　正しさの根拠なんて笑えちゃう",
+          "pronunciation": "쿄오칸노 카즈가 타다시사노 콘쿄난테 와라에차우",
+          "translation": "공감의 수가 옳음의 근거라니 웃음이 나"
+        },
+        {
+          "number": 24,
+          "original": "君の“いいね”は　“どうでもいいね”とよく似ている",
+          "pronunciation": "키미노 이이네와 도오데모 이이네토 요쿠 니테이루",
+          "translation": "너의 ‘좋아요’는 ‘아무래도 좋아요’와 참 닮았어"
+        },
+        {
+          "number": 25,
+          "original": "周りばかり気にしてるうちに　そっと時間(いのち)は",
+          "pronunciation": "마와리바카리 키니 시테루 우치니 솟토 이노치와",
+          "translation": "주변 눈치만 보는 사이에 조용히 삶은"
+        },
+        {
+          "number": 26,
+          "original": "流出してく",
+          "pronunciation": "류우슈츠시테쿠",
+          "translation": "흘러나가 버려"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 27,
+          "original": "甲斐性がない　要はShowがない　予定調和だらけ",
+          "pronunciation": "카이쇼오가 나이 요오와 쇼오가 나이 요테이초오와다라케",
+          "translation": "생활력도 없고, 요컨대 볼거리도 없고, 뻔한 결말투성이"
+        },
+        {
+          "number": 28,
+          "original": "もうね、お利口さんな意見は沢山　それどっかで聞いたよ散々",
+          "pronunciation": "모오네 오리코오상나 이켄와 타쿠상 소레 돗카데 키이타요 산잔",
+          "translation": "정말이지, 모범생 같은 의견은 됐어, 어디선가 지겹게 들었어"
+        },
+        {
+          "number": 29,
+          "original": "どうしたい？　なんてとうにない　灰になったみたいに",
+          "pronunciation": "도오시타이? 난테 토오니 나이 하이니 낫타 미타이니",
+          "translation": "어떻게 하고 싶냐고? 그런 건 진작 없어, 재가 된 것처럼"
+        },
+        {
+          "number": 30,
+          "original": "今日も不正解な正解を　まだ",
+          "pronunciation": "쿄오모 후세이카이나 세이카이오 마다",
+          "translation": "오늘도 오답인 정답을 아직"
+        },
+        {
+          "number": 31,
+          "original": "垂れ流すつもり？",
+          "pronunciation": "타레나가스 츠모리?",
+          "translation": "쏟아낼 생각이야?"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 32,
+          "original": "倦怠感　指で擦るように　ひんやり照らすBlue moon",
+          "pronunciation": "켄타이칸 유비데 코스루 요오니 힌야리 테라스 블루 문",
+          "translation": "권태를 손가락으로 문지르듯 서늘하게 비추는 푸른 달"
+        },
+        {
+          "number": 33,
+          "original": "全身に火を宿すみたいに　赤い陽昇ってく",
+          "pronunciation": "젠신니 히오 야도스 미타이니 아카이 히 노봇테쿠",
+          "translation": "온몸에 불을 품듯 붉은 해가 떠올라"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 34,
+          "original": "おつかれ　Good boys, Good girls",
+          "pronunciation": "오츠카레 굿 보이즈 굿 걸즈",
+          "translation": "수고했어, 착한 남자애들, 착한 여자애들"
+        },
+        {
+          "number": 35,
+          "original": "ご機嫌いかが？　I see, I see",
+          "pronunciation": "고키겐 이카가? 아이 씨 아이 씨",
+          "translation": "기분이 어때? 그렇구나, 그렇구나"
+        },
+        {
+          "number": 36,
+          "original": "かしまし　Bad boys, Bad girls",
+          "pronunciation": "카시마시 배드 보이즈 배드 걸즈",
+          "translation": "떠들썩한 나쁜 남자애들, 나쁜 여자애들"
+        },
+        {
+          "number": 37,
+          "original": "ねぇ、遊びましょ",
+          "pronunciation": "네에 아소비마쇼",
+          "translation": "있지, 같이 놀자"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 38,
+          "original": "面倒臭いだって　きっと才　退屈がヤなだけ",
+          "pronunciation": "멘도오쿠사이닷테 킷토 사이 타이쿠츠가 야나다케",
+          "translation": "귀찮아하는 것도 분명 재능, 지루한 게 싫을 뿐"
+        },
+        {
+          "number": 39,
+          "original": "興味ない　超えて　どうしたい？　直感で生きてる",
+          "pronunciation": "쿄오미나이 코에테 도오시타이? 촛칸데 이키테루",
+          "translation": "관심 없다는 말을 넘어, 뭘 하고 싶어? 직감으로 살아"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 40,
+          "original": "愛想笑い　そんでSo alive　演じるくらいなら",
+          "pronunciation": "아이소와라이 손데 소 얼라이브 엔지루 쿠라이나라",
+          "translation": "억지웃음, 그리고 생기 넘치는 척 연기할 바엔"
+        },
+        {
+          "number": 41,
+          "original": "いっそ　この不埒な感情も抱いて　奇を衒ってくほうがマシ",
+          "pronunciation": "잇소 코노 후라치나 칸조오모 다이테 키오 테랏테쿠 호오가 마시",
+          "translation": "차라리 이 발칙한 감정도 품고 별나게 구는 편이 나아"
+        },
+        {
+          "number": 42,
+          "original": "常→異常　案の定以上　Highになれるほうへ",
+          "pronunciation": "조오 이조오 안노 조오 이조오 하이니 나레루 호오에",
+          "translation": "정상에서 비정상으로, 예상했던 것 이상으로 들뜰 수 있는 쪽으로"
+        },
+        {
+          "number": 43,
+          "original": "頷けないもの掻き分けて",
+          "pronunciation": "우나즈케나이 모노 카키와케테",
+          "translation": "동의할 수 없는 것들을 헤치고"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 44,
+          "original": "何回もない　どんな解もない　一度きりの今を",
+          "pronunciation": "난카이모 나이 돈나 카이모 나이 이치도키리노 이마오",
+          "translation": "몇 번이고 있지도, 어떤 해답도 없는 단 한 번뿐인 지금을"
+        },
+        {
+          "number": 45,
+          "original": "Lieもない　ためらいもない　感度に跨がって",
+          "pronunciation": "라이모 나이 타메라이모 나이 칸도니 마타갓테",
+          "translation": "거짓도 망설임도 없는 감각에 올라타"
+        },
+        {
+          "number": 46,
+          "original": "そんな正解な不正解を　今日も　垂れ流してく",
+          "pronunciation": "손나 세이카이나 후세이카이오 쿄오모 타레나가시테쿠",
+          "translation": "그런 정답인 오답을 오늘도 쏟아내"
+        },
+        {
+          "number": 47,
+          "original": "茶目っ気　垂れ流しちゃう",
+          "pronunciation": "차멧케 타레나가시차우",
+          "translation": "장난기를 마구 쏟아내 버려"
+        }
+      ]
+    }
+  ]
+}

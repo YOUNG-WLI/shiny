@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-05",
+  "albumId": "laca-25303",
+  "trackNumber": 5,
+  "title": "Sweet Boozy",
+  "vocal": "桑山千雪",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Sweet Boozy.txt",
+    "sha256": "1651a2bcd9d2f1b138553b0279099b73371d1ef8e087db35bcdf297aaa65c157",
+    "originalFile": "laca-25303-05.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "No more(なぁ もう)는 지정 읽기 '나아 모오'와 '아, 정말'의 뉘앙스를 반영했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "甘い夢をひと口かじれば",
+          "pronunciation": "아마이 유메오 히토쿠치 카지레바",
+          "translation": "달콤한 꿈을 한입 베어 물면"
+        },
+        {
+          "number": 2,
+          "original": "チョコレイトみたいにほどけた",
+          "pronunciation": "초코레이토 미타이니 호도케타",
+          "translation": "초콜릿처럼 사르르 풀어졌어"
+        },
+        {
+          "number": 3,
+          "original": "四六時中　想ってても",
+          "pronunciation": "시로쿠지추우 오못테테모",
+          "translation": "온종일 생각하고 있어도"
+        },
+        {
+          "number": 4,
+          "original": "この気持ち飲みこんでしまうの",
+          "pronunciation": "코노 키모치 노미콘데시마우노",
+          "translation": "이 마음을 삼켜버려"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "近づくほどに少し怖くなっていくの",
+          "pronunciation": "치카즈쿠 호도니 스코시 코와쿠 낫테이쿠노",
+          "translation": "가까워질수록 조금씩 두려워져"
+        },
+        {
+          "number": 6,
+          "original": "知らないふりをしているけど",
+          "pronunciation": "시라나이 후리오 시테이루케도",
+          "translation": "모르는 척하고 있지만"
+        },
+        {
+          "number": 7,
+          "original": "もう隠しきれないわ",
+          "pronunciation": "모오 카쿠시키레나이와",
+          "translation": "이젠 다 감출 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 8,
+          "original": "Oh Sweet & Boozy",
+          "pronunciation": "오 스위트 앤 부지",
+          "translation": "오, 달콤하고 알딸딸하게"
+        },
+        {
+          "number": 9,
+          "original": "まだ大人になりきれない　なりたくない",
+          "pronunciation": "마다 오토나니 나리키레나이 나리타쿠 나이",
+          "translation": "아직 완전히 어른이 될 수 없어, 되고 싶지 않아"
+        },
+        {
+          "number": 10,
+          "original": "無邪気なキャンディーガール",
+          "pronunciation": "무자키나 캔디이 가아루",
+          "translation": "천진난만한 캔디 걸"
+        },
+        {
+          "number": 11,
+          "original": "色んな味を組み合わせ",
+          "pronunciation": "이론나 아지오 쿠미아와세",
+          "translation": "여러 가지 맛을 조합해"
+        },
+        {
+          "number": 12,
+          "original": "カクテルみたいに混ざるの",
+          "pronunciation": "카쿠테루 미타이니 마자루노",
+          "translation": "칵테일처럼 뒤섞여"
+        },
+        {
+          "number": 13,
+          "original": "恋する乙女心",
+          "pronunciation": "코이스루 오토메고코로",
+          "translation": "사랑하는 소녀의 마음"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 14,
+          "original": "Sweet & Boozy",
+          "pronunciation": "스위트 앤 부지",
+          "translation": "달콤하고 알딸딸하게"
+        },
+        {
+          "number": 15,
+          "original": "まだ　その手に触れそうで　触れられない",
+          "pronunciation": "마다 소노 테니 후레소오데 후레라레나이",
+          "translation": "아직 그 손에 닿을 듯 닿을 수 없어"
+        },
+        {
+          "number": 16,
+          "original": "曖昧だけど笑い声を聞くだけで",
+          "pronunciation": "아이마이다케도 와라이고에오 키쿠다케데",
+          "translation": "모호하지만 웃음소리를 듣는 것만으로"
+        },
+        {
+          "number": 17,
+          "original": "幸せになれるの",
+          "pronunciation": "시아와세니 나레루노",
+          "translation": "행복해질 수 있어"
+        },
+        {
+          "number": 18,
+          "original": "もっともっと傍に居させて",
+          "pronunciation": "못토 못토 소바니 이사세테",
+          "translation": "더 오래, 더 가까이 곁에 있게 해줘"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 19,
+          "original": "甘い甘いカクテル揺らめき",
+          "pronunciation": "아마이 아마이 카쿠테루 유라메키",
+          "translation": "달고 단 칵테일이 일렁이고"
+        },
+        {
+          "number": 20,
+          "original": "口につけたら赤らんで",
+          "pronunciation": "쿠치니 츠케타라 아카란데",
+          "translation": "입에 대면 얼굴이 붉어져"
+        },
+        {
+          "number": 21,
+          "original": "グラス越しに微笑むから",
+          "pronunciation": "구라스고시니 호호에무카라",
+          "translation": "잔 너머로 미소 짓기에"
+        },
+        {
+          "number": 22,
+          "original": "照れ隠し飲みすぎてしまうの",
+          "pronunciation": "테레카쿠시 노미스기테시마우노",
+          "translation": "수줍음을 감추려 너무 마시고 말아"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 23,
+          "original": "壊れてしまいそうで戸惑っているの",
+          "pronunciation": "코와레테시마이소오데 토마돗테이루노",
+          "translation": "부서질 것 같아 망설이고 있어"
+        },
+        {
+          "number": 24,
+          "original": "触れたら戻れなくなるのにNo more(なぁ　もう)",
+          "pronunciation": "후레타라 모도레나쿠 나루노니 나아 모오",
+          "translation": "닿으면 돌아갈 수 없게 되는데, 아, 정말"
+        },
+        {
+          "number": 25,
+          "original": "Don't stop！ Non stop！ 止まらないよ",
+          "pronunciation": "돈트 스톱! 논스톱! 토마라나이요",
+          "translation": "멈추지 마! 쉬지 않고! 멈출 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 26,
+          "original": "甘いお菓子だけじゃ足りない",
+          "pronunciation": "아마이 오카시다케자 타리나이",
+          "translation": "달콤한 과자만으로는 부족해"
+        },
+        {
+          "number": 27,
+          "original": "カクテルだって飲み干した",
+          "pronunciation": "카쿠테루닷테 노미호시타",
+          "translation": "칵테일도 다 마셔버렸어"
+        },
+        {
+          "number": 28,
+          "original": "満たされないまま溺れていくの",
+          "pronunciation": "미타사레나이 마마 오보레테이쿠노",
+          "translation": "채워지지 않은 채 빠져들어"
+        },
+        {
+          "number": 29,
+          "original": "今すぐ会いたいけど誤魔化してしまう",
+          "pronunciation": "이마 스구 아이타이케도 고마카시테시마우",
+          "translation": "당장 만나고 싶은데도 얼버무리고 말아"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 30,
+          "original": "Oh Sweet & Boozy",
+          "pronunciation": "오 스위트 앤 부지",
+          "translation": "오, 달콤하고 알딸딸하게"
+        },
+        {
+          "number": 31,
+          "original": "まだ大人になりきれない　なりたくない",
+          "pronunciation": "마다 오토나니 나리키레나이 나리타쿠 나이",
+          "translation": "아직 완전히 어른이 될 수 없어, 되고 싶지 않아"
+        },
+        {
+          "number": 32,
+          "original": "無邪気なキャンディーガール",
+          "pronunciation": "무자키나 캔디이 가아루",
+          "translation": "천진난만한 캔디 걸"
+        },
+        {
+          "number": 33,
+          "original": "色んな味を組み合わせ",
+          "pronunciation": "이론나 아지오 쿠미아와세",
+          "translation": "여러 가지 맛을 조합해"
+        },
+        {
+          "number": 34,
+          "original": "カクテルみたいに混ざるの",
+          "pronunciation": "카쿠테루 미타이니 마자루노",
+          "translation": "칵테일처럼 뒤섞여"
+        },
+        {
+          "number": 35,
+          "original": "恋する乙女心",
+          "pronunciation": "코이스루 오토메고코로",
+          "translation": "사랑하는 소녀의 마음"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 36,
+          "original": "Sweet & Boozy",
+          "pronunciation": "스위트 앤 부지",
+          "translation": "달콤하고 알딸딸하게"
+        },
+        {
+          "number": 37,
+          "original": "まだ　その手に触れそうで　触れられない",
+          "pronunciation": "마다 소노 테니 후레소오데 후레라레나이",
+          "translation": "아직 그 손에 닿을 듯 닿을 수 없어"
+        },
+        {
+          "number": 38,
+          "original": "曖昧だけど笑い声を聞くだけで",
+          "pronunciation": "아이마이다케도 와라이고에오 키쿠다케데",
+          "translation": "모호하지만 웃음소리를 듣는 것만으로"
+        },
+        {
+          "number": 39,
+          "original": "幸せになれるの",
+          "pronunciation": "시아와세니 나레루노",
+          "translation": "행복해질 수 있어"
+        },
+        {
+          "number": 40,
+          "original": "もっともっと傍に居させて",
+          "pronunciation": "못토 못토 소바니 이사세테",
+          "translation": "더 오래, 더 가까이 곁에 있게 해줘"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 41,
+          "original": "Sweet Boozy...",
+          "pronunciation": "스위트 부지",
+          "translation": "달콤하게 취해…"
+        },
+        {
+          "number": 42,
+          "original": "Whoa oh",
+          "pronunciation": "워 오",
+          "translation": "워 오"
+        },
+        {
+          "number": 43,
+          "original": "Sweet Boozy...",
+          "pronunciation": "스위트 부지",
+          "translation": "달콤하게 취해…"
+        }
+      ]
+    }
+  ]
+}

@@ -1,65 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SHINY COLORS HUB</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 10%;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        .countdown {
-            font-size: 1.5em;
-            margin-top: 20px;
-        }
-        .button {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 10px 20px;
-            font-size: 1em;
-            color: white;
-            background-color: #007bff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none;
-        }
-        .button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-    <script>
-        function updateCountdown() {
-            const idolmaster20th = new Date("2025-07-26T00:00:00");
-            const shinyColors7th = new Date("2025-04-24T00:00:00");
-            const now = new Date();
-
-            const diff1 = Math.ceil((idolmaster20th - now) / (1000 * 60 * 60 * 24));
-            const diff2 = Math.ceil((shinyColors7th - now) / (1000 * 60 * 60 * 24));
-
-            document.getElementById("idolmaster20th").textContent = `THE iDOLM@STER 20주년까지 D-${diff1}`;
-            document.getElementById("shinyColors7th").textContent = `THE iDOLM@STER SHINY COLORS 7주년까지 D-${diff2}`;
-        }
-        setInterval(updateCountdown, 1000);
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ccecff">
+  <meta name="description" content="샤이니 컬러즈 노래의 일본어 가사, 한글 발음, 한국어 번역을 함께 읽는 노래장">
+  <title>한 소절 · 샤이니 컬러즈 가사</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="songs.js" defer></script>
+  <script src="app.js" defer></script>
 </head>
 <body>
-    <div class="countdown" id="idolmaster20th"></div>
-    <div class="countdown" id="shinyColors7th"></div>    
-    <h1>THE iDOLM@STER SHINY COLORS!</h1>
-    <img src="image.jpg" alt="Sample Image">
-    <a href="subpage/index.html" class="button">Go to Subpage</a>
-    
-    <div class="video-container">
-        <h2>Watch Video</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/V6ypNoKsgOY?autoplay=1&mute=0&start=10" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+  <a class="skip-link" href="#lyrics">가사로 바로 가기</a>
+  <header class="site-header">
+    <p class="site-name">한 소절</p>
+    <div class="song-picker">
+      <label for="song-select">곡 선택</label>
+      <select id="song-select" disabled><option>곡을 불러오는 중…</option></select>
     </div>
+    <details class="settings">
+      <summary>보기 설정</summary>
+      <div class="settings-content">
+        <fieldset><legend>표시할 가사</legend>
+          <label><input type="checkbox" data-layer="original" checked> 일본어</label>
+          <label><input type="checkbox" data-layer="pronunciation" checked> 한글 발음</label>
+          <label><input type="checkbox" data-layer="translation" checked> 한국어 번역</label>
+        </fieldset>
+        <div class="size-control"><span>글자 크기</span><button id="smaller" type="button" aria-label="모든 가사 글자 작게">−</button><output id="font-size" aria-live="polite">16px</output><button id="larger" type="button" aria-label="모든 가사 글자 크게">＋</button></div>
+      </div>
+    </details>
+  </header>
+  <main>
+    <header class="song-heading">
+      <p id="song-album"></p>
+      <h1 id="song-title" lang="ja"></h1>
+      <p id="song-vocal" lang="ja"></p>
+    </header>
+    <div id="load-error" role="alert" hidden>곡 데이터를 불러오지 못했습니다. 페이지를 새로고침해 주세요.</div>
+    <article id="lyrics" aria-label="일본어 원문, 한글 발음, 한국어 번역" tabindex="-1"></article>
+    <nav class="song-navigation" aria-label="이전 곡과 다음 곡">
+      <a id="previous-song" hidden>← 이전 곡</a>
+      <span id="song-position"></span>
+      <a id="next-song" hidden>다음 곡 →</a>
+    </nav>
+  </main>
+  <footer><a href="#" id="back-to-top">맨 위로 ↑</a><p>한 소절 · HOPEFUL FE@THERS</p></footer>
+  <p id="status" class="sr-only" role="status"></p>
+  <noscript><p class="noscript">가사를 보려면 브라우저에서 JavaScript를 켜주세요.</p></noscript>
 </body>
 </html>
-

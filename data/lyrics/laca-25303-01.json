@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-01",
+  "albumId": "laca-25303",
+  "trackNumber": 1,
+  "title": "Take Ur Time",
+  "vocal": "八宮めぐる",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Take Ur Time.txt",
+    "sha256": "02f046baf3d552e783c5981e26e9499e7fffe13e42711e29ab8f6af7890f703c",
+    "originalFile": "laca-25303-01.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "忙=せわ, Life=セカイ, 休憩=チル, 無意識=しぜん, 喜び=Happy, Crossroad=行き先, 道標=Milestone의 괄호 읽기를 적용했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "色々あるよねEveryday　忙(せわ)しない時代にConfusion",
+          "pronunciation": "이로이로 아루요네 에브리데이 세와시나이 지다이니 컨퓨전",
+          "translation": "매일 이런저런 일이 있지, 정신없이 바쁜 시대 속 혼란"
+        },
+        {
+          "number": 2,
+          "original": "そんな時は瞼(まぶた)とじて　うつろう季節に耳すまそう",
+          "pronunciation": "손나 토키와 마부타 토지테 우츠로우 키세츠니 미미 스마소오",
+          "translation": "그럴 땐 눈을 감고 변해가는 계절에 귀 기울여 보자"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 3,
+          "original": "Don't worry Don't worry Don't worry　ありのまま　それでいい",
+          "pronunciation": "돈트 워리 돈트 워리 돈트 워리 아리노 마마 소레데 이이",
+          "translation": "걱정 마, 걱정 마, 걱정 마, 있는 그대로면 돼"
+        },
+        {
+          "number": 4,
+          "original": "自分の速さで進めばいいの　隣にいるよ",
+          "pronunciation": "지분노 하야사데 스스메바 이이노 토나리니 이루요",
+          "translation": "자신의 속도로 나아가면 돼, 내가 곁에 있어"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 5,
+          "original": "キミらしく Take ur time　寄り道もいいんじゃない？",
+          "pronunciation": "키미라시쿠 테이크 유어 타임 요리미치모 이인자 나이?",
+          "translation": "너답게 천천히 해, 잠깐 돌아가도 좋지 않을까?"
+        },
+        {
+          "number": 6,
+          "original": "Life(セカイ)をめぐる旅 On the way",
+          "pronunciation": "세카이오 메구루 타비 온 더 웨이",
+          "translation": "세상을 돌아보는 여행 중이야"
+        },
+        {
+          "number": 7,
+          "original": "慌てずに Carry on　疲れたら休憩(チル)ね",
+          "pronunciation": "아와테즈니 캐리 온 츠카레타라 치루네",
+          "translation": "서두르지 말고 계속 가, 지치면 쉬어가자"
+        },
+        {
+          "number": 8,
+          "original": "歩いて行こう　ずっと",
+          "pronunciation": "아루이테이코오 즛토",
+          "translation": "걸어가자, 계속"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 9,
+          "original": "ほのかに馨る花のFragrance　まるで誰かの優しさみたい",
+          "pronunciation": "호노카니 카오루 하나노 프레이그런스 마루데 다레카노 야사시사 미타이",
+          "translation": "은은하게 풍기는 꽃향기, 마치 누군가의 다정함 같아"
+        },
+        {
+          "number": 10,
+          "original": "ささやかな気遣いが　縁と縁を紡いでく　無意識(しぜん)に導かれて",
+          "pronunciation": "사사야카나 키즈카이가 엔토 엔오 츠무이데쿠 시젠니 미치비카레테",
+          "translation": "작은 배려가 인연과 인연을 이어가, 자연스럽게 이끌리며"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 11,
+          "original": "Somebody Somebody Somebody　誰もみな　めざしてる",
+          "pronunciation": "썸바디 썸바디 썸바디 다레모 미나 메자시테루",
+          "translation": "누군가, 누군가, 누군가, 모두가 향하고 있어"
+        },
+        {
+          "number": 12,
+          "original": "十人十色で描く未来へ　私も行くよ",
+          "pronunciation": "주우닌토이로데 에가쿠 미라이에 와타시모 이쿠요",
+          "translation": "저마다의 빛깔로 그리는 미래로 나도 갈게"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 13,
+          "original": "それぞれが Take a chance　輝いていてね",
+          "pronunciation": "소레조레가 테이크 어 챈스 카가야이테이테네",
+          "translation": "각자 기회를 잡아, 빛나고 있어줘"
+        },
+        {
+          "number": 14,
+          "original": "喜び(Happy)に出逢う旅 On the way",
+          "pronunciation": "해피니 데아우 타비 온 더 웨이",
+          "translation": "행복을 만나는 여행 중이야"
+        },
+        {
+          "number": 15,
+          "original": "迷うなら Looking back　立ち止まればいいよ",
+          "pronunciation": "마요우나라 루킹 백 타치도마레바 이이요",
+          "translation": "망설여지면 뒤돌아봐, 잠시 멈춰도 괜찮아"
+        },
+        {
+          "number": 16,
+          "original": "キミはキミのままで",
+          "pronunciation": "키미와 키미노 마마데",
+          "translation": "너는 너인 그대로"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 17,
+          "original": "Crossroad(行き先)に悩んだら　なんとなく胸がときめく方に進んでみて",
+          "pronunciation": "이키사키니 나얀다라 난토나쿠 무네가 토키메쿠 호오니 스슨데미테",
+          "translation": "갈 곳이 고민된다면 왠지 가슴이 설레는 쪽으로 나아가 봐"
+        },
+        {
+          "number": 18,
+          "original": "それが道標(Milestone)",
+          "pronunciation": "소레가 마일스톤",
+          "translation": "그게 너의 이정표야"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 19,
+          "original": "キミらしく Take ur time　寄り道もいいんじゃない？",
+          "pronunciation": "키미라시쿠 테이크 유어 타임 요리미치모 이인자 나이?",
+          "translation": "너답게 천천히 해, 잠깐 돌아가도 좋지 않을까?"
+        },
+        {
+          "number": 20,
+          "original": "Life(セカイ)をめぐる旅 On the way",
+          "pronunciation": "세카이오 메구루 타비 온 더 웨이",
+          "translation": "세상을 돌아보는 여행 중이야"
+        },
+        {
+          "number": 21,
+          "original": "慌てずに Carry on　疲れたら休憩(チル)ね",
+          "pronunciation": "아와테즈니 캐리 온 츠카레타라 치루네",
+          "translation": "서두르지 말고 계속 가, 지치면 쉬어가자"
+        },
+        {
+          "number": 22,
+          "original": "歩いて行こう　ずっと",
+          "pronunciation": "아루이테이코오 즛토",
+          "translation": "걸어가자, 계속"
+        }
+      ]
+    }
+  ]
+}

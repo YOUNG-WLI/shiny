@@ -1,0 +1,255 @@
+{
+  "series": "THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS",
+  "releaseDate": "2026-09-16",
+  "verifiedAt": "2026-09-26",
+  "albums": [
+    {
+      "id": "laca-25301",
+      "title": "THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS -Stella-",
+      "artist": "Team.Stella",
+      "catalogNumber": "LACA-25301",
+      "url": "https://shinycolors.lantis.jp/releaseinfo/laca-25301/",
+      "sourceUrl": "https://shinycolors.lantis.jp/extra/260826_1/",
+      "sourceNote": "앨범 상세 페이지 접근 실패로 같은 공식 사이트의 수록곡 공개 공지에서 확인.",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "MAGICAL FOREST",
+          "vocal": "櫻木真乃",
+          "voiceActor": "関根 瞳",
+          "lyricsFile": "lyrics/laca-25301-01.json"
+        },
+        {
+          "number": 2,
+          "title": "恋するクオリア",
+          "vocal": "月岡恋鐘",
+          "voiceActor": "礒部花凜",
+          "lyricsFile": "lyrics/laca-25301-02.json"
+        },
+        {
+          "number": 3,
+          "title": "ハグルマヒマワリ",
+          "vocal": "小宮果穂",
+          "voiceActor": "河野ひより",
+          "lyricsFile": "lyrics/laca-25301-03.json"
+        },
+        {
+          "number": 4,
+          "title": "ナイススパイス研究会",
+          "vocal": "園田智代子",
+          "voiceActor": "白石晴香",
+          "lyricsFile": "lyrics/laca-25301-04.json"
+        },
+        {
+          "number": 5,
+          "title": "どっちみちLOVE",
+          "vocal": "大崎甘奈",
+          "voiceActor": "黒木ほの香",
+          "lyricsFile": "lyrics/laca-25301-05.json"
+        },
+        {
+          "number": 6,
+          "title": "ワタシグラビティ",
+          "vocal": "芹沢あさひ",
+          "voiceActor": "田中有紀",
+          "lyricsFile": "lyrics/laca-25301-06.json"
+        },
+        {
+          "number": 7,
+          "title": "ダミーガール",
+          "vocal": "樋口円香",
+          "voiceActor": "土屋李央",
+          "lyricsFile": "lyrics/laca-25301-07.json"
+        },
+        {
+          "number": 8,
+          "title": "Crying Diamond",
+          "vocal": "緋田美琴",
+          "voiceActor": "山根 綺",
+          "lyricsFile": "lyrics/laca-25301-08.json"
+        },
+        {
+          "number": 9,
+          "title": "Imaginary",
+          "vocal": "鈴木羽那",
+          "voiceActor": "三川華月",
+          "lyricsFile": "lyrics/laca-25301-09.json"
+        },
+        {
+          "number": 10,
+          "title": "プラニスフィア ～planisphere～ -9 colors-",
+          "vocal": "Team.Stella",
+          "voiceActor": null,
+          "lyricsFile": "lyrics/laca-25301-10.json"
+        }
+      ]
+    },
+    {
+      "id": "laca-25302",
+      "title": "THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS -Luna-",
+      "artist": "Team.Luna",
+      "catalogNumber": "LACA-25302",
+      "url": "https://shinycolors.lantis.jp/releaseinfo/laca-25302/",
+      "sourceUrl": "https://shinycolors.lantis.jp/releaseinfo/laca-25302/",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Embers glow",
+          "vocal": "風野灯織",
+          "voiceActor": "近藤玲奈",
+          "lyricsFile": "lyrics/laca-25302-01.json"
+        },
+        {
+          "number": 2,
+          "title": "正解な不正解",
+          "vocal": "田中摩美々",
+          "voiceActor": "菅沼千紗",
+          "lyricsFile": "lyrics/laca-25302-02.json"
+        },
+        {
+          "number": 3,
+          "title": "最上級パンチライン",
+          "vocal": "三峰結華",
+          "voiceActor": "希水しお",
+          "lyricsFile": "lyrics/laca-25302-03.json"
+        },
+        {
+          "number": 4,
+          "title": "カラースプレーとうさぎさん",
+          "vocal": "幽谷霧子",
+          "voiceActor": "結名美月",
+          "lyricsFile": "lyrics/laca-25302-04.json"
+        },
+        {
+          "number": 5,
+          "title": "月とネオンと薄紅と",
+          "vocal": "杜野凛世",
+          "voiceActor": "丸岡和佳奈",
+          "lyricsFile": "lyrics/laca-25302-05.json"
+        },
+        {
+          "number": 6,
+          "title": "Odette",
+          "vocal": "大崎甜花",
+          "voiceActor": "前川涼子",
+          "lyricsFile": "lyrics/laca-25302-06.json"
+        },
+        {
+          "number": 7,
+          "title": "Hold on me",
+          "vocal": "和泉愛依",
+          "voiceActor": "北原沙弥香",
+          "lyricsFile": "lyrics/laca-25302-07.json"
+        },
+        {
+          "number": 8,
+          "title": "Here for you",
+          "vocal": "福丸小糸",
+          "voiceActor": "田嶌紗蘭",
+          "lyricsFile": "lyrics/laca-25302-08.json"
+        },
+        {
+          "number": 9,
+          "title": "HELL-O",
+          "vocal": "斑鳩ルカ",
+          "voiceActor": "川口莉奈",
+          "lyricsFile": "lyrics/laca-25302-09.json"
+        },
+        {
+          "number": 10,
+          "title": "リフレクトサイン -9 colors-",
+          "vocal": "Team.Luna",
+          "voiceActor": null,
+          "lyricsFile": "lyrics/laca-25302-10.json"
+        }
+      ]
+    },
+    {
+      "id": "laca-25303",
+      "title": "THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS -Sol-",
+      "artist": "Team.Sol",
+      "catalogNumber": "LACA-25303",
+      "url": "https://shinycolors.lantis.jp/releaseinfo/laca-25303/",
+      "sourceUrl": "https://shinycolors.lantis.jp/releaseinfo/laca-25303/",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Take Ur Time",
+          "vocal": "八宮めぐる",
+          "voiceActor": "峯田茉優",
+          "lyricsFile": "lyrics/laca-25303-01.json"
+        },
+        {
+          "number": 2,
+          "title": "Lights on me",
+          "vocal": "白瀬咲耶",
+          "voiceActor": "八巻アンナ",
+          "lyricsFile": "lyrics/laca-25303-02.json"
+        },
+        {
+          "number": 3,
+          "title": "パラボラ",
+          "vocal": "西城樹里",
+          "voiceActor": "永井真里子",
+          "lyricsFile": "lyrics/laca-25303-03.json"
+        },
+        {
+          "number": 4,
+          "title": "Be-witched",
+          "vocal": "有栖川夏葉",
+          "voiceActor": "涼本あきほ",
+          "lyricsFile": "lyrics/laca-25303-04.json"
+        },
+        {
+          "number": 5,
+          "title": "Sweet Boozy",
+          "vocal": "桑山千雪",
+          "voiceActor": "芝崎典子",
+          "lyricsFile": "lyrics/laca-25303-05.json"
+        },
+        {
+          "number": 6,
+          "title": "ガガリズム",
+          "vocal": "黛 冬優子",
+          "voiceActor": "幸村恵理",
+          "lyricsFile": "lyrics/laca-25303-06.json"
+        },
+        {
+          "number": 7,
+          "title": "Paradox",
+          "vocal": "浅倉 透",
+          "voiceActor": "和久井 優",
+          "lyricsFile": "lyrics/laca-25303-07.json"
+        },
+        {
+          "number": 8,
+          "title": "ハートフルデイ ハートフルミー",
+          "vocal": "市川雛菜",
+          "voiceActor": "岡咲美保",
+          "lyricsFile": "lyrics/laca-25303-08.json"
+        },
+        {
+          "number": 9,
+          "title": "Unstoppable",
+          "vocal": "七草にちか",
+          "voiceActor": "紫月杏朱彩",
+          "lyricsFile": "lyrics/laca-25303-09.json"
+        },
+        {
+          "number": 10,
+          "title": "HSV色空間",
+          "vocal": "郁田はるき",
+          "voiceActor": "小澤麗那",
+          "lyricsFile": "lyrics/laca-25303-10.json"
+        },
+        {
+          "number": 11,
+          "title": "SOLAR WAY -10 colors-",
+          "vocal": "Team.Sol",
+          "voiceActor": null,
+          "lyricsFile": "lyrics/laca-25303-11.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-10",
+  "albumId": "laca-25303",
+  "trackNumber": 10,
+  "title": "HSV色空間",
+  "vocal": "郁田はるき",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/HSV色空間.txt",
+    "sha256": "fe84d6443485519c63833a4e88ed6975400c8bfc0833370ed83bc292118c09a1",
+    "originalFile": "laca-25303-10.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "ビビット・びびっ・ビビッ, 配色/敗色, 精細/精彩 등의 소리 말장난을 고려해 번역했습니다.",
+    "'Made a sign to me to see'는 앞줄의 '明度、彩度、色相'와 소리가 겹치는 구절로 보고 영어 뜻도 함께 옮겼습니다.",
+    "0은 ゼロ, 'すっ'의 끝은 촉음으로 가정했습니다. 랩의 끊어 읽기와 영어의 실제 가창 발음은 음원 미검증입니다.",
+    "'解体が 抽象を 早々に' 등 압축된 구문은 해석 여지가 있어 원문의 나열 구조를 가능한 한 유지했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "パステル　ビビット　びびっ　びびっ",
+          "pronunciation": "파스테루 비빗토 비빗 비빗",
+          "translation": "파스텔, 비비드, 찌릿, 찌릿"
+        },
+        {
+          "number": 2,
+          "original": "ビビッと来たら　混ぜて",
+          "pronunciation": "비빗토 키타라 마제테",
+          "translation": "번뜩 느낌이 오면 섞어"
+        },
+        {
+          "number": 3,
+          "original": "感じたハートを　突き動かして",
+          "pronunciation": "칸지타 하아토오 츠키우고카시테",
+          "translation": "무언가를 느낀 마음을 움직여"
+        },
+        {
+          "number": 4,
+          "original": "馬鹿正直に　ドロウ",
+          "pronunciation": "바카쇼오지키니 도로우",
+          "translation": "바보 같을 만큼 솔직하게 그려"
+        },
+        {
+          "number": 5,
+          "original": "曖昧な　空想も　創造に　再構築　脳内　了解",
+          "pronunciation": "아이마이나 쿠우소오모 소오조오니 사이코오치쿠 노오나이 료오카이",
+          "translation": "애매한 공상도 창조로 재구성, 머릿속에서 접수 완료"
+        },
+        {
+          "number": 6,
+          "original": "再放送じゃ論外　イマを描いて　存在　オンタイム",
+          "pronunciation": "사이호오소오자 론가이 이마오 에가이테 손자이 온타임",
+          "translation": "재방송은 논외, 지금을 그려, 실시간으로 존재해"
+        },
+        {
+          "number": 7,
+          "original": "理想の実装は　共犯ですっ　ゴーイング",
+          "pronunciation": "리소오노 짓소오와 쿄오한데슷 고오잉",
+          "translation": "이상을 구현하는 데는 공범이에요, 계속 가자"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 8,
+          "original": "難解な　迷彩　極彩色　マナー",
+          "pronunciation": "난카이나 메이사이 고쿠사이시키 마나아",
+          "translation": "난해한 위장무늬, 총천연색, 예절"
+        },
+        {
+          "number": 9,
+          "original": "全部　いいかも　いいよね",
+          "pronunciation": "젠부 이이카모 이이요네",
+          "translation": "전부 좋을지도, 좋잖아"
+        },
+        {
+          "number": 10,
+          "original": "配色のスキームを　飛び越え",
+          "pronunciation": "하이쇼쿠노 스키이무오 토비코에",
+          "translation": "배색의 구성을 뛰어넘어"
+        },
+        {
+          "number": 11,
+          "original": "散らかしちゃおう",
+          "pronunciation": "치라카시차오오",
+          "translation": "어질러 버리자"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 12,
+          "original": "わかんないよ　わかんないよ",
+          "pronunciation": "와칸나이요 와칸나이요",
+          "translation": "모르겠어, 모르겠어"
+        },
+        {
+          "number": 13,
+          "original": "正解は　わかんないほうが　楽しいね",
+          "pronunciation": "세이카이와 와칸나이 호오가 타노시이네",
+          "translation": "정답은 모르는 편이 즐겁네"
+        },
+        {
+          "number": 14,
+          "original": "なんでもかんでも　実験",
+          "pronunciation": "난데모 칸데모 짓켄",
+          "translation": "이것저것 전부 실험"
+        },
+        {
+          "number": 15,
+          "original": "三色以上はダメって　誰が決めたのさ",
+          "pronunciation": "산쇼쿠 이조오와 다멧테 다레가 키메타노사",
+          "translation": "세 가지 색 이상은 안 된다고 누가 정했어"
+        },
+        {
+          "number": 16,
+          "original": "でもでもでも",
+          "pronunciation": "데모 데모 데모",
+          "translation": "하지만, 하지만, 하지만"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 17,
+          "original": "わかんないよ　わかんないよ",
+          "pronunciation": "와칸나이요 와칸나이요",
+          "translation": "모르겠어, 모르겠어"
+        },
+        {
+          "number": 18,
+          "original": "精細な　情報　打破する　エゴ",
+          "pronunciation": "세이사이나 조오호오 다하스루 에고",
+          "translation": "정밀한 정보를 깨뜨리는 자아"
+        },
+        {
+          "number": 19,
+          "original": "何度も　一緒に　ぶつけ合えば　名前のないカラー",
+          "pronunciation": "난도모 잇쇼니 부츠케아에바 나마에노 나이 카라아",
+          "translation": "몇 번이고 함께 부딪쳐 보면 이름 없는 색"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 20,
+          "original": "わかんないよ　わかんないよ　命題も",
+          "pronunciation": "와칸나이요 와칸나이요 메이다이모",
+          "translation": "모르겠어, 모르겠어, 명제도"
+        },
+        {
+          "number": 21,
+          "original": "わかんないよ　わかんないよ　精彩に",
+          "pronunciation": "와칸나이요 와칸나이요 세이사이니",
+          "translation": "모르겠어, 모르겠어, 생생하게"
+        },
+        {
+          "number": 22,
+          "original": "わかんないよ　わかんないよ　限界は",
+          "pronunciation": "와칸나이요 와칸나이요 겐카이와",
+          "translation": "모르겠어, 모르겠어, 한계는"
+        },
+        {
+          "number": 23,
+          "original": "わかんないよ　わかんないよ　まあ　いいじゃん",
+          "pronunciation": "와칸나이요 와칸나이요 마아 이이잔",
+          "translation": "모르겠어, 모르겠어, 뭐, 괜찮잖아"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 24,
+          "original": "アクセル　全開　ぐりっ　ぐりっ",
+          "pronunciation": "아쿠세루 젠카이 구릿 구릿",
+          "translation": "가속 페달을 끝까지, 휙, 휙"
+        },
+        {
+          "number": 25,
+          "original": "ぐりんと捻って　飛ばせ",
+          "pronunciation": "구린토 히넷테 토바세",
+          "translation": "휙 비틀어 내달려"
+        },
+        {
+          "number": 26,
+          "original": "案じたカードは　切れないみたい",
+          "pronunciation": "안지타 카아도와 키레나이 미타이",
+          "translation": "생각해 둔 카드는 낼 수 없는 것 같아"
+        },
+        {
+          "number": 27,
+          "original": "また常識が　ストップ",
+          "pronunciation": "마타 조오시키가 스톳푸",
+          "translation": "또 상식이 멈춰 세워"
+        },
+        {
+          "number": 28,
+          "original": "解体が　抽象を　早々に　さあ　投じる一石　一斉",
+          "pronunciation": "카이타이가 추우쇼오오 소오소오니 사아 토오지루 잇세키 잇세이",
+          "translation": "해체가 추상을 재빨리, 자, 일제히 돌 하나를 던져"
+        },
+        {
+          "number": 29,
+          "original": "最高潮に崩壊　イマが世界で一番　尊い",
+          "pronunciation": "사이코오초오니 호오카이 이마가 세카이데 이치반 토오토이",
+          "translation": "최고조로 무너져, 지금이 세상에서 가장 소중해"
+        },
+        {
+          "number": 30,
+          "original": "思考の一笑　御法度ですっ　傷心",
+          "pronunciation": "시코오노 잇쇼오 고핫토데슷 쇼오신",
+          "translation": "생각을 비웃는 건 금지예요, 마음에 상처"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 31,
+          "original": "満開な　体裁　繕うより　まだ",
+          "pronunciation": "만카이나 테이사이 츠쿠로우요리 마다",
+          "translation": "활짝 핀 겉모습을 꾸미기보다는 아직"
+        },
+        {
+          "number": 32,
+          "original": "発展途上　道中",
+          "pronunciation": "핫텐토조오 도오추우",
+          "translation": "발전하는 도중, 길 위"
+        },
+        {
+          "number": 33,
+          "original": "敗色濃厚な　勝負挑んで",
+          "pronunciation": "하이쇼쿠 노오코오나 쇼오부 이돈데",
+          "translation": "패색이 짙은 승부에 도전해"
+        },
+        {
+          "number": 34,
+          "original": "派手に騒ごう",
+          "pronunciation": "하데니 사와고오",
+          "translation": "요란하게 떠들자"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 35,
+          "original": "わかんないよ　わかんないよ",
+          "pronunciation": "와칸나이요 와칸나이요",
+          "translation": "모르겠어, 모르겠어"
+        },
+        {
+          "number": 36,
+          "original": "現状が　わかんない　ちょっと　不安な",
+          "pronunciation": "겐조오가 와칸나이 춋토 후안나",
+          "translation": "상황을 모르겠는, 조금 불안한"
+        },
+        {
+          "number": 37,
+          "original": "渋滞だって　クリーンじゃ",
+          "pronunciation": "주우타이닷테 쿠리인자",
+          "translation": "정체도, 말끔하기만 하면"
+        },
+        {
+          "number": 38,
+          "original": "退屈なんだ　困ったときは　そのときだ",
+          "pronunciation": "타이쿠츠난다 코맛타 토키와 소노 토키다",
+          "translation": "지루하잖아, 곤란한 일은 그때 생각해"
+        },
+        {
+          "number": 39,
+          "original": "まだまだまだ",
+          "pronunciation": "마다 마다 마다",
+          "translation": "아직, 아직, 아직"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 40,
+          "original": "わかんないよ　わかんないよ",
+          "pronunciation": "와칸나이요 와칸나이요",
+          "translation": "모르겠어, 모르겠어"
+        },
+        {
+          "number": 41,
+          "original": "明快な　解答なら　いらない",
+          "pronunciation": "메이카이나 카이토오나라 이라나이",
+          "translation": "명쾌한 해답이라면 필요 없어"
+        },
+        {
+          "number": 42,
+          "original": "何度も　一緒に　ぶつけ合えば　かけがえないアワー",
+          "pronunciation": "난도모 잇쇼니 부츠케아에바 카케가에나이 아와아",
+          "translation": "몇 번이고 함께 부딪쳐 보면 무엇과도 바꿀 수 없는 시간"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 43,
+          "original": "あっちも　こっちも　素敵なものが　たくさん",
+          "pronunciation": "앗치모 콧치모 스테키나 모노가 타쿠상",
+          "translation": "이쪽도 저쪽도 멋진 것이 가득"
+        },
+        {
+          "number": 44,
+          "original": "あっちも　こっちも　既にもう　誰かの　マイセルフ",
+          "pronunciation": "앗치모 콧치모 스데니 모오 다레카노 마이셀프",
+          "translation": "이쪽도 저쪽도 이미 누군가의 ‘나 자신’"
+        },
+        {
+          "number": 45,
+          "original": "あっちも　こっちも　素敵なものが　たくさん",
+          "pronunciation": "앗치모 콧치모 스테키나 모노가 타쿠상",
+          "translation": "이쪽도 저쪽도 멋진 것이 가득"
+        },
+        {
+          "number": 46,
+          "original": "にっちも　さっちも　いかなくてまた混沌だ",
+          "pronunciation": "닛치모 삿치모 이카나쿠테 마타 콘톤다",
+          "translation": "이러지도 저러지도 못하고 또 혼돈이야"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 47,
+          "original": "明度、彩度、色相　シェイク　シェイク",
+          "pronunciation": "메이도 사이도 시키소오 셰이크 셰이크",
+          "translation": "명도, 채도, 색상, 흔들어, 흔들어"
+        },
+        {
+          "number": 48,
+          "original": "Made a sign to me to see　ノー　ノー",
+          "pronunciation": "메이드 어 사인 투 미 투 씨 노 노",
+          "translation": "내게 보라는 신호를 보냈어, 아니, 아니"
+        },
+        {
+          "number": 49,
+          "original": "明度、彩度、色相　シェイク　シェイク",
+          "pronunciation": "메이도 사이도 시키소오 셰이크 셰이크",
+          "translation": "명도, 채도, 색상, 흔들어, 흔들어"
+        },
+        {
+          "number": 50,
+          "original": "Made a sign to me to see　ノー　ノー",
+          "pronunciation": "메이드 어 사인 투 미 투 씨 노 노",
+          "translation": "내게 보라는 신호를 보냈어, 아니, 아니"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 51,
+          "original": "そうじゃない　そうじゃない",
+          "pronunciation": "소오자 나이 소오자 나이",
+          "translation": "그게 아니야, 그게 아니야"
+        },
+        {
+          "number": 52,
+          "original": "もっと　こう　自由に",
+          "pronunciation": "못토 코오 지유우니",
+          "translation": "더, 이렇게, 자유롭게"
+        },
+        {
+          "number": 53,
+          "original": "なんか　もう　自由が不自由の元みたい",
+          "pronunciation": "난카 모오 지유우가 후지유우노 모토 미타이",
+          "translation": "어쩐지 이젠 자유가 부자유의 원인 같아"
+        },
+        {
+          "number": 54,
+          "original": "苦しいよ　助けてよ　きっと　みんなも",
+          "pronunciation": "쿠루시이요 타스케테요 킷토 민나모",
+          "translation": "괴로워, 도와줘, 분명 모두도"
+        },
+        {
+          "number": 55,
+          "original": "同じなんだよ　0から作るのは",
+          "pronunciation": "오나지난다요 제로카라 츠쿠루노와",
+          "translation": "똑같을 거야, 무에서 만들어내는 건"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "lines": [
+        {
+          "number": 56,
+          "original": "わかんないよ　わかんないよ",
+          "pronunciation": "와칸나이요 와칸나이요",
+          "translation": "모르겠어, 모르겠어"
+        },
+        {
+          "number": 57,
+          "original": "正解は　わかんないほうが　楽しいね",
+          "pronunciation": "세이카이와 와칸나이 호오가 타노시이네",
+          "translation": "정답은 모르는 편이 즐겁네"
+        },
+        {
+          "number": 58,
+          "original": "なんでもかんでも　実験",
+          "pronunciation": "난데모 칸데모 짓켄",
+          "translation": "이것저것 전부 실험"
+        },
+        {
+          "number": 59,
+          "original": "三色以上はダメって　誰が決めたのさ",
+          "pronunciation": "산쇼쿠 이조오와 다멧테 다레가 키메타노사",
+          "translation": "세 가지 색 이상은 안 된다고 누가 정했어"
+        },
+        {
+          "number": 60,
+          "original": "でもでもでも",
+          "pronunciation": "데모 데모 데모",
+          "translation": "하지만, 하지만, 하지만"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "lines": [
+        {
+          "number": 61,
+          "original": "わかんないよ　わかんないよ",
+          "pronunciation": "와칸나이요 와칸나이요",
+          "translation": "모르겠어, 모르겠어"
+        },
+        {
+          "number": 62,
+          "original": "精細な　情報　打破する　エゴ",
+          "pronunciation": "세이사이나 조오호오 다하스루 에고",
+          "translation": "정밀한 정보를 깨뜨리는 자아"
+        },
+        {
+          "number": 63,
+          "original": "何度も　一緒に　ぶつけ合えば　名前のないカラー",
+          "pronunciation": "난도모 잇쇼니 부츠케아에바 나마에노 나이 카라아",
+          "translation": "몇 번이고 함께 부딪쳐 보면 이름 없는 색"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "lines": [
+        {
+          "number": 64,
+          "original": "あっちも　こっちも　素敵なものが　たくさん",
+          "pronunciation": "앗치모 콧치모 스테키나 모노가 타쿠상",
+          "translation": "이쪽도 저쪽도 멋진 것이 가득"
+        },
+        {
+          "number": 65,
+          "original": "あっちも　こっちも　既にもう　誰かの　マイセルフ",
+          "pronunciation": "앗치모 콧치모 스데니 모오 다레카노 마이셀프",
+          "translation": "이쪽도 저쪽도 이미 누군가의 ‘나 자신’"
+        },
+        {
+          "number": 66,
+          "original": "あっちも　こっちも　素敵なものが　たくさん",
+          "pronunciation": "앗치모 콧치모 스테키나 모노가 타쿠상",
+          "translation": "이쪽도 저쪽도 멋진 것이 가득"
+        },
+        {
+          "number": 67,
+          "original": "にっちも　さっちも　いかないのも　まあ　本望だ",
+          "pronunciation": "닛치모 삿치모 이카나이노모 마아 혼모오다",
+          "translation": "이러지도 저러지도 못하는 것도, 뭐, 바라던 바야"
+        },
+        {
+          "number": 68,
+          "original": "オーライ",
+          "pronunciation": "오오라이",
+          "translation": "좋아"
+        }
+      ]
+    }
+  ]
+}

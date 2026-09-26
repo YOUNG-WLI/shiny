@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-03",
+  "albumId": "laca-25303",
+  "trackNumber": 3,
+  "title": "パラボラ",
+  "vocal": "西城樹里",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/パラボラ.txt",
+    "sha256": "db26a1d4bc68f00e2f2a6d334394c57c237d56a9eecbcdecb8cb870cc5ed1cc0",
+    "originalFile": "laca-25303-03.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "私は私のままで　走り出せ",
+          "pronunciation": "와타시와 와타시노 마마데 하시리다세",
+          "translation": "나는 나인 그대로 달려 나가"
+        },
+        {
+          "number": 2,
+          "original": "どこまでも　真っ直ぐに",
+          "pronunciation": "도코마데모 맛스구니",
+          "translation": "어디까지나 곧게"
+        },
+        {
+          "number": 3,
+          "original": "今はまだ　見えないゴールへ",
+          "pronunciation": "이마와 마다 미에나이 고오루에",
+          "translation": "지금은 아직 보이지 않는 결승점으로"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 4,
+          "original": "色のない　空白に迷い込んだ日",
+          "pronunciation": "이로노 나이 쿠우하쿠니 마요이콘다 히",
+          "translation": "빛깔 없는 공백 속을 헤매던 날"
+        },
+        {
+          "number": 5,
+          "original": "どこに向かうの？　自分さえ分からなかった",
+          "pronunciation": "도코니 무카우노? 지분사에 와카라나캇타",
+          "translation": "어디로 향하는 걸까? 나조차 알 수 없었어"
+        },
+        {
+          "number": 6,
+          "original": "でも　思いきり踏み出した　小さな一歩が",
+          "pronunciation": "데모 오모이키리 후미다시타 치이사나 잇포가",
+          "translation": "하지만 힘껏 내디딘 작은 한 걸음이"
+        },
+        {
+          "number": 7,
+          "original": "新しい空を見つけた",
+          "pronunciation": "아타라시이 소라오 미츠케타",
+          "translation": "새로운 하늘을 찾아냈어"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 8,
+          "original": "大丈夫　ちゃんと分かってる",
+          "pronunciation": "다이조오부 찬토 와캇테루",
+          "translation": "괜찮아, 잘 알고 있어"
+        },
+        {
+          "number": 9,
+          "original": "この道は　私にしか選べない",
+          "pronunciation": "코노 미치와 와타시니시카 에라베나이",
+          "translation": "이 길은 오직 나만이 고를 수 있어"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 10,
+          "original": "つまずいた分だけ　涙の数だけ",
+          "pronunciation": "츠마즈이타 분다케 나미다노 카즈다케",
+          "translation": "넘어진 만큼, 흘린 눈물만큼"
+        },
+        {
+          "number": 11,
+          "original": "昨日よりも　高く跳べ　未来へ届くように",
+          "pronunciation": "키노오요리모 타카쿠 토베 미라이에 토도쿠 요오니",
+          "translation": "어제보다 높이 뛰어, 미래에 닿을 수 있도록"
+        },
+        {
+          "number": 12,
+          "original": "すり減らしたシューズも　滲んだ思い出も　軌道を描いて",
+          "pronunciation": "스리헤라시타 슈우즈모 니진다 오모이데모 키도오오 에가이테",
+          "translation": "닳아버린 신발도 번진 추억도 궤적을 그리며"
+        },
+        {
+          "number": 13,
+          "original": "今はまだ　見えないゴールへ",
+          "pronunciation": "이마와 마다 미에나이 고오루에",
+          "translation": "지금은 아직 보이지 않는 결승점으로"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 14,
+          "original": "いつかまた　太陽が雲に隠れて",
+          "pronunciation": "이츠카 마타 타이요오가 쿠모니 카쿠레테",
+          "translation": "언젠가 다시 태양이 구름에 가려져"
+        },
+        {
+          "number": 15,
+          "original": "前も分からない　音もない世界になっても",
+          "pronunciation": "마에모 와카라나이 오토모 나이 세카이니 낫테모",
+          "translation": "앞도 알 수 없고 소리도 없는 세상이 되더라도"
+        },
+        {
+          "number": 16,
+          "original": "ほら　目を閉じて深呼吸　耳をすましたら",
+          "pronunciation": "호라 메오 토지테 신코큐우 미미오 스마시타라",
+          "translation": "자, 눈을 감고 깊이 숨 쉬며 귀를 기울이니"
+        },
+        {
+          "number": 17,
+          "original": "一人じゃないって思えた",
+          "pronunciation": "히토리자 나잇테 오모에타",
+          "translation": "혼자가 아니라는 생각이 들었어"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 18,
+          "original": "大丈夫　ちゃんと聞こえてる",
+          "pronunciation": "다이조오부 찬토 키코에테루",
+          "translation": "괜찮아, 잘 들리고 있어"
+        },
+        {
+          "number": 19,
+          "original": "その声が　背中押してくれるんだ　何度でも",
+          "pronunciation": "소노 코에가 세나카 오시테쿠레룬다 난도데모",
+          "translation": "그 목소리가 등을 밀어주는 거야, 몇 번이고"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 20,
+          "original": "私は私のままで　走り出せ",
+          "pronunciation": "와타시와 와타시노 마마데 하시리다세",
+          "translation": "나는 나인 그대로 달려 나가"
+        },
+        {
+          "number": 21,
+          "original": "私は私のままで　どこまでも",
+          "pronunciation": "와타시와 와타시노 마마데 도코마데모",
+          "translation": "나는 나인 그대로 어디까지든"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 22,
+          "original": "乗り越えた分だけ　笑顔の数だけ",
+          "pronunciation": "노리코에타 분다케 에가오노 카즈다케",
+          "translation": "극복한 만큼, 미소 지은 만큼"
+        },
+        {
+          "number": 23,
+          "original": "今日よりも　高く跳べ　誰かに届くように",
+          "pronunciation": "쿄오요리모 타카쿠 토베 다레카니 토도쿠 요오니",
+          "translation": "오늘보다 높이 뛰어, 누군가에게 닿을 수 있도록"
+        },
+        {
+          "number": 24,
+          "original": "信じて描こう　自分らしく　私のままで",
+          "pronunciation": "신지테 에가코오 지분라시쿠 와타시노 마마데",
+          "translation": "믿고 그려가자, 나답게, 나인 그대로"
+        },
+        {
+          "number": 25,
+          "original": "太陽よりずっと　眩しいゴールへ",
+          "pronunciation": "타이요오요리 즛토 마부시이 고오루에",
+          "translation": "태양보다 훨씬 눈부신 결승점으로"
+        },
+        {
+          "number": 26,
+          "original": "今はまだ　見えないゴールへ",
+          "pronunciation": "이마와 마다 미에나이 고오루에",
+          "translation": "지금은 아직 보이지 않는 결승점으로"
+        }
+      ]
+    }
+  ]
+}

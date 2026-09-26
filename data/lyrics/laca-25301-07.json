@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-07",
+  "albumId": "laca-25301",
+  "trackNumber": 7,
+  "title": "ダミーガール",
+  "vocal": "樋口円香",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/ダミーガール.txt",
+    "sha256": "e1c3311decec96a08663cb485bb052b196bf12f3cf2421acb9a846f4d006d8c6",
+    "originalFile": "laca-25301-07.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "ゲシュタる는 게슈탈트 붕괴를 연상시키는 표현으로 보고 의미가 낯설어지거나 무너지는 상태로 번역했습니다.",
+    "대중 A/B는 각각 에에/비이로 가정했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "あぁまた始まった　どうぞ嫌いだけなら",
+          "pronunciation": "아아 마타 하지맛타 도오조 키라이다케나라",
+          "translation": "아아, 또 시작됐네. 그저 싫어할 뿐이라면 마음대로 해"
+        },
+        {
+          "number": 2,
+          "original": "さぁDon't need that",
+          "pronunciation": "사아 돈트 니드 댓",
+          "translation": "자, 그런 건 필요 없어"
+        },
+        {
+          "number": 3,
+          "original": "整合性のないチューニングに無駄に夢中？",
+          "pronunciation": "세이고오세이노 나이 추우닝구니 무다니 무추우?",
+          "translation": "앞뒤도 안 맞는 조율에 헛되이 빠져 있어?"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 4,
+          "original": "曖昧なままfeeling別に",
+          "pronunciation": "아이마이나 마마 필링 베츠니",
+          "translation": "애매한 채로 느껴, 별로"
+        },
+        {
+          "number": 5,
+          "original": "時代？世代？知らないけど",
+          "pronunciation": "지다이? 세다이? 시라나이케도",
+          "translation": "시대? 세대? 잘 모르겠지만"
+        },
+        {
+          "number": 6,
+          "original": "大体また誤認だけの統計でしょ",
+          "pronunciation": "다이타이 마타 고닌다케노 토오케이데쇼",
+          "translation": "어차피 또 오해투성이 통계잖아"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 7,
+          "original": "実際　押しつけた理想は崩れてく",
+          "pronunciation": "짓사이 오시츠케타 리소오와 쿠즈레테쿠",
+          "translation": "실제로 강요한 이상은 무너져 가"
+        },
+        {
+          "number": 8,
+          "original": "SOSすら　目もくれない大衆A",
+          "pronunciation": "에스 오오 에스스라 메모 쿠레나이 타이슈우 에에",
+          "translation": "구조 신호조차 거들떠보지 않는 대중 A"
+        },
+        {
+          "number": 9,
+          "original": "向けてくるその視線　少しズレてるんじゃない？",
+          "pronunciation": "무케테쿠루 소노 시센 스코시 즈레테룬자 나이?",
+          "translation": "내게 보내는 그 시선, 조금 어긋나 있지 않아?"
+        },
+        {
+          "number": 10,
+          "original": "まぁ好きに切り取れる世界が楽でいいんでしょ",
+          "pronunciation": "마아 스키니 키리토레루 세카이가 라쿠데 이인데쇼",
+          "translation": "뭐, 마음대로 잘라 볼 수 있는 세상이 편하고 좋겠지"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 11,
+          "original": "核心突く証明　未知の聡明",
+          "pronunciation": "카쿠신 츠쿠 쇼오메이 미치노 소오메이",
+          "translation": "핵심을 찌르는 증명, 미지의 총명함"
+        },
+        {
+          "number": 12,
+          "original": "チグハグな境界線の上",
+          "pronunciation": "치구하구나 쿄오카이센노 우에",
+          "translation": "뒤죽박죽인 경계선 위"
+        },
+        {
+          "number": 13,
+          "original": "空っぽなシナリオに予防線を並べて",
+          "pronunciation": "카랏포나 시나리오니 요보오센오 나라베테",
+          "translation": "텅 빈 시나리오에 방어선을 늘어놓고"
+        },
+        {
+          "number": 14,
+          "original": "仮のままでいい",
+          "pronunciation": "카리노 마마데 이이",
+          "translation": "임시인 채로도 괜찮아"
+        },
+        {
+          "number": 15,
+          "original": "それでも悪くないかな",
+          "pronunciation": "소레데모 와루쿠 나이카나",
+          "translation": "그래도 나쁘지는 않을까"
+        },
+        {
+          "number": 16,
+          "original": "変わることに恐れないで",
+          "pronunciation": "카와루 코토니 오소레나이데",
+          "translation": "변하는 걸 두려워하지 마"
+        },
+        {
+          "number": 17,
+          "original": "飽きたら捨てるさ　ダミーガール",
+          "pronunciation": "아키타라 스테루사 다미이 가아루",
+          "translation": "질리면 버릴 거야, 더미 걸"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 18,
+          "original": "(Hey now, what is real？)",
+          "pronunciation": "(헤이 나우 왓 이즈 리얼?)",
+          "translation": "(자, 무엇이 진짜일까?)"
+        },
+        {
+          "number": 19,
+          "original": "just wanna　ほら　メロウに to Live",
+          "pronunciation": "저스트 워너 호라 메로오니 투 리브",
+          "translation": "그저, 자, 느긋하게 살고 싶어"
+        },
+        {
+          "number": 20,
+          "original": "(Hey now, what is real？)",
+          "pronunciation": "(헤이 나우 왓 이즈 리얼?)",
+          "translation": "(자, 무엇이 진짜일까?)"
+        },
+        {
+          "number": 21,
+          "original": "I wanna be　さぁ　メロウに no lie",
+          "pronunciation": "아이 워너 비 사아 메로오니 노 라이",
+          "translation": "난 그렇게 되고 싶어, 자, 느긋하게, 거짓 없이"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 22,
+          "original": "求めずに終われない過剰摂取してるドーパミン",
+          "pronunciation": "모토메즈니 오와레나이 카조오 셋슈시테루 도오파민",
+          "translation": "갈구하지 않고는 끝낼 수 없어, 과다 섭취하는 도파민"
+        },
+        {
+          "number": 23,
+          "original": "善悪の切り離し方はどこだろな",
+          "pronunciation": "젠아쿠노 키리하나시카타와 도코다로나",
+          "translation": "선과 악을 가르는 방법은 어디 있을까"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 24,
+          "original": "当たって砕けてもその先の保証は無いんでしょう？",
+          "pronunciation": "아탓테 쿠다케테모 소노 사키노 호쇼오와 나인데쇼오?",
+          "translation": "부딪혀 산산이 깨져도 그다음은 보장되지 않겠지?"
+        },
+        {
+          "number": 25,
+          "original": "ゲシュタる日々から出口探して無我夢中",
+          "pronunciation": "게슈타루 히비카라 데구치 사가시테 무가무추우",
+          "translation": "의미가 무너지는 나날에서 정신없이 출구를 찾아"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 26,
+          "original": "(あぁまた始まった)",
+          "pronunciation": "(아아 마타 하지맛타)",
+          "translation": "(아아, 또 시작됐네)"
+        },
+        {
+          "number": 27,
+          "original": "もう独りみたいな感覚だ",
+          "pronunciation": "모오 히토리 미타이나 칸카쿠다",
+          "translation": "이미 혼자가 된 듯한 느낌이야"
+        },
+        {
+          "number": 28,
+          "original": "(あぁまた始まった)",
+          "pronunciation": "(아아 마타 하지맛타)",
+          "translation": "(아아, 또 시작됐네)"
+        },
+        {
+          "number": 29,
+          "original": "もう理屈じゃない分かってんだ",
+          "pronunciation": "모오 리쿠츠자 나이 와캇텐다",
+          "translation": "이젠 논리의 문제가 아냐, 알고 있어"
+        },
+        {
+          "number": 30,
+          "original": "(あぁまた始まった)",
+          "pronunciation": "(아아 마타 하지맛타)",
+          "translation": "(아아, 또 시작됐네)"
+        },
+        {
+          "number": 31,
+          "original": "まだまだ",
+          "pronunciation": "마다 마다",
+          "translation": "아직, 아직"
+        },
+        {
+          "number": 32,
+          "original": "(あぁまた始まった)",
+          "pronunciation": "(아아 마타 하지맛타)",
+          "translation": "(아아, 또 시작됐네)"
+        },
+        {
+          "number": 33,
+          "original": "ほらほら",
+          "pronunciation": "호라 호라",
+          "translation": "자, 봐"
+        },
+        {
+          "number": 34,
+          "original": "華々しい病のアイロニーに溺れて",
+          "pronunciation": "하나바나시이 야마이노 아이로니이니 오보레테",
+          "translation": "화려한 병의 아이러니에 빠져"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 35,
+          "original": "案外　絡まった勘違いもお手のモノね",
+          "pronunciation": "안가이 카라맛타 칸치가이모 오테노 모노네",
+          "translation": "의외로 꼬여 버린 오해에도 능숙하네"
+        },
+        {
+          "number": 36,
+          "original": "SOSすら　祭り上げる大衆B",
+          "pronunciation": "에스 오오 에스스라 마츠리아게루 타이슈우 비이",
+          "translation": "구조 신호마저 떠받드는 대중 B"
+        },
+        {
+          "number": 37,
+          "original": "向けてくるその視線　少しズレてるんじゃない？",
+          "pronunciation": "무케테쿠루 소노 시센 스코시 즈레테룬자 나이?",
+          "translation": "내게 보내는 그 시선, 조금 어긋나 있지 않아?"
+        },
+        {
+          "number": 38,
+          "original": "まぁ綺麗事だけでも言えれば楽でいいんでしょ",
+          "pronunciation": "마아 키레이고토다케데모 이에레바 라쿠데 이인데쇼",
+          "translation": "뭐, 듣기 좋은 말만 할 수 있어도 편하고 좋겠지"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 39,
+          "original": "核心突く証明　未知の聡明",
+          "pronunciation": "카쿠신 츠쿠 쇼오메이 미치노 소오메이",
+          "translation": "핵심을 찌르는 증명, 미지의 총명함"
+        },
+        {
+          "number": 40,
+          "original": "チグハグな境界線の上",
+          "pronunciation": "치구하구나 쿄오카이센노 우에",
+          "translation": "뒤죽박죽인 경계선 위"
+        },
+        {
+          "number": 41,
+          "original": "空っぽなシナリオはあなた自身だろ",
+          "pronunciation": "카랏포나 시나리오와 아나타 지신다로",
+          "translation": "텅 빈 시나리오는 너 자신이잖아"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 42,
+          "original": "仮のままでいい　それでも悪くないかな",
+          "pronunciation": "카리노 마마데 이이 소레데모 와루쿠 나이카나",
+          "translation": "임시인 채로도 괜찮아, 그래도 나쁘지는 않을까"
+        },
+        {
+          "number": 43,
+          "original": "変わることに恐れないで",
+          "pronunciation": "카와루 코토니 오소레나이데",
+          "translation": "변하는 걸 두려워하지 마"
+        },
+        {
+          "number": 44,
+          "original": "飽きたら捨てるさ　ダミーガール",
+          "pronunciation": "아키타라 스테루사 다미이 가아루",
+          "translation": "질리면 버릴 거야, 더미 걸"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 45,
+          "original": "(Hey now, what is real？)",
+          "pronunciation": "(헤이 나우 왓 이즈 리얼?)",
+          "translation": "(자, 무엇이 진짜일까?)"
+        },
+        {
+          "number": 46,
+          "original": "just wanna　ほら　メロウに to Live",
+          "pronunciation": "저스트 워너 호라 메로오니 투 리브",
+          "translation": "그저, 자, 느긋하게 살고 싶어"
+        },
+        {
+          "number": 47,
+          "original": "(Hey now, what is real？)",
+          "pronunciation": "(헤이 나우 왓 이즈 리얼?)",
+          "translation": "(자, 무엇이 진짜일까?)"
+        },
+        {
+          "number": 48,
+          "original": "I wanna be　さぁ　メロウに no lie",
+          "pronunciation": "아이 워너 비 사아 메로오니 노 라이",
+          "translation": "난 그렇게 되고 싶어, 자, 느긋하게, 거짓 없이"
+        },
+        {
+          "number": 49,
+          "original": "(Hey now, what is real？)",
+          "pronunciation": "(헤이 나우 왓 이즈 리얼?)",
+          "translation": "(자, 무엇이 진짜일까?)"
+        },
+        {
+          "number": 50,
+          "original": "just wanna　ほら　メロウに to Live",
+          "pronunciation": "저스트 워너 호라 메로오니 투 리브",
+          "translation": "그저, 자, 느긋하게 살고 싶어"
+        },
+        {
+          "number": 51,
+          "original": "(Hey now, what is real？)",
+          "pronunciation": "(헤이 나우 왓 이즈 리얼?)",
+          "translation": "(자, 무엇이 진짜일까?)"
+        },
+        {
+          "number": 52,
+          "original": "ねえ退屈でしょ　ダミーガール",
+          "pronunciation": "네에 타이쿠츠데쇼 다미이 가아루",
+          "translation": "있지, 지루하지? 더미 걸"
+        }
+      ]
+    }
+  ]
+}

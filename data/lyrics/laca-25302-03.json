@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-03",
+  "albumId": "laca-25302",
+  "trackNumber": 3,
+  "title": "最上級パンチライン",
+  "vocal": "三峰結華",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/最上級パンチライン.txt",
+    "sha256": "7334498913ff457621a0363d6f61c888bd7f6b8ec53a39b5a8c6bacc45a0faf4",
+    "originalFile": "laca-25302-03.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "Tier는 ティア, ↑는 上(うえ), 1杯는 いっぱい로 가정했습니다.",
+    "カンスト는 게임 등의 수치가 상한에 도달함을 뜻하는 표현으로 옮겼습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "最上級のパンチラインで！",
+          "pronunciation": "사이조오큐우노 판치라인데!",
+          "translation": "최상급 펀치라인으로!"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 2,
+          "original": "演算？理想？ココロにファンデーション",
+          "pronunciation": "엔잔? 리소오? 코코로니 환데에숀",
+          "translation": "연산? 이상? 마음에 파운데이션"
+        },
+        {
+          "number": 3,
+          "original": "取り繕った知と順々に噛ますフィクション",
+          "pronunciation": "토리츠쿠롯타 치토 준준니 카마스 휘쿠숀",
+          "translation": "겉을 꾸민 지성과 차례차례 들이미는 허구"
+        },
+        {
+          "number": 4,
+          "original": "ひねくれ煌めくゆらめき浮遊のマリオネット",
+          "pronunciation": "히네쿠레 키라메쿠 유라메키 후유우노 마리오넷토",
+          "translation": "비뚤어지고 반짝이며 흔들리는, 떠도는 마리오네트"
+        },
+        {
+          "number": 5,
+          "original": "強がりBad Girl",
+          "pronunciation": "츠요가리 배드 걸",
+          "translation": "센 척하는 나쁜 여자"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 6,
+          "original": "う～Wa！",
+          "pronunciation": "우 와!",
+          "translation": "우~ 와!"
+        },
+        {
+          "number": 7,
+          "original": "変幻自在の身もWarning！ Warning！中？困ったな",
+          "pronunciation": "헨겐지자이노 미모 워닝! 워닝! 추우? 코맛타나",
+          "translation": "자유자재로 변하는 몸도 경고! 경고! 중? 곤란하네"
+        },
+        {
+          "number": 8,
+          "original": "内心のTier表はEか？Dか？いやAの↑のS！",
+          "pronunciation": "나이신노 티아효오와 이이카? 디이카? 이야 에에노 우에노 에스!",
+          "translation": "마음속 등급표는 E? D? 아니, A보다 위인 S!"
+        },
+        {
+          "number": 9,
+          "original": "さぁ今宵もワッチャッチャと1杯",
+          "pronunciation": "사아 코요이모 왓챳챠토 잇파이",
+          "translation": "자, 오늘 밤도 왓챳챠 하며 한 잔"
+        },
+        {
+          "number": 10,
+          "original": "憚られることもないんだもん",
+          "pronunciation": "하바카라레루 코토모 나인다몬",
+          "translation": "거리낄 것도 없잖아"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 11,
+          "original": "ねぇ聴こえてる？心拍リズムOn beat",
+          "pronunciation": "네에 키코에테루? 신파쿠 리즈무 온 비트",
+          "translation": "있지, 들려? 심장박동 리듬이 박자에 맞아"
+        },
+        {
+          "number": 12,
+          "original": "明日に繋がってく希望の方程式",
+          "pronunciation": "아시타니 츠나갓테쿠 키보오노 호오테이시키",
+          "translation": "내일로 이어지는 희망의 방정식"
+        },
+        {
+          "number": 13,
+          "original": "身支度なんて置いて　さぁ行こう？",
+          "pronunciation": "미지타쿠난테 오이테 사아 이코오?",
+          "translation": "외출 준비 같은 건 제쳐 두고, 자, 갈까?"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 14,
+          "original": "最上級パンチパンチガチの一直線",
+          "pronunciation": "사이조오큐우 판치 판치 가치노 잇초쿠센",
+          "translation": "최상급 펀치 펀치, 진심으로 일직선"
+        },
+        {
+          "number": 15,
+          "original": "酸いも甘いもまとめBang！ Bang！ Bang！",
+          "pronunciation": "스이모 아마이모 마토메 뱅! 뱅! 뱅!",
+          "translation": "쓴맛도 단맛도 한데 모아 빵! 빵! 빵!"
+        },
+        {
+          "number": 16,
+          "original": "最上級パンチパンチ愛の延長戦",
+          "pronunciation": "사이조오큐우 판치 판치 아이노 엔초오센",
+          "translation": "최상급 펀치 펀치, 사랑의 연장전"
+        },
+        {
+          "number": 17,
+          "original": "冷めないGimmick　チラリズム中",
+          "pronunciation": "사메나이 기믹 치라리즈무추우",
+          "translation": "식지 않는 장치, 살짝살짝 엿보이는 중"
+        },
+        {
+          "number": 18,
+          "original": "借り貸し無し踊れランデヴー",
+          "pronunciation": "카리카시 나시 오도레 란데부우",
+          "translation": "빚도 빚진 것도 없이 춤춰, 랑데부"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 19,
+          "original": "(woh oh oh woh oh oh)　ズバリIとYou間合い",
+          "pronunciation": "(워 오 오 워 오 오) 즈바리 아이토 유우 마아이",
+          "translation": "(워 오 오 워 오 오) 바로 나와 너 사이의 거리"
+        },
+        {
+          "number": 20,
+          "original": "(woh oh oh woh oh oh)　つまりカンストしてる",
+          "pronunciation": "(워 오 오 워 오 오) 츠마리 칸스토시테루",
+          "translation": "(워 오 오 워 오 오) 즉, 이미 한계치에 도달했어"
+        },
+        {
+          "number": 21,
+          "original": "(woh oh oh woh oh oh)　溶け合う規律の温度",
+          "pronunciation": "(워 오 오 워 오 오) 토케아우 키리츠노 온도",
+          "translation": "(워 오 오 워 오 오) 서로 녹아드는 규율의 온도"
+        },
+        {
+          "number": 22,
+          "original": "さぁ最上級のパンチラインDe！",
+          "pronunciation": "사아 사이조오큐우노 판치라인데!",
+          "translation": "자, 최상급 펀치라인으로!"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 23,
+          "original": "別解不明の心象迷路",
+          "pronunciation": "벳카이 후메이노 신쇼오메이로",
+          "translation": "다른 해답을 알 수 없는 마음속 미로"
+        },
+        {
+          "number": 24,
+          "original": "ケミカル愛の誤作動でしょ？",
+          "pronunciation": "케미카루 아이노 고사도오데쇼?",
+          "translation": "화학적인 사랑의 오작동이잖아?"
+        },
+        {
+          "number": 25,
+          "original": "形容不能の衝動警鐘",
+          "pronunciation": "케이요오 후노오노 쇼오도오 케이쇼오",
+          "translation": "형용할 수 없는 충동의 경종"
+        },
+        {
+          "number": 26,
+          "original": "待ちきれないアンコール延長？",
+          "pronunciation": "마치키레나이 앙코오루 엔초오?",
+          "translation": "기다릴 수 없는 앙코르 연장?"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 27,
+          "original": "Let's partyゲリラでほらMoving now！",
+          "pronunciation": "렛츠 파티 게리라데 호라 무빙 나우!",
+          "translation": "파티하자, 기습적으로, 자, 지금 움직여!"
+        },
+        {
+          "number": 28,
+          "original": "声聞かせて？ (woh oh oh oh oh oh)",
+          "pronunciation": "코에 키카세테? (워 오 오 오 오 오)",
+          "translation": "목소리를 들려줘 (워 오 오 오 오 오)"
+        },
+        {
+          "number": 29,
+          "original": "もう良いよいい子の振りも終わりにして",
+          "pronunciation": "모오 이이요 이이코노 후리모 오와리니 시테",
+          "translation": "이제 됐어, 착한 척도 끝내고"
+        },
+        {
+          "number": 30,
+          "original": "プラスチックのミラー壊して進め！",
+          "pronunciation": "푸라스칫쿠노 미라아 코와시테 스스메!",
+          "translation": "플라스틱 거울을 깨뜨리고 나아가!"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 31,
+          "original": "ねぇ分かってる？定義から外れた意味を",
+          "pronunciation": "네에 와캇테루? 테이기카라 하즈레타 이미오",
+          "translation": "있지, 알고 있어? 정의에서 벗어난 의미를"
+        },
+        {
+          "number": 32,
+          "original": "矛盾が解けてゆく未知の方程式",
+          "pronunciation": "무준가 토케테유쿠 미치노 호오테이시키",
+          "translation": "모순이 풀려가는 미지의 방정식"
+        },
+        {
+          "number": 33,
+          "original": "身支度なんて置いてさぁ行こう　う～Wa！",
+          "pronunciation": "미지타쿠난테 오이테 사아 이코오 우 와!",
+          "translation": "외출 준비 따윈 제쳐 두고 자, 가자, 우~ 와!"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 34,
+          "original": "らしくない展開じゃない？って？",
+          "pronunciation": "라시쿠 나이 텐카이자 나잇테?",
+          "translation": "나답지 않은 전개 아니냐고?"
+        },
+        {
+          "number": 35,
+          "original": "そりゃそうかもね実際",
+          "pronunciation": "소랴 소오카모네 짓사이",
+          "translation": "그건 그럴지도 모르지, 사실"
+        },
+        {
+          "number": 36,
+          "original": "期待値なんて測れないって",
+          "pronunciation": "키타이치난테 하카레나잇테",
+          "translation": "기댓값 따위는 측정할 수 없어"
+        },
+        {
+          "number": 37,
+          "original": "まぁこれで1つ締めでしょ！",
+          "pronunciation": "마아 코레데 히토츠 시메데쇼!",
+          "translation": "뭐, 이걸로 일단 마무리지!"
+        },
+        {
+          "number": 38,
+          "original": "まだ終わらない限界はないって？",
+          "pronunciation": "마다 오와라나이 겐카이와 나잇테?",
+          "translation": "아직 끝나지 않아, 한계는 없다고?"
+        },
+        {
+          "number": 39,
+          "original": "積み上げてく想像",
+          "pronunciation": "츠미아게테쿠 소오조오",
+          "translation": "쌓아 올리는 상상"
+        },
+        {
+          "number": 40,
+          "original": "境界線一歩ハミ出して",
+          "pronunciation": "쿄오카이센 잇포 하미다시테",
+          "translation": "경계선에서 한 걸음 벗어나"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 41,
+          "original": "最上級パンチパンチガチの一直線",
+          "pronunciation": "사이조오큐우 판치 판치 가치노 잇초쿠센",
+          "translation": "최상급 펀치 펀치, 진심으로 일직선"
+        },
+        {
+          "number": 42,
+          "original": "酸いも甘いもまとめBang！ Bang！ Bang！",
+          "pronunciation": "스이모 아마이모 마토메 뱅! 뱅! 뱅!",
+          "translation": "쓴맛도 단맛도 한데 모아 빵! 빵! 빵!"
+        },
+        {
+          "number": 43,
+          "original": "最上級パンチパンチ愛の延長戦",
+          "pronunciation": "사이조오큐우 판치 판치 아이노 엔초오센",
+          "translation": "최상급 펀치 펀치, 사랑의 연장전"
+        },
+        {
+          "number": 44,
+          "original": "冷めないGimmick　チラリズム中",
+          "pronunciation": "사메나이 기믹 치라리즈무추우",
+          "translation": "식지 않는 장치, 살짝살짝 엿보이는 중"
+        },
+        {
+          "number": 45,
+          "original": "借り貸し無し踊れランデヴー",
+          "pronunciation": "카리카시 나시 오도레 란데부우",
+          "translation": "빚도 빚진 것도 없이 춤춰, 랑데부"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 46,
+          "original": "(woh oh oh woh oh oh) ズバリIとYou間合い",
+          "pronunciation": "(워 오 오 워 오 오) 즈바리 아이토 유우 마아이",
+          "translation": "(워 오 오 워 오 오) 바로 나와 너 사이의 거리"
+        },
+        {
+          "number": 47,
+          "original": "(woh oh oh woh oh oh) つまりカンストしてる",
+          "pronunciation": "(워 오 오 워 오 오) 츠마리 칸스토시테루",
+          "translation": "(워 오 오 워 오 오) 즉, 이미 한계치에 도달했어"
+        },
+        {
+          "number": 48,
+          "original": "(woh oh oh woh oh oh) 溶け合う規律の温度",
+          "pronunciation": "(워 오 오 워 오 오) 토케아우 키리츠노 온도",
+          "translation": "(워 오 오 워 오 오) 서로 녹아드는 규율의 온도"
+        },
+        {
+          "number": 49,
+          "original": "さぁ倍の衝動に上々舞って　止まない音に身任せ",
+          "pronunciation": "사아 바이노 쇼오도오니 조오조오 맛테 야마나이 오토니 미마카세",
+          "translation": "자, 배가 된 충동에 기분 좋게 춤추며 멎지 않는 소리에 몸을 맡겨"
+        },
+        {
+          "number": 50,
+          "original": "最上級パンチラインをBang！",
+          "pronunciation": "사이조오큐우 판치라인오 뱅!",
+          "translation": "최상급 펀치라인을, 빵!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-01",
+  "albumId": "laca-25301",
+  "trackNumber": 1,
+  "title": "MAGICAL FOREST",
+  "vocal": "櫻木真乃",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/MAGICAL FOREST.txt",
+    "sha256": "5bfe5c8f28ff1cf01ee06aabdd758fc0b36ef37e8565b241f99bfabf9e438cef",
+    "originalFile": "laca-25301-01.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "ビビデバブ는 주문으로 보고 '비비데바부'로 유지했습니다.",
+    "IMAGE는 일본어 'イメージ'로, BELIEVE는 영어 'believe'로 읽는 것으로 가정했습니다. 실제 가창의 발음과 길이는 음원 확인이 필요합니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "気づいたら不思議な森の奥",
+          "pronunciation": "키즈이타라 후시기나 모리노 오쿠",
+          "translation": "정신을 차려 보니 신비한 숲속 깊은 곳"
+        },
+        {
+          "number": 2,
+          "original": "(ここはどこなの？)",
+          "pronunciation": "(코코와 도코나노?)",
+          "translation": "(여기는 어디지?)"
+        },
+        {
+          "number": 3,
+          "original": "帰り道は音もなく消えた",
+          "pronunciation": "카에리미치와 오토모 나쿠 키에타",
+          "translation": "돌아갈 길은 소리도 없이 사라졌어"
+        },
+        {
+          "number": 4,
+          "original": "(進まなきゃ)",
+          "pronunciation": "(스스마나캬)",
+          "translation": "(앞으로 가야 해)"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "ピンクのハトが飛んで(ah- a-)",
+          "pronunciation": "핑쿠노 하토가 톤데 (아- 아-)",
+          "translation": "분홍빛 비둘기가 날아가고 (아- 아-)"
+        },
+        {
+          "number": 6,
+          "original": "羽根がひとつビビデバブ",
+          "pronunciation": "하네가 히토츠 비비데바부",
+          "translation": "깃털 하나가, 비비데바부"
+        },
+        {
+          "number": 7,
+          "original": "一瞬で(わぁ)",
+          "pronunciation": "잇슌데 (와아)",
+          "translation": "눈 깜짝할 사이에 (와아)"
+        },
+        {
+          "number": 8,
+          "original": "ドレスアップ(It's a miracle！)",
+          "pronunciation": "도레스 앗푸 (잇츠 어 미러클!)",
+          "translation": "드레스로 변신! (기적이야!)"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 9,
+          "original": "「こっち(come on)おいで」と",
+          "pronunciation": "「콧치 (컴 온) 오이데」토",
+          "translation": "“이쪽으로 (어서) 와” 하며"
+        },
+        {
+          "number": 10,
+          "original": "(come on)青いバタフライ",
+          "pronunciation": "(컴 온) 아오이 바타후라이",
+          "translation": "(어서) 파란 나비가 부르네"
+        },
+        {
+          "number": 11,
+          "original": "追いかけた先には",
+          "pronunciation": "오이카케타 사키니와",
+          "translation": "뒤쫓아간 그곳에는"
+        },
+        {
+          "number": 12,
+          "original": "煌めく星　ショーとカーニバル(WOW)",
+          "pronunciation": "키라메쿠 호시 쇼오토 카아니바루 (와우)",
+          "translation": "반짝이는 별, 쇼와 카니발 (와아)"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 13,
+          "original": "IMAGEだけが未来地図",
+          "pronunciation": "이메에지다케가 미라이 치즈",
+          "translation": "상상만이 미래의 지도"
+        },
+        {
+          "number": 14,
+          "original": "トキメキと期待が咲く小道",
+          "pronunciation": "토키메키토 키타이가 사쿠 코미치",
+          "translation": "설렘과 기대가 피어나는 오솔길"
+        },
+        {
+          "number": 15,
+          "original": "今あなたがいるその場所も",
+          "pronunciation": "이마 아나타가 이루 소노 바쇼모",
+          "translation": "지금 네가 있는 그곳도"
+        },
+        {
+          "number": 16,
+          "original": "魔法の森なんだって気づいてる？",
+          "pronunciation": "마호오노 모리난닷테 키즈이테루?",
+          "translation": "마법의 숲이라는 걸 알고 있니?"
+        },
+        {
+          "number": 17,
+          "original": "(So magic magic so follow me！)",
+          "pronunciation": "(소 매직 매직 소 팔로우 미!)",
+          "translation": "(정말 마법 같아, 마법 같아, 그러니 날 따라와!)"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 18,
+          "original": "生い茂る　光をかき分けて",
+          "pronunciation": "오이시게루 히카리오 카키와케테",
+          "translation": "무성하게 자란 빛을 헤치고"
+        },
+        {
+          "number": 19,
+          "original": "(ねぇついて来て)",
+          "pronunciation": "(네에 츠이테 키테)",
+          "translation": "(있지, 따라와)"
+        },
+        {
+          "number": 20,
+          "original": "愛と音が　暮らすお家でパーティー",
+          "pronunciation": "아이토 오토가 쿠라스 오우치데 파아티이",
+          "translation": "사랑과 소리가 사는 집에서 파티를"
+        },
+        {
+          "number": 21,
+          "original": "(踊りましょう)",
+          "pronunciation": "(오도리마쇼오)",
+          "translation": "(함께 춤춰요)"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 22,
+          "original": "夢の木の実をがぶり(ah- a-)",
+          "pronunciation": "유메노 키노 미오 가부리 (아- 아-)",
+          "translation": "꿈의 나무 열매를 덥석 한입 (아- 아-)"
+        },
+        {
+          "number": 23,
+          "original": "分け合えたらビビデバブ",
+          "pronunciation": "와케아에타라 비비데바부",
+          "translation": "함께 나누면 비비데바부"
+        },
+        {
+          "number": 24,
+          "original": "ほらもう(うん)ドリームメイト",
+          "pronunciation": "호라 모오 (운) 도리이무 메이토",
+          "translation": "봐, 벌써 (응) 꿈을 함께하는 친구"
+        },
+        {
+          "number": 25,
+          "original": "(It's so wonderful！)",
+          "pronunciation": "(잇츠 소 원더풀!)",
+          "translation": "(정말 근사해!)"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 26,
+          "original": "「もっと(come on)行こう」と",
+          "pronunciation": "「못토 (컴 온) 이코오」토",
+          "translation": "“더 멀리 (어서) 가자” 하며"
+        },
+        {
+          "number": 27,
+          "original": "(come on)黄色いウサギ",
+          "pronunciation": "(컴 온) 키이로이 우사기",
+          "translation": "(어서) 노란 토끼가 부르네"
+        },
+        {
+          "number": 28,
+          "original": "駆け抜けた先には",
+          "pronunciation": "카케누케타 사키니와",
+          "translation": "달려 나간 그곳에는"
+        },
+        {
+          "number": 29,
+          "original": "空と海がスクランブル",
+          "pronunciation": "소라토 우미가 스쿠란부루",
+          "translation": "하늘과 바다가 뒤섞이고"
+        },
+        {
+          "number": 30,
+          "original": "風と虹のスプリンクル",
+          "pronunciation": "카제토 니지노 스푸링쿠루",
+          "translation": "바람과 무지개가 흩뿌려져"
+        },
+        {
+          "number": 31,
+          "original": "ハートはスパンコール(WOW)",
+          "pronunciation": "하아토와 스팡코오루 (와우)",
+          "translation": "마음은 스팽글처럼 반짝여 (와아)"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 32,
+          "original": "BELIEVEだけが羅針盤",
+          "pronunciation": "빌리브다케가 라신반",
+          "translation": "믿음만이 나침반"
+        },
+        {
+          "number": 33,
+          "original": "ドキドキと奇跡が降る岬",
+          "pronunciation": "도키도키토 키세키가 후루 미사키",
+          "translation": "두근거림과 기적이 내리는 곶"
+        },
+        {
+          "number": 34,
+          "original": "一度踏み入れたらもう二度と",
+          "pronunciation": "이치도 후미이레타라 모오 니도토",
+          "translation": "한번 발을 들이면 이제 두 번 다시"
+        },
+        {
+          "number": 35,
+          "original": "出口は見つかりません！なんてね",
+          "pronunciation": "데구치와 미츠카리마센! 난테네",
+          "translation": "출구는 찾을 수 없답니다! 농담이야"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 36,
+          "original": "(So magic so magic so magic！)",
+          "pronunciation": "(소 매직 소 매직 소 매직!)",
+          "translation": "(정말 마법 같아, 마법 같아, 마법 같아!)"
+        },
+        {
+          "number": 37,
+          "original": "(So magic follow me now！)",
+          "pronunciation": "(소 매직 팔로우 미 나우!)",
+          "translation": "(정말 마법 같아, 지금 날 따라와!)"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 38,
+          "original": "もっと奥へ　手を繋いで行こう(Magic)",
+          "pronunciation": "못토 오쿠에 테오 츠나이데 이코오 (매직)",
+          "translation": "더 깊은 곳으로, 손을 잡고 가자 (마법)"
+        },
+        {
+          "number": 39,
+          "original": "魔法の(魔法の)森へと(森へと)",
+          "pronunciation": "마호오노 (마호오노) 모리에토 (모리에토)",
+          "translation": "마법의 (마법의) 숲으로 (숲으로)"
+        },
+        {
+          "number": 40,
+          "original": "誘われた私達(Magic)",
+          "pronunciation": "사소와레타 와타시타치 (매직)",
+          "translation": "이끌려 온 우리 (마법)"
+        },
+        {
+          "number": 41,
+          "original": "不思議な(不思議な)森へと(森へと)",
+          "pronunciation": "후시기나 (후시기나) 모리에토 (모리에토)",
+          "translation": "신비한 (신비한) 숲으로 (숲으로)"
+        },
+        {
+          "number": 42,
+          "original": "踏み入れたから今(会えたね)",
+          "pronunciation": "후미이레타카라 이마 (아에타네)",
+          "translation": "발을 들였기에 지금 (만날 수 있었네)"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 43,
+          "original": "IMAGEが未来地図",
+          "pronunciation": "이메에지가 미라이 치즈",
+          "translation": "상상이 미래의 지도"
+        },
+        {
+          "number": 44,
+          "original": "トキメキと期待が咲く小道",
+          "pronunciation": "토키메키토 키타이가 사쿠 코미치",
+          "translation": "설렘과 기대가 피어나는 오솔길"
+        },
+        {
+          "number": 45,
+          "original": "今あなたがいるその場所も",
+          "pronunciation": "이마 아나타가 이루 소노 바쇼모",
+          "translation": "지금 네가 있는 그곳도"
+        },
+        {
+          "number": 46,
+          "original": "魔法の森なんだよ　だから",
+          "pronunciation": "마호오노 모리난다요 다카라",
+          "translation": "마법의 숲이야, 그러니까"
+        },
+        {
+          "number": 47,
+          "original": "出口は見つかりません！Follow me now！",
+          "pronunciation": "데구치와 미츠카리마센! 팔로우 미 나우!",
+          "translation": "출구는 찾을 수 없답니다! 지금 날 따라와!"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 48,
+          "original": "(So magic magic It's so magic！)",
+          "pronunciation": "(소 매직 매직 잇츠 소 매직!)",
+          "translation": "(정말 마법 같아, 마법 같아, 정말 마법 같아!)"
+        }
+      ]
+    }
+  ]
+}

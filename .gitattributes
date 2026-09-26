@@ -1,0 +1,3 @@
+# Source hashes must survive Windows/Linux checkout without newline conversion.
+manual_input/*.txt -text
+data/lyrics/*.original.txt -text

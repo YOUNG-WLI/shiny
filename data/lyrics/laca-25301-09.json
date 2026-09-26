@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-09",
+  "albumId": "laca-25301",
+  "trackNumber": 9,
+  "title": "Imaginary",
+  "vocal": "鈴木羽那",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Imaginary.txt",
+    "sha256": "1b4bcfafaa49267c886c765722cacf9195e3dcfa7186985809df4c2d82a87185",
+    "originalFile": "laca-25301-09.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "暈けて는 'ぼけて(보케테)'로 가정했습니다. 음원에서의 읽기는 확인하지 않았습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "はじめまして",
+          "pronunciation": "하지메마시테",
+          "translation": "처음 뵙겠습니다"
+        },
+        {
+          "number": 2,
+          "original": "鏡に映った誰かさん",
+          "pronunciation": "카가미니 우츳타 다레카상",
+          "translation": "거울에 비친 누군가 씨"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 3,
+          "original": "Case.1",
+          "pronunciation": "케이스 원",
+          "translation": "사례 1"
+        },
+        {
+          "number": 4,
+          "original": "多分偉い人に君を推してるよと言われた",
+          "pronunciation": "타분 에라이 히토니 키미오 오시테루요토 이와레타",
+          "translation": "아마 높은 사람에게 네 편을 들고 있다는 말을 들었어"
+        },
+        {
+          "number": 5,
+          "original": "そのままがいい　そのままでいい",
+          "pronunciation": "소노 마마가 이이 소노 마마데 이이",
+          "translation": "그대로가 좋아, 그대로면 돼"
+        },
+        {
+          "number": 6,
+          "original": "そのままってなんだっけ？",
+          "pronunciation": "소노 마맛테 난닷케?",
+          "translation": "그대로라는 게 뭐였더라?"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 7,
+          "original": "何者にでもなれちゃうんだって",
+          "pronunciation": "나니모노니데모 나레차운닷테",
+          "translation": "어떤 사람이든 될 수 있대"
+        },
+        {
+          "number": 8,
+          "original": "分かる、分かるよ、って言って",
+          "pronunciation": "와카루 와카루욧테 잇테",
+          "translation": "알아, 알지, 라고 말하며"
+        },
+        {
+          "number": 9,
+          "original": "ほら　また誰かがひそひそ話してる",
+          "pronunciation": "호라 마타 다레카가 히소히소 하나시테루",
+          "translation": "봐, 또 누군가가 수군거리고 있어"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 10,
+          "original": "何考えてるんだろう？何かちょっと怖い",
+          "pronunciation": "나니 캉가에테룬다로오? 난카 춋토 코와이",
+          "translation": "무슨 생각을 하는 걸까? 어쩐지 조금 무서워"
+        },
+        {
+          "number": 11,
+          "original": "あなたの中の私は",
+          "pronunciation": "아나타노 나카노 와타시와",
+          "translation": "네 안의 나는"
+        },
+        {
+          "number": 12,
+          "original": "きっと誰でもない　誰かさん",
+          "pronunciation": "킷토 다레데모 나이 다레카상",
+          "translation": "분명 그 누구도 아닌 누군가 씨"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 13,
+          "original": "イマジナリーなプリンセス",
+          "pronunciation": "이마지나리이나 푸린세스",
+          "translation": "상상 속의 공주"
+        },
+        {
+          "number": 14,
+          "original": "きっとその人は完璧で",
+          "pronunciation": "킷토 소노 히토와 칸페키데",
+          "translation": "분명 그 사람은 완벽해서"
+        },
+        {
+          "number": 15,
+          "original": "何かの弾みで幻滅されたりしちゃう",
+          "pronunciation": "나니카노 하즈미데 겐메츠사레타리 시차우",
+          "translation": "어쩌다 우연히 환멸을 사기도 해"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 16,
+          "original": "サスティナブルなプライスです",
+          "pronunciation": "사스티나부루나 푸라이스데스",
+          "translation": "지속 가능한 가격입니다"
+        },
+        {
+          "number": 17,
+          "original": "笑顔振りまくその影で",
+          "pronunciation": "에가오 후리마쿠 소노 카게데",
+          "translation": "미소를 뿌리는 그 이면에서"
+        },
+        {
+          "number": 18,
+          "original": "お腹すいたなぁとか",
+          "pronunciation": "오나카 스이타나아토카",
+          "translation": "배고프네, 같은"
+        },
+        {
+          "number": 19,
+          "original": "思ったりしてみても",
+          "pronunciation": "오못타리시테 미테모",
+          "translation": "생각을 해 보더라도"
+        },
+        {
+          "number": 20,
+          "original": "がっかりされないよね？",
+          "pronunciation": "갓카리사레나이요네?",
+          "translation": "실망하지는 않겠지?"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 21,
+          "original": "Case.2",
+          "pronunciation": "케이스 투",
+          "translation": "사례 2"
+        },
+        {
+          "number": 22,
+          "original": "今日も知らない人の視線が射貫いた",
+          "pronunciation": "쿄오모 시라나이 히토노 시센가 이누이타",
+          "translation": "오늘도 모르는 사람의 시선이 꿰뚫었어"
+        },
+        {
+          "number": 23,
+          "original": "(いつもと違う顔してみた)",
+          "pronunciation": "(이츠모토 치가우 카오 시테미타)",
+          "translation": "(평소와 다른 표정을 지어 봤어)"
+        },
+        {
+          "number": 24,
+          "original": "そんな表情しちゃうんだねって",
+          "pronunciation": "손나 효오조오 시차운다넷테",
+          "translation": "그런 표정도 짓는구나, 라며"
+        },
+        {
+          "number": 25,
+          "original": "なんか外しちゃった？",
+          "pronunciation": "난카 하즈시챳타?",
+          "translation": "뭔가 기대에서 벗어나 버렸어?"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 26,
+          "original": "あまたの人生に",
+          "pronunciation": "아마타노 진세이니",
+          "translation": "수많은 삶에"
+        },
+        {
+          "number": 27,
+          "original": "完全無比な彩りを",
+          "pronunciation": "칸젠무히나 이로도리오",
+          "translation": "더없이 완벽한 빛깔을"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 28,
+          "original": "そして断片になった",
+          "pronunciation": "소시테 단펜니 낫타",
+          "translation": "그리고 조각조각이 된"
+        },
+        {
+          "number": 29,
+          "original": "私らしき何かを繋いでみようか",
+          "pronunciation": "와타시라시키 나니카오 츠나이데 미요오카",
+          "translation": "나 같은 무언가를 이어 붙여 볼까"
+        },
+        {
+          "number": 30,
+          "original": "出来上がり　あぁそれっぽいね",
+          "pronunciation": "데키아가리 아아 소렛포이네",
+          "translation": "완성, 아아, 그럴듯하네"
+        },
+        {
+          "number": 31,
+          "original": "それでいいんじゃないかな？",
+          "pronunciation": "소레데 이인자 나이카나?",
+          "translation": "그걸로 괜찮지 않을까?"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 32,
+          "original": "ちょっとだけリアリティ",
+          "pronunciation": "춋토다케 리아리티",
+          "translation": "아주 조금 현실감을"
+        },
+        {
+          "number": 33,
+          "original": "忍ばせたなら気付くかな？",
+          "pronunciation": "시노바세타나라 키즈쿠카나?",
+          "translation": "몰래 넣으면 알아챌까?"
+        },
+        {
+          "number": 34,
+          "original": "間違いさがしして",
+          "pronunciation": "마치가이 사가시시테",
+          "translation": "틀린 그림 찾기를 해"
+        },
+        {
+          "number": 35,
+          "original": "空が白んで暈けてくまで",
+          "pronunciation": "소라가 시란데 보케테쿠마데",
+          "translation": "하늘이 밝아져 흐릿해질 때까지"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 36,
+          "original": "イマジナリーなプリンセス",
+          "pronunciation": "이마지나리이나 푸린세스",
+          "translation": "상상 속의 공주"
+        },
+        {
+          "number": 37,
+          "original": "きっとその人は完璧で",
+          "pronunciation": "킷토 소노 히토와 칸페키데",
+          "translation": "분명 그 사람은 완벽해서"
+        },
+        {
+          "number": 38,
+          "original": "何かの弾みで幻滅されたりしちゃう",
+          "pronunciation": "나니카노 하즈미데 겐메츠사레타리 시차우",
+          "translation": "어쩌다 우연히 환멸을 사기도 해"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 39,
+          "original": "サスティナブルなプライスです",
+          "pronunciation": "사스티나부루나 푸라이스데스",
+          "translation": "지속 가능한 가격입니다"
+        },
+        {
+          "number": 40,
+          "original": "笑顔振りまくその影で",
+          "pronunciation": "에가오 후리마쿠 소노 카게데",
+          "translation": "미소를 뿌리는 그 이면에서"
+        },
+        {
+          "number": 41,
+          "original": "お腹すいたなぁとか",
+          "pronunciation": "오나카 스이타나아토카",
+          "translation": "배고프네, 같은"
+        },
+        {
+          "number": 42,
+          "original": "思ったりしていいかな？",
+          "pronunciation": "오못타리시테 이이카나?",
+          "translation": "그런 생각을 해도 될까?"
+        },
+        {
+          "number": 43,
+          "original": "がっかりはしないよね？",
+          "pronunciation": "갓카리와 시나이요네?",
+          "translation": "실망하지는 않겠지?"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "lines": [
+        {
+          "number": 44,
+          "original": "(君の中にいる)私を見てみたいな",
+          "pronunciation": "(키미노 나카니 이루) 와타시오 미테미타이나",
+          "translation": "(네 안에 있는) 나를 보고 싶네"
+        },
+        {
+          "number": 45,
+          "original": "(きっと完璧だよね？)",
+          "pronunciation": "(킷토 칸페키다요네?)",
+          "translation": "(분명 완벽하겠지?)"
+        },
+        {
+          "number": 46,
+          "original": "解釈の違いは許されない",
+          "pronunciation": "카이샤쿠노 치가이와 유루사레나이",
+          "translation": "해석의 차이는 용납되지 않아"
+        }
+      ]
+    }
+  ]
+}

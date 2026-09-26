@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-08",
+  "albumId": "laca-25301",
+  "trackNumber": 8,
+  "title": "Crying Diamond",
+  "vocal": "緋田美琴",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Crying Diamond.txt",
+    "sha256": "9a73b17310df5078391b95c444f34e579fee724a68ffd5703de73f5eba6a14d3",
+    "originalFile": "laca-25301-08.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "Crying diamond 뒤 공백 종류가 다른 반복 줄도 원문 그대로 보존했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "伏目がちで headlight　避けた　冷えた眩しさに",
+          "pronunciation": "후시메가치데 헤드라이트 사케타 히에타 마부시사니",
+          "translation": "눈을 내리깔고 헤드라이트를 피했어, 그 차가운 눈부심에"
+        },
+        {
+          "number": 2,
+          "original": "求めた情熱　気付かされて　走り出す dive in deep",
+          "pronunciation": "모토메타 조오네츠 키즈카사레테 하시리다스 다이브 인 딥",
+          "translation": "내가 바라던 열정을 깨닫고 달려 나가, 깊이 뛰어들어"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 3,
+          "original": "壊れそうなほど誰かに射抜かれてみたい",
+          "pronunciation": "코와레소오나 호도 다레카니 이누카레테 미타이",
+          "translation": "부서질 듯 누군가의 시선에 꿰뚫려 보고 싶어"
+        },
+        {
+          "number": 4,
+          "original": "待ち侘びて極限",
+          "pronunciation": "마치와비테 쿄쿠겐",
+          "translation": "애타게 기다리다 한계에 다다라"
+        },
+        {
+          "number": 5,
+          "original": "欲しいのは熱視線",
+          "pronunciation": "호시이노와 넷시센",
+          "translation": "원하는 건 뜨거운 시선"
+        },
+        {
+          "number": 6,
+          "original": "On the edge, on the edge",
+          "pronunciation": "온 디 에지 온 디 에지",
+          "translation": "아슬아슬한 끝에서, 끝에서"
+        },
+        {
+          "number": 7,
+          "original": "今だけ愛して",
+          "pronunciation": "이마다케 아이시테",
+          "translation": "지금만은 사랑해 줘"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 8,
+          "original": "Crying diamond",
+          "pronunciation": "크라잉 다이아몬드",
+          "translation": "눈물짓는 다이아몬드"
+        },
+        {
+          "number": 9,
+          "original": "その輝き底が知れない",
+          "pronunciation": "소노 카가야키 소코가 시레나이",
+          "translation": "그 빛은 깊이를 알 수 없어"
+        },
+        {
+          "number": 10,
+          "original": "絶世の carat　魅了したい",
+          "pronunciation": "젯세이노 캐럿 미료오시타이",
+          "translation": "세상에 둘도 없는 캐럿으로 매혹하고 싶어"
+        },
+        {
+          "number": 11,
+          "original": "透明の奥　潜む雫　溢されずに　燃えているわ",
+          "pronunciation": "토오메이노 오쿠 히소무 시즈쿠 코보사레즈니 모에테이루와",
+          "translation": "투명함 깊이 숨은 물방울은 흘러내리지 않은 채 타오르고 있어"
+        },
+        {
+          "number": 12,
+          "original": "Crying diamond　ひとりきり",
+          "pronunciation": "크라잉 다이아몬드 히토리키리",
+          "translation": "눈물짓는 다이아몬드, 홀로"
+        },
+        {
+          "number": 13,
+          "original": "鮮烈に笑った結晶",
+          "pronunciation": "센레츠니 와랏타 켓쇼오",
+          "translation": "선명하게 웃음 지은 결정"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 14,
+          "original": "無いものねだりの paradox　見せない訳は ah ha…",
+          "pronunciation": "나이모노네다리노 패러독스 미세나이 와케와 아 하",
+          "translation": "없는 것만 바라는 모순, 드러내지 않는 이유는, 아 하…"
+        },
+        {
+          "number": 15,
+          "original": "暴かれたってショーにもならない　プライドよ one jewel",
+          "pronunciation": "아바카레탓테 쇼오니모 나라나이 프라이도요 원 주얼",
+          "translation": "드러내 봐야 쇼조차 되지 않는 자존심이야, 단 하나의 보석"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 16,
+          "original": "たとえ死んでも譲れない考えがあるの",
+          "pronunciation": "타토에 신데모 유즈레나이 칸가에가 아루노",
+          "translation": "죽는 한이 있어도 양보할 수 없는 생각이 있어"
+        },
+        {
+          "number": 17,
+          "original": "夢に執着したい",
+          "pronunciation": "유메니 슈우차쿠시타이",
+          "translation": "꿈에 집착하고 싶어"
+        },
+        {
+          "number": 18,
+          "original": "心拍数乱したい",
+          "pronunciation": "신파쿠스우 미다시타이",
+          "translation": "심장박동을 흐트러뜨리고 싶어"
+        },
+        {
+          "number": 19,
+          "original": "On the edge, on the edge",
+          "pronunciation": "온 디 에지 온 디 에지",
+          "translation": "아슬아슬한 끝에서, 끝에서"
+        },
+        {
+          "number": 20,
+          "original": "一途なまま",
+          "pronunciation": "이치즈나 마마",
+          "translation": "한결같은 마음으로"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 21,
+          "original": "Crying diamond",
+          "pronunciation": "크라잉 다이아몬드",
+          "translation": "눈물짓는 다이아몬드"
+        },
+        {
+          "number": 22,
+          "original": "湛えるのはミステリアス",
+          "pronunciation": "타타에루노와 미스테리아스",
+          "translation": "가득 머금은 것은 신비로움"
+        },
+        {
+          "number": 23,
+          "original": "魔性は blood　本能でしょ",
+          "pronunciation": "마쇼오와 블러드 혼노오데쇼",
+          "translation": "사람을 홀리는 매력은 핏속에 있어, 본능이잖아"
+        },
+        {
+          "number": 24,
+          "original": "揺れて光る　表面張力　ずっとここで　踊ってるわ",
+          "pronunciation": "유레테 히카루 효오멘초오료쿠 즛토 코코데 오돗테루와",
+          "translation": "흔들리며 빛나는 표면장력, 줄곧 여기서 춤추고 있어"
+        },
+        {
+          "number": 25,
+          "original": "Crying diamond　夜明けまで",
+          "pronunciation": "크라잉 다이아몬드 요아케마데",
+          "translation": "눈물짓는 다이아몬드, 동틀 때까지"
+        },
+        {
+          "number": 26,
+          "original": "ねぇ　私まるで閃光",
+          "pronunciation": "네에 와타시 마루데 센코오",
+          "translation": "있지, 나는 마치 섬광 같아"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 27,
+          "original": "Crying diamond",
+          "pronunciation": "크라잉 다이아몬드",
+          "translation": "눈물짓는 다이아몬드"
+        },
+        {
+          "number": 28,
+          "original": "見透かすより見つめられたい",
+          "pronunciation": "미스카스요리 미츠메라레타이",
+          "translation": "속을 간파당하기보다 눈길을 받고 싶어"
+        },
+        {
+          "number": 29,
+          "original": "そして、言ってよ",
+          "pronunciation": "소시테 잇테요",
+          "translation": "그리고 말해 줘"
+        },
+        {
+          "number": 30,
+          "original": "Say you love me now",
+          "pronunciation": "세이 유 러브 미 나우",
+          "translation": "지금 날 사랑한다고 말해 줘"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 31,
+          "original": "Crying diamond",
+          "pronunciation": "크라잉 다이아몬드",
+          "translation": "눈물짓는 다이아몬드"
+        },
+        {
+          "number": 32,
+          "original": "その輝き底が知れない",
+          "pronunciation": "소노 카가야키 소코가 시레나이",
+          "translation": "그 빛은 깊이를 알 수 없어"
+        },
+        {
+          "number": 33,
+          "original": "絶世の carat　魅了したい",
+          "pronunciation": "젯세이노 캐럿 미료오시타이",
+          "translation": "세상에 둘도 없는 캐럿으로 매혹하고 싶어"
+        },
+        {
+          "number": 34,
+          "original": "透明の奥　潜む雫　溢されずに　燃えているわ",
+          "pronunciation": "토오메이노 오쿠 히소무 시즈쿠 코보사레즈니 모에테이루와",
+          "translation": "투명함 깊이 숨은 물방울은 흘러내리지 않은 채 타오르고 있어"
+        },
+        {
+          "number": 35,
+          "original": "Crying diamond ひとりきり",
+          "pronunciation": "크라잉 다이아몬드 히토리키리",
+          "translation": "눈물짓는 다이아몬드, 홀로"
+        },
+        {
+          "number": 36,
+          "original": "Diamond, diamond, diamond, diamond…",
+          "pronunciation": "다이아몬드 다이아몬드 다이아몬드 다이아몬드",
+          "translation": "다이아몬드, 다이아몬드, 다이아몬드, 다이아몬드…"
+        },
+        {
+          "number": 37,
+          "original": "鮮烈に笑った結晶",
+          "pronunciation": "센레츠니 와랏타 켓쇼오",
+          "translation": "선명하게 웃음 지은 결정"
+        }
+      ]
+    }
+  ]
+}

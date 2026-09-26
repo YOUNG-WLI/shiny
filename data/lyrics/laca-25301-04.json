@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-04",
+  "albumId": "laca-25301",
+  "trackNumber": 4,
+  "title": "ナイススパイス研究会",
+  "vocal": "園田智代子",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/ナイススパイス研究会.txt",
+    "sha256": "3dd8f4a5613929698cb716583cb0947bd93325c5cbe35f8ef163665a59a2d346",
+    "originalFile": "laca-25301-04.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "何故(なにゆえ)의 괄호는 읽기 안내로 처리하여 발음에 중복하지 않았습니다.",
+    "ピンクベリー는 향신료 문맥에 따라 핑크 페퍼(핑크 페퍼콘)로 번역했습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "パッ　シナモン",
+          "pronunciation": "팟 시나몬",
+          "translation": "톡, 시나몬"
+        },
+        {
+          "number": 2,
+          "original": "パッ　カルダモン",
+          "pronunciation": "팟 카루다몬",
+          "translation": "톡, 카르다몸"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 3,
+          "original": "初めてヒールを買ったんだ",
+          "pronunciation": "하지메테 히이루오 캇탄다",
+          "translation": "처음으로 하이힐을 샀어"
+        },
+        {
+          "number": 4,
+          "original": "5センチ空に近い世界",
+          "pronunciation": "고센치 소라니 치카이 세카이",
+          "translation": "하늘과 5센티미터 더 가까워진 세상"
+        },
+        {
+          "number": 5,
+          "original": "まるでチョコにシナモン(パパッと)",
+          "pronunciation": "마루데 초코니 시나몬 (파팟토)",
+          "translation": "마치 초콜릿에 시나몬을 (톡톡)"
+        },
+        {
+          "number": 6,
+          "original": "刺激的なフレーバー",
+          "pronunciation": "시게키테키나 후레에바아",
+          "translation": "자극적인 풍미"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 7,
+          "original": "待ち合わせ場所が見えて",
+          "pronunciation": "마치아와세 바쇼가 미에테",
+          "translation": "약속 장소가 보여서"
+        },
+        {
+          "number": 8,
+          "original": "走り出したけれど",
+          "pronunciation": "하시리다시타케레도",
+          "translation": "달리기 시작했지만"
+        },
+        {
+          "number": 9,
+          "original": "背伸びした足元じゃ",
+          "pronunciation": "세노비시타 아시모토자",
+          "translation": "한껏 높여 신은 구두로는"
+        },
+        {
+          "number": 10,
+          "original": "全力出せなくて　Oh no！！",
+          "pronunciation": "젠료쿠 다세나쿠테 오 노오!!",
+          "translation": "전력을 다할 수 없어서, 이런!!"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 11,
+          "original": "毎日ナイスなスパイスで",
+          "pronunciation": "마이니치 나이스나 스파이스데",
+          "translation": "매일 멋진 향신료로"
+        },
+        {
+          "number": 12,
+          "original": "飽きない私を見せたいな",
+          "pronunciation": "아키나이 와타시오 미세타이나",
+          "translation": "질리지 않는 나를 보여주고 싶어"
+        },
+        {
+          "number": 13,
+          "original": "パッと香りをひとふり",
+          "pronunciation": "팟토 카오리오 히토후리",
+          "translation": "톡 하고 향기를 한 번 뿌려"
+        },
+        {
+          "number": 14,
+          "original": "アレもコレも試したい",
+          "pronunciation": "아레모 코레모 타메시타이",
+          "translation": "이것도 저것도 시험해 보고 싶어"
+        },
+        {
+          "number": 15,
+          "original": "明日はベストなバランスで",
+          "pronunciation": "아시타와 베스토나 바란스데",
+          "translation": "내일은 최고의 균형으로"
+        },
+        {
+          "number": 16,
+          "original": "キミを虜にしちゃいましょう",
+          "pronunciation": "키미오 토리코니 시차이마쇼오",
+          "translation": "너를 푹 빠지게 해 볼까"
+        },
+        {
+          "number": 17,
+          "original": "まだ　誰も見つけてない",
+          "pronunciation": "마다 다레모 미츠케테나이",
+          "translation": "아직 아무도 찾아내지 못한"
+        },
+        {
+          "number": 18,
+          "original": "魅惑の配合を　どうぞ",
+          "pronunciation": "미와쿠노 하이고오오 도오조",
+          "translation": "매혹적인 배합을, 자 받아봐"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 19,
+          "original": "急ぐ時ほどバングスが",
+          "pronunciation": "이소구 토키호도 방구스가",
+          "translation": "바쁠 때일수록 앞머리가"
+        },
+        {
+          "number": 20,
+          "original": "気まぐれなのは何故(なにゆえ)なの",
+          "pronunciation": "키마구레나노와 나니유에나노",
+          "translation": "제멋대로인 건 어째서일까"
+        },
+        {
+          "number": 21,
+          "original": "あと少しで写せる(あとちょっと)",
+          "pronunciation": "아토 스코시데 우츠세루 (아토 춋토)",
+          "translation": "조금만 더 쓰면 다 베끼는데 (조금만 더)"
+        },
+        {
+          "number": 22,
+          "original": "黒板は消える",
+          "pronunciation": "코쿠반와 키에루",
+          "translation": "칠판의 글씨는 지워져"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 23,
+          "original": "人生にレシピはない",
+          "pronunciation": "진세이니 레시피와 나이",
+          "translation": "인생에는 레시피가 없어"
+        },
+        {
+          "number": 24,
+          "original": "みんな頑張ってる",
+          "pronunciation": "민나 간밧테루",
+          "translation": "모두 열심히 하고 있어"
+        },
+        {
+          "number": 25,
+          "original": "何回でも間違えて",
+          "pronunciation": "난카이데모 마치가에테",
+          "translation": "몇 번이고 틀려 보고"
+        },
+        {
+          "number": 26,
+          "original": "コツを得て美味しくなるの",
+          "pronunciation": "코츠오 에테 오이시쿠 나루노",
+          "translation": "요령을 익히며 맛있어지는 거야"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 27,
+          "original": "知れば知るほど知りたくなる",
+          "pronunciation": "시레바 시루호도 시리타쿠 나루",
+          "translation": "알면 알수록 더 알고 싶어지는"
+        },
+        {
+          "number": 28,
+          "original": "そんな私になりたいから",
+          "pronunciation": "손나 와타시니 나리타이카라",
+          "translation": "그런 내가 되고 싶으니까"
+        },
+        {
+          "number": 29,
+          "original": "パッと香りをひとふり",
+          "pronunciation": "팟토 카오리오 히토후리",
+          "translation": "톡 하고 향기를 한 번 뿌려"
+        },
+        {
+          "number": 30,
+          "original": "アレもコレも試したい",
+          "pronunciation": "아레모 코레모 타메시타이",
+          "translation": "이것도 저것도 시험해 보고 싶어"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 31,
+          "original": "毎日ナイスなスパイスで",
+          "pronunciation": "마이니치 나이스나 스파이스데",
+          "translation": "매일 멋진 향신료로"
+        },
+        {
+          "number": 32,
+          "original": "キミを虜にしちゃいましょう",
+          "pronunciation": "키미오 토리코니 시차이마쇼오",
+          "translation": "너를 푹 빠지게 해 볼까"
+        },
+        {
+          "number": 33,
+          "original": "まだ　誰も見つけてない",
+          "pronunciation": "마다 다레모 미츠케테나이",
+          "translation": "아직 아무도 찾아내지 못한"
+        },
+        {
+          "number": 34,
+          "original": "魅惑の配合を　どうぞ",
+          "pronunciation": "미와쿠노 하이고오오 도오조",
+          "translation": "매혹적인 배합을, 자 받아봐"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 35,
+          "original": "パッ　サフラン",
+          "pronunciation": "팟 사후란",
+          "translation": "톡, 사프란"
+        },
+        {
+          "number": 36,
+          "original": "パッ　ピンクベリー",
+          "pronunciation": "팟 핑쿠 베리이",
+          "translation": "톡, 핑크 페퍼"
+        },
+        {
+          "number": 37,
+          "original": "パッ　バニラ",
+          "pronunciation": "팟 바니라",
+          "translation": "톡, 바닐라"
+        },
+        {
+          "number": 38,
+          "original": "パッ　ローズマリー",
+          "pronunciation": "팟 로오즈마리이",
+          "translation": "톡, 로즈메리"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-02",
+  "albumId": "laca-25301",
+  "trackNumber": 2,
+  "title": "恋するクオリア",
+  "vocal": "月岡恋鐘",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/恋するクオリア.txt",
+    "sha256": "5af47eecd8e5fbda1dd65b11743a47a1c53708a67d9d0988aeefec2ebfaccdf2",
+    "originalFile": "laca-25301-02.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "クオリア는 개인이 주관적으로 경험하는 감각의 질을 뜻하며 제목은 '사랑하는 퀄리아'로 옮길 수 있습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "Real qualia",
+          "pronunciation": "리얼 퀄리아",
+          "translation": "생생한 감각"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 2,
+          "original": "不意に目に入った　真っ赤な林檎齧って",
+          "pronunciation": "후이니 메니 하잇타 맛카나 링고 카짓테",
+          "translation": "문득 눈에 들어온 새빨간 사과를 한입 베어 물고"
+        },
+        {
+          "number": 3,
+          "original": "美味しさにとろけた　気まぐれが運ぶシアワセ",
+          "pronunciation": "오이시사니 토로케타 키마구레가 하코부 시아와세",
+          "translation": "그 맛에 사르르 녹았어, 변덕이 가져다준 행복"
+        },
+        {
+          "number": 4,
+          "original": "前髪がうねって　落ち着かないけど出発",
+          "pronunciation": "마에가미가 우넷테 오치츠카나이케도 슛파츠",
+          "translation": "앞머리가 구불거려 신경 쓰이지만 출발"
+        },
+        {
+          "number": 5,
+          "original": "そういう個性だと　唱えればそんな気もしちゃうね",
+          "pronunciation": "소오이우 코세이다토 토나에레바 손나 키모 시차우네",
+          "translation": "그런 개성이라고 되뇌면 정말 그런 것 같기도 해"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 6,
+          "original": "捉え方次第かも　幸不幸なんて",
+          "pronunciation": "토라에카타 시다이카모 코오후코오난테",
+          "translation": "행복과 불행은 받아들이기 나름일지도"
+        },
+        {
+          "number": 7,
+          "original": "絶対値も答えすら　決まってなんかない",
+          "pronunciation": "젯타이치모 코타에스라 키맛테난카 나이",
+          "translation": "절대적인 기준도 정답조차 정해져 있지 않아"
+        },
+        {
+          "number": 8,
+          "original": "だったらそう　マイルール　価値基準で",
+          "pronunciation": "닷타라 소오 마이 루우루 카치키준데",
+          "translation": "그렇다면 그래, 나만의 규칙과 가치 기준으로"
+        },
+        {
+          "number": 9,
+          "original": "ハピネスを　追い求めてみよう",
+          "pronunciation": "하피네스오 오이모토메테 미요오",
+          "translation": "행복을 좇아 보자"
+        },
+        {
+          "number": 10,
+          "original": "目の前の瞬間　ラディアント",
+          "pronunciation": "메노 마에노 슌칸 라디안토",
+          "translation": "눈앞의 순간은 찬란해"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 11,
+          "original": "Focus！　ほら五感をフル稼働で　今日を抱きしめてみたら",
+          "pronunciation": "포커스! 호라 고칸오 후루 카도오데 쿄오오 다키시메테 미타라",
+          "translation": "집중해! 자, 오감을 총동원해 오늘을 끌어안아 보면"
+        },
+        {
+          "number": 12,
+          "original": "半信半疑　キミもきっと　いつの間にかスマイル",
+          "pronunciation": "한신한기 키미모 킷토 이츠노 마니카 스마이루",
+          "translation": "반신반의하던 너도 분명 어느새 웃고 있을 거야"
+        },
+        {
+          "number": 13,
+          "original": "この世が明け暮れる合間　起きること余さず全部",
+          "pronunciation": "코노 요가 아케쿠레루 아이다 오키루 코토 아마사즈 젠부",
+          "translation": "이 세상에 날이 밝고 저무는 동안 일어나는 모든 일을 빠짐없이"
+        },
+        {
+          "number": 14,
+          "original": "恋するように捉えよう　さぁ　今ここから",
+          "pronunciation": "코이스루 요오니 토라에요오 사아 이마 코코카라",
+          "translation": "사랑하듯 받아들이자, 자, 지금 여기서부터"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 15,
+          "original": "とはいえ漠然とアンニュイな気分なら",
+          "pronunciation": "토와 이에 바쿠젠토 안뉴이나 키분나라",
+          "translation": "그렇다 해도 막연히 나른하고 울적한 기분이라면"
+        },
+        {
+          "number": 16,
+          "original": "頬杖つき窓辺　だらけて過ごすのもいいね",
+          "pronunciation": "호오즈에 츠키 마도베 다라케테 스고스노모 이이네",
+          "translation": "창가에서 턱을 괴고 느긋하게 보내는 것도 좋지"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 17,
+          "original": "横切ったネコの足跡や　綿菓子みたいな雲見て",
+          "pronunciation": "요코깃타 네코노 아시아토야 와타가시 미타이나 쿠모 미테",
+          "translation": "지나간 고양이 발자국이나 솜사탕 같은 구름을 보고"
+        },
+        {
+          "number": 18,
+          "original": "浮上して来たら　それで十分上出来",
+          "pronunciation": "후조오시테 키타라 소레데 주우분 조오데키",
+          "translation": "기분이 나아진다면 그것만으로도 충분히 잘한 거야"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 19,
+          "original": "目まぐるしい日常少し立ち止まって",
+          "pronunciation": "메마구루시이 니치조오 스코시 타치도맛테",
+          "translation": "눈코 뜰 새 없는 일상에서 잠시 멈춰 서서"
+        },
+        {
+          "number": 20,
+          "original": "物事を解像度高く受け取って",
+          "pronunciation": "모노고토오 카이조오도 타카쿠 우케톳테",
+          "translation": "모든 일을 더 또렷하고 세밀하게 받아들여"
+        },
+        {
+          "number": 21,
+          "original": "それだけであらゆる感動数割増し",
+          "pronunciation": "소레다케데 아라유루 칸도오 스우와리마시",
+          "translation": "그것만으로도 온갖 감동이 몇 할은 더 커져"
+        },
+        {
+          "number": 22,
+          "original": "…恋するって、こういうコトかもね",
+          "pronunciation": "코이스룻테 코오이우 코토카모네",
+          "translation": "…사랑한다는 건 이런 걸지도 몰라"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 23,
+          "original": "ほら五感をフル稼働で　今日を抱きしめてみたら",
+          "pronunciation": "호라 고칸오 후루 카도오데 쿄오오 다키시메테 미타라",
+          "translation": "자, 오감을 총동원해 오늘을 끌어안아 보면"
+        },
+        {
+          "number": 24,
+          "original": "一時が万事　キミもきっと　手に入れるよスマイル",
+          "pronunciation": "이치지가 반지 키미모 킷토 테니 이레루요 스마이루",
+          "translation": "하나가 그러면 모두 그런 법, 너도 분명 미소를 얻게 될 거야"
+        },
+        {
+          "number": 25,
+          "original": "この世が明け暮れる合間　起きること余さず全部",
+          "pronunciation": "코노 요가 아케쿠레루 아이다 오키루 코토 아마사즈 젠부",
+          "translation": "이 세상에 날이 밝고 저무는 동안 일어나는 모든 일을 빠짐없이"
+        },
+        {
+          "number": 26,
+          "original": "恋するように捉えよう　さぁ　今ここから",
+          "pronunciation": "코이스루 요오니 토라에요오 사아 이마 코코카라",
+          "translation": "사랑하듯 받아들이자, 자, 지금 여기서부터"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 27,
+          "original": "Real qualia",
+          "pronunciation": "리얼 퀄리아",
+          "translation": "생생한 감각"
+        }
+      ]
+    }
+  ]
+}

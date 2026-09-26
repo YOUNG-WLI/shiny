@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25302-06",
+  "albumId": "laca-25302",
+  "trackNumber": 6,
+  "title": "Odette",
+  "vocal": "大崎甜花",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Odette.txt",
+    "sha256": "20f53fce3f6351de6a218be4e09f1aad60ceaacdb23209f0be7345b28eaeffec",
+    "originalFile": "laca-25302-06.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "昨夜는 ゆうべ로 가정했습니다. 실제 가창이 さくや 등인지 음원 대조가 필요합니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "そっと踊り始める　両手を広げてみる",
+          "pronunciation": "솟토 오도리하지메루 료오테오 히로게테미루",
+          "translation": "살며시 춤추기 시작해, 두 팔을 펼쳐봐"
+        },
+        {
+          "number": 2,
+          "original": "声に乗せていく想い　はー……",
+          "pronunciation": "코에니 노세테이쿠 오모이 하아",
+          "translation": "목소리에 실어가는 마음, 하아……"
+        },
+        {
+          "number": 3,
+          "original": "一歩ずつ　傷ついていても",
+          "pronunciation": "잇포즈츠 키즈츠이테이테모",
+          "translation": "한 걸음마다 상처 입더라도"
+        },
+        {
+          "number": 4,
+          "original": "痛みは　知られたくない",
+          "pronunciation": "이타미와 시라레타쿠 나이",
+          "translation": "아픔은 들키고 싶지 않아"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "哀しい呪文に",
+          "pronunciation": "카나시이 주몬니",
+          "translation": "슬픈 주문에"
+        },
+        {
+          "number": 6,
+          "original": "囚われたような　心のままでは嫌だ",
+          "pronunciation": "토라와레타 요오나 코코로노 마마데와 이야다",
+          "translation": "사로잡힌 듯한 마음으로 남고 싶지 않아"
+        },
+        {
+          "number": 7,
+          "original": "夢をかたちへと",
+          "pronunciation": "유메오 카타치에토",
+          "translation": "꿈을 형태로 만들어"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 8,
+          "original": "舞台はこの毎日",
+          "pronunciation": "부타이와 코노 마이니치",
+          "translation": "무대는 이 매일매일"
+        },
+        {
+          "number": 9,
+          "original": "階段の未来　駆けあがって進む",
+          "pronunciation": "카이단노 미라이 카케아갓테 스스무",
+          "translation": "계단처럼 이어진 미래를 뛰어올라 나아가"
+        },
+        {
+          "number": 10,
+          "original": "渦まく風のなかで　翼は光る",
+          "pronunciation": "우즈마쿠 카제노 나카데 츠바사와 히카루",
+          "translation": "소용돌이치는 바람 속에서 날개는 빛나"
+        },
+        {
+          "number": 11,
+          "original": "私らしくなる",
+          "pronunciation": "와타시라시쿠 나루",
+          "translation": "나다워져"
+        },
+        {
+          "number": 12,
+          "original": "白のオデット",
+          "pronunciation": "시로노 오뎃토",
+          "translation": "흰 오데트"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 13,
+          "original": "巡り踊る　記憶",
+          "pronunciation": "메구리 오도루 키오쿠",
+          "translation": "돌고 춤추는 기억"
+        },
+        {
+          "number": 14,
+          "original": "落ちこんで泣いた夜を",
+          "pronunciation": "오치콘데 나이타 요루오",
+          "translation": "낙담해 울었던 밤을"
+        },
+        {
+          "number": 15,
+          "original": "自分だけが救う",
+          "pronunciation": "지분다케가 스쿠우",
+          "translation": "오직 나 자신만이 구해"
+        },
+        {
+          "number": 16,
+          "original": "あの日　決めたこと　「叶えるよ」",
+          "pronunciation": "아노 히 키메타 코토 카나에루요",
+          "translation": "그날 결심했던 것, “이룰 거야”"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 17,
+          "original": "昨夜　見た夢は　月の湖",
+          "pronunciation": "유우베 미타 유메와 츠키노 미즈우미",
+          "translation": "어젯밤 꾼 꿈은 달빛 호수"
+        },
+        {
+          "number": 18,
+          "original": "ふりむく私は　笑いながら　はばたいた",
+          "pronunciation": "후리무쿠 와타시와 와라이나가라 하바타이타",
+          "translation": "뒤돌아본 나는 웃으며 날갯짓했어"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 19,
+          "original": "誰かに憧れる　きらめき",
+          "pronunciation": "다레카니 아코가레루 키라메키",
+          "translation": "누군가를 동경하는 반짝임"
+        },
+        {
+          "number": 20,
+          "original": "そして　この切ない願い",
+          "pronunciation": "소시테 코노 세츠나이 네가이",
+          "translation": "그리고 이 애틋한 바람"
+        },
+        {
+          "number": 21,
+          "original": "夜明けは　みんなのもの",
+          "pronunciation": "요아케와 민나노 모노",
+          "translation": "새벽은 모두의 것"
+        },
+        {
+          "number": 22,
+          "original": "私はここだ！なんて叫んでいる",
+          "pronunciation": "와타시와 코코다! 난테 사켄데이루",
+          "translation": "나는 여기 있어! 하고 외치고 있어"
+        },
+        {
+          "number": 23,
+          "original": "黒のオディール",
+          "pronunciation": "쿠로노 오디이루",
+          "translation": "검은 오딜"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 24,
+          "original": "ここにいるよ　気づいてよ",
+          "pronunciation": "코코니 이루요 키즈이테요",
+          "translation": "여기 있어, 알아봐 줘"
+        },
+        {
+          "number": 25,
+          "original": "そこにいるね　気づいたよ",
+          "pronunciation": "소코니 이루네 키즈이타요",
+          "translation": "거기 있구나, 알아봤어"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 26,
+          "original": "光と闇と　笑顔や涙",
+          "pronunciation": "히카리토 야미토 에가오야 나미다",
+          "translation": "빛과 어둠과 미소와 눈물"
+        },
+        {
+          "number": 27,
+          "original": "黒い私も　私だ",
+          "pronunciation": "쿠로이 와타시모 와타시다",
+          "translation": "검은 나도 나야"
+        },
+        {
+          "number": 28,
+          "original": "つれていきたい　もっと　もっと",
+          "pronunciation": "츠레테이키타이 못토 못토",
+          "translation": "함께 데려가고 싶어, 더 멀리, 더 멀리"
+        },
+        {
+          "number": 29,
+          "original": "そうだ　全部と　一緒だよ",
+          "pronunciation": "소오다 젠부토 잇쇼다요",
+          "translation": "그래, 그 전부와 함께야"
+        }
+      ]
+    }
+  ]
+}

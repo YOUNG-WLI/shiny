@@ -1,0 +1,394 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-11",
+  "albumId": "laca-25303",
+  "trackNumber": 11,
+  "title": "SOLAR WAY -10 colors-",
+  "vocal": "Team.Sol",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/SOLAR WAY.txt",
+    "sha256": "5ffa7f7ced946da0fcf277ed8cd09082c3fa80091c2a943c670fda26e6c6ebb1",
+    "originalFile": "laca-25303-11.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "逃がさない는 にがさない, 逃さず는 のがさず로 구분했습니다.",
+    "SUN SHOWER는 맑은 하늘에 내리는 비인 여우비로 번역했습니다.",
+    "입력 파일명에는 colors 버전 표기가 없어 앨범 목록의 해당 팀 곡에 연결했습니다. 제공 원문을 사용했으며 해당 버전의 가창·파트 배분은 음원과 대조하지 않았습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "輝きはエスカレート　(限りなくエスカレート)",
+          "pronunciation": "카가야키와 에스카레에토 (카기리나쿠 에스카레에토)",
+          "translation": "빛은 점점 더 강해져 (끝없이 더 강해져)"
+        },
+        {
+          "number": 2,
+          "original": "何処までもSolar way　(果てしなくSolar way)",
+          "pronunciation": "도코마데모 솔라 웨이 (하테시나쿠 솔라 웨이)",
+          "translation": "어디까지든 태양의 길 (끝없이 태양의 길)"
+        },
+        {
+          "number": 3,
+          "original": "微笑むまで照らしたい",
+          "pronunciation": "호호에무마데 테라시타이",
+          "translation": "미소 지을 때까지 비추고 싶어"
+        },
+        {
+          "number": 4,
+          "original": "どんなときも逃がさない",
+          "pronunciation": "돈나 토키모 니가사나이",
+          "translation": "어떤 때에도 놓치지 않아"
+        },
+        {
+          "number": 5,
+          "original": "そばにいるよ元気出して",
+          "pronunciation": "소바니 이루요 겐키 다시테",
+          "translation": "곁에 있어, 힘을 내"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 6,
+          "original": "山も谷もケ・セラ・セラ",
+          "pronunciation": "야마모 타니모 케 세라 세라",
+          "translation": "산도 골짜기도, 될 대로 되겠지"
+        },
+        {
+          "number": 7,
+          "original": "風も雪もエトセトラ",
+          "pronunciation": "카제모 유키모 에토세토라",
+          "translation": "바람도 눈도 그 밖의 모든 것도"
+        },
+        {
+          "number": 8,
+          "original": "躓いてもオール O.K",
+          "pronunciation": "츠마즈이테모 오올 오오케이",
+          "translation": "넘어져도 전부 괜찮아"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 9,
+          "original": "ヘキレキでも平気で行こう",
+          "pronunciation": "헤키레키데모 헤이키데 이코오",
+          "translation": "벼락이 쳐도 태연하게 가자"
+        },
+        {
+          "number": 10,
+          "original": "お気楽さも勇気でしょう？",
+          "pronunciation": "오키라쿠사모 유우키데쇼오?",
+          "translation": "낙천적인 것도 용기잖아?"
+        },
+        {
+          "number": 11,
+          "original": "明日は金色",
+          "pronunciation": "아시타와 킨이로",
+          "translation": "내일은 황금빛"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 12,
+          "original": "その手の地図は　嵐が来ても",
+          "pronunciation": "소노 테노 치즈와 아라시가 키테모",
+          "translation": "그 손에 든 지도는 폭풍이 와도"
+        },
+        {
+          "number": 13,
+          "original": "きっとほらね　開くんだね",
+          "pronunciation": "킷토 호라네 히라쿤다네",
+          "translation": "분명, 자 봐, 펼쳐지겠지"
+        },
+        {
+          "number": 14,
+          "original": "煌めかせるから",
+          "pronunciation": "키라메카세루카라",
+          "translation": "반짝이게 해줄 테니까"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 15,
+          "original": "溢れ出すBrightness　(限りないBrightness)",
+          "pronunciation": "아후레다스 브라이트니스 (카기리나이 브라이트니스)",
+          "translation": "넘쳐나는 찬란함 (한없는 찬란함)"
+        },
+        {
+          "number": 16,
+          "original": "止めどなくPassionate　(果てしなくPassionate)",
+          "pronunciation": "토메도 나쿠 패셔닛 (하테시나쿠 패셔닛)",
+          "translation": "그칠 줄 모르는 열정 (끝없는 열정)"
+        },
+        {
+          "number": 17,
+          "original": "笑うなら一緒が　唯一条件ね",
+          "pronunciation": "와라우나라 잇쇼가 유이이츠 조오켄네",
+          "translation": "웃을 거라면 함께, 그게 유일한 조건이야"
+        },
+        {
+          "number": 18,
+          "original": "後ずさる退路も　(振り出しの退路も)",
+          "pronunciation": "아토즈사루 타이로모 (후리다시노 타이로모)",
+          "translation": "뒷걸음치는 퇴로도 (출발점으로 향하는 퇴로도)"
+        },
+        {
+          "number": 19,
+          "original": "逃さず照らすから　(残らず照らすから)",
+          "pronunciation": "노가사즈 테라스카라 (노코라즈 테라스카라)",
+          "translation": "놓치지 않고 비출 테니까 (빠짐없이 비출 테니까)"
+        },
+        {
+          "number": 20,
+          "original": "赤裸々でもいいじゃない",
+          "pronunciation": "세키라라데모 이이자 나이",
+          "translation": "있는 그대로 드러내도 괜찮잖아"
+        },
+        {
+          "number": 21,
+          "original": "包み込んで見せましょう",
+          "pronunciation": "츠츠미콘데 미세마쇼오",
+          "translation": "따스하게 감싸줄게"
+        },
+        {
+          "number": 22,
+          "original": "その笑顔に　さあ　光あれ",
+          "pronunciation": "소노 에가오니 사아 히카리 아레",
+          "translation": "그 미소에, 자, 빛이 있으라"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 23,
+          "original": "目指す場所はエクストラ",
+          "pronunciation": "메자스 바쇼와 에쿠스토라",
+          "translation": "향하는 곳은 특별한 그 너머"
+        },
+        {
+          "number": 24,
+          "original": "胸の音はオーケストラ",
+          "pronunciation": "무네노 오토와 오오케스토라",
+          "translation": "가슴의 울림은 오케스트라"
+        },
+        {
+          "number": 25,
+          "original": "気負う日もあるね",
+          "pronunciation": "키오우 히모 아루네",
+          "translation": "의욕이 앞서는 날도 있지"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 26,
+          "original": "イチかバチかそんなんじゃない",
+          "pronunciation": "이치카 바치카 손난자 나이",
+          "translation": "되든 안 되든 걸어보는 그런 게 아니야"
+        },
+        {
+          "number": 27,
+          "original": "夢も空も無限でしょう？",
+          "pronunciation": "유메모 소라모 무겐데쇼오?",
+          "translation": "꿈도 하늘도 무한하잖아?"
+        },
+        {
+          "number": 28,
+          "original": "半分は持って",
+          "pronunciation": "한분와 못테",
+          "translation": "절반은 들어줘"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 29,
+          "original": "「ゆっくりで良いよ」",
+          "pronunciation": "윳쿠리데 이이요",
+          "translation": "“천천히 해도 괜찮아”"
+        },
+        {
+          "number": 30,
+          "original": "そういう言葉を",
+          "pronunciation": "소오이우 코토바오",
+          "translation": "그런 말을"
+        },
+        {
+          "number": 31,
+          "original": "そっと交わす　ふとくすぐる",
+          "pronunciation": "솟토 카와스 후토 쿠스구루",
+          "translation": "살며시 나누며 문득 간지럽히는"
+        },
+        {
+          "number": 32,
+          "original": "陽だまりの中で",
+          "pronunciation": "히다마리노 나카데",
+          "translation": "햇살 가득한 곳에서"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 33,
+          "original": "輝きはエスカレート　(限りなくエスカレート)",
+          "pronunciation": "카가야키와 에스카레에토 (카기리나쿠 에스카레에토)",
+          "translation": "빛은 점점 더 강해져 (끝없이 더 강해져)"
+        },
+        {
+          "number": 34,
+          "original": "何処までもSolar way　(果てしなくSolar way)",
+          "pronunciation": "도코마데모 솔라 웨이 (하테시나쿠 솔라 웨이)",
+          "translation": "어디까지든 태양의 길 (끝없이 태양의 길)"
+        },
+        {
+          "number": 35,
+          "original": "「ごめんね」がハモると　無敵だね",
+          "pronunciation": "고멘네가 하모루토 무테키다네",
+          "translation": "“미안해”가 화음을 이루면 무적이야"
+        },
+        {
+          "number": 36,
+          "original": "横殴るスコールも　(立ち止まるスコールも)",
+          "pronunciation": "요코나구루 스코오루모 (타치도마루 스코오루모)",
+          "translation": "옆으로 몰아치는 소나기도 (발걸음을 멈추게 하는 소나기도)"
+        },
+        {
+          "number": 37,
+          "original": "吹き飛ばすサンシャワー　(晴れ渡るサンシャワー)",
+          "pronunciation": "후키토바스 산샤와아 (하레와타루 산샤와아)",
+          "translation": "날려버리는 여우비 (맑게 갠 하늘의 여우비)"
+        },
+        {
+          "number": 38,
+          "original": "微笑むまで照らしたい",
+          "pronunciation": "호호에무마데 테라시타이",
+          "translation": "미소 지을 때까지 비추고 싶어"
+        },
+        {
+          "number": 39,
+          "original": "どんな時も逃がさない",
+          "pronunciation": "돈나 토키모 니가사나이",
+          "translation": "어떤 때에도 놓치지 않아"
+        },
+        {
+          "number": 40,
+          "original": "そばに居るよ　元気出して",
+          "pronunciation": "소바니 이루요 겐키 다시테",
+          "translation": "곁에 있어, 힘을 내"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 41,
+          "original": "顔を背けて　隠してもいいよ",
+          "pronunciation": "카오오 소무케테 카쿠시테모 이이요",
+          "translation": "고개를 돌리고 감춰도 괜찮아"
+        },
+        {
+          "number": 42,
+          "original": "そっと明かり　灯せるように",
+          "pronunciation": "솟토 아카리 토모세루 요오니",
+          "translation": "살며시 불을 밝힐 수 있도록"
+        },
+        {
+          "number": 43,
+          "original": "寄り添ってるから",
+          "pronunciation": "요리솟테루카라",
+          "translation": "곁을 지키고 있을 테니까"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 44,
+          "original": "溢れ出すBrightness　(限りないBrightness)",
+          "pronunciation": "아후레다스 브라이트니스 (카기리나이 브라이트니스)",
+          "translation": "넘쳐나는 찬란함 (한없는 찬란함)"
+        },
+        {
+          "number": 45,
+          "original": "止めどなくPassionate　(果てしなくPassionate)",
+          "pronunciation": "토메도 나쿠 패셔닛 (하테시나쿠 패셔닛)",
+          "translation": "그칠 줄 모르는 열정 (끝없는 열정)"
+        },
+        {
+          "number": 46,
+          "original": "笑うなら一緒が　唯一条件ね",
+          "pronunciation": "와라우나라 잇쇼가 유이이츠 조오켄네",
+          "translation": "웃을 거라면 함께, 그게 유일한 조건이야"
+        },
+        {
+          "number": 47,
+          "original": "後ずさる退路も　(振り出しの退路も)",
+          "pronunciation": "아토즈사루 타이로모 (후리다시노 타이로모)",
+          "translation": "뒷걸음치는 퇴로도 (출발점으로 향하는 퇴로도)"
+        },
+        {
+          "number": 48,
+          "original": "逃さず照らすから　(残らず照らすから)",
+          "pronunciation": "노가사즈 테라스카라 (노코라즈 테라스카라)",
+          "translation": "놓치지 않고 비출 테니까 (빠짐없이 비출 테니까)"
+        },
+        {
+          "number": 49,
+          "original": "赤裸々でもいいじゃない",
+          "pronunciation": "세키라라데모 이이자 나이",
+          "translation": "있는 그대로 드러내도 괜찮잖아"
+        },
+        {
+          "number": 50,
+          "original": "包み込んで見せましょう",
+          "pronunciation": "츠츠미콘데 미세마쇼오",
+          "translation": "따스하게 감싸줄게"
+        },
+        {
+          "number": 51,
+          "original": "その笑顔に　さあ　光あれ",
+          "pronunciation": "소노 에가오니 사아 히카리 아레",
+          "translation": "그 미소에, 자, 빛이 있으라"
+        }
+      ]
+    }
+  ]
+}

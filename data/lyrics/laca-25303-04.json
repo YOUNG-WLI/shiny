@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25303-04",
+  "albumId": "laca-25303",
+  "trackNumber": 4,
+  "title": "Be-witched",
+  "vocal": "有栖川夏葉",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/Be-witched.txt",
+    "sha256": "1b8263921f0060f86a0cf616d18e5b014fb309c7da935c51dc7bcb4d50110a82",
+    "originalFile": "laca-25303-04.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "Sa Zah는 파도 소리를 흉내 낸 구절로 옮겼습니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "Love you more",
+          "pronunciation": "러브 유 모어",
+          "translation": "널 더욱 사랑해"
+        },
+        {
+          "number": 2,
+          "original": "Love you more",
+          "pronunciation": "러브 유 모어",
+          "translation": "널 더욱 사랑해"
+        },
+        {
+          "number": 3,
+          "original": "夕陽の渚で　裸足になれずに",
+          "pronunciation": "유우히노 나기사데 하다시니 나레즈니",
+          "translation": "노을 진 물가에서 맨발이 되지 못하고"
+        },
+        {
+          "number": 4,
+          "original": "躊躇うあなたの　手を引いて",
+          "pronunciation": "타메라우 아나타노 테오 히이테",
+          "translation": "망설이는 너의 손을 잡아끌어"
+        },
+        {
+          "number": 5,
+          "original": "踏み出したいの",
+          "pronunciation": "후미다시타이노",
+          "translation": "한 걸음 내딛고 싶어"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 6,
+          "original": "昔は見えなかった",
+          "pronunciation": "무카시와 미에나캇타",
+          "translation": "예전에는 보이지 않던"
+        },
+        {
+          "number": 7,
+          "original": "その小説の息遣いは",
+          "pronunciation": "소노 쇼오세츠노 이키즈카이와",
+          "translation": "그 소설의 숨결은"
+        },
+        {
+          "number": 8,
+          "original": "あなたと過ごすうちに",
+          "pronunciation": "아나타토 스고스 우치니",
+          "translation": "너와 시간을 보내는 동안"
+        },
+        {
+          "number": 9,
+          "original": "高まる波模様と知った",
+          "pronunciation": "타카마루 나미모요오토 싯타",
+          "translation": "높아지는 파도의 모양이라는 걸 알았어"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 10,
+          "original": "とある少女の頃に",
+          "pronunciation": "토아루 쇼오조노 코로니",
+          "translation": "어느 소녀였던 시절"
+        },
+        {
+          "number": 11,
+          "original": "夢見た物語の",
+          "pronunciation": "유메미타 모노가타리노",
+          "translation": "꿈꾸던 이야기의"
+        },
+        {
+          "number": 12,
+          "original": "壁の中　戻れないけど",
+          "pronunciation": "카베노 나카 모도레나이케도",
+          "translation": "벽 안으로 돌아갈 수는 없지만"
+        },
+        {
+          "number": 13,
+          "original": "魔法の国の外で",
+          "pronunciation": "마호오노 쿠니노 소토데",
+          "translation": "마법 나라의 밖에서"
+        },
+        {
+          "number": 14,
+          "original": "ビル風を切りながら",
+          "pronunciation": "비루카제오 키리나가라",
+          "translation": "빌딩 사이 바람을 가르며"
+        },
+        {
+          "number": 15,
+          "original": "唇に　覚めようのない",
+          "pronunciation": "쿠치비루니 사메요오노 나이",
+          "translation": "입술에 깨어날 길 없는"
+        },
+        {
+          "number": 16,
+          "original": "魔法を灯すの",
+          "pronunciation": "마호오오 토모스노",
+          "translation": "마법을 밝혀"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 17,
+          "original": "Love you more",
+          "pronunciation": "러브 유 모어",
+          "translation": "널 더욱 사랑해"
+        },
+        {
+          "number": 18,
+          "original": "Love you more",
+          "pronunciation": "러브 유 모어",
+          "translation": "널 더욱 사랑해"
+        },
+        {
+          "number": 19,
+          "original": "海ばかりを見て",
+          "pronunciation": "우미바카리오 미테",
+          "translation": "바다만 바라보며"
+        },
+        {
+          "number": 20,
+          "original": "“言葉の要らないこの時が好き”って",
+          "pronunciation": "코토바노 이라나이 코노 토키가 스킷테",
+          "translation": "“말이 필요 없는 이 시간이 좋아”라는 말을"
+        },
+        {
+          "number": 21,
+          "original": "風に言わす　ずるさも好きよ",
+          "pronunciation": "카제니 이와스 즈루사모 스키요",
+          "translation": "바람이 대신하게 하는 얄미움도 좋아"
+        },
+        {
+          "number": 22,
+          "original": "“明日”なんて夢に　渡さない",
+          "pronunciation": "아시타난테 유메니 와타사나이",
+          "translation": "‘내일’ 같은 꿈에 넘겨주지 않을 거야"
+        },
+        {
+          "number": 23,
+          "original": "濡れた砂をスカートに纏い",
+          "pronunciation": "누레타 스나오 스카아토니 마토이",
+          "translation": "치마에 젖은 모래를 두르고"
+        },
+        {
+          "number": 24,
+          "original": "後戻りは　もう出来ないの",
+          "pronunciation": "아토모도리와 모오 데키나이노",
+          "translation": "이제는 돌아갈 수 없어"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 25,
+          "original": "細波が　黙り込んで",
+          "pronunciation": "사자나미가 다마리콘데",
+          "translation": "잔물결이 잠잠해지고"
+        },
+        {
+          "number": 26,
+          "original": "Sa Zah Sa Zah",
+          "pronunciation": "사 자아 사 자아",
+          "translation": "사아, 자아, 사아, 자아"
+        },
+        {
+          "number": 27,
+          "original": "凪いで　吠えて",
+          "pronunciation": "나이데 호에테",
+          "translation": "잔잔해졌다 울부짖었다가"
+        },
+        {
+          "number": 28,
+          "original": "途切れたら…",
+          "pronunciation": "토기레타라",
+          "translation": "끊긴다면…"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 29,
+          "original": "とある少女は気付く",
+          "pronunciation": "토아루 쇼오조와 키즈쿠",
+          "translation": "어느 소녀는 깨달아"
+        },
+        {
+          "number": 30,
+          "original": "誰もが物語の",
+          "pronunciation": "다레모가 모노가타리노",
+          "translation": "누구나 이야기의"
+        },
+        {
+          "number": 31,
+          "original": "最初から　主役ではなくて",
+          "pronunciation": "사이쇼카라 슈야쿠데와 나쿠테",
+          "translation": "처음부터 주인공인 것은 아니며"
+        },
+        {
+          "number": 32,
+          "original": "魔法の壁の外で",
+          "pronunciation": "마호오노 카베노 소토데",
+          "translation": "마법의 벽 밖에서"
+        },
+        {
+          "number": 33,
+          "original": "裸足で歩き出して",
+          "pronunciation": "하다시데 아루키다시테",
+          "translation": "맨발로 걷기 시작하고"
+        },
+        {
+          "number": 34,
+          "original": "眠れない夜の中で",
+          "pronunciation": "네무레나이 요루노 나카데",
+          "translation": "잠들 수 없는 밤 속에서"
+        },
+        {
+          "number": 35,
+          "original": "主役に　なってくの",
+          "pronunciation": "슈야쿠니 낫테쿠노",
+          "translation": "주인공이 되어간다는 걸"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 36,
+          "original": "Love you more",
+          "pronunciation": "러브 유 모어",
+          "translation": "널 더욱 사랑해"
+        },
+        {
+          "number": 37,
+          "original": "Love you more",
+          "pronunciation": "러브 유 모어",
+          "translation": "널 더욱 사랑해"
+        },
+        {
+          "number": 38,
+          "original": "夕陽の渚で　裸足になれずに",
+          "pronunciation": "유우히노 나기사데 하다시니 나레즈니",
+          "translation": "노을 진 물가에서 맨발이 되지 못하고"
+        },
+        {
+          "number": 39,
+          "original": "躊躇うあなたの",
+          "pronunciation": "타메라우 아나타노",
+          "translation": "망설이는 너의"
+        },
+        {
+          "number": 40,
+          "original": "誰にもない　どれもが好きよ",
+          "pronunciation": "다레니모 나이 도레모가 스키요",
+          "translation": "다른 누구에게도 없는 모든 게 좋아"
+        },
+        {
+          "number": 41,
+          "original": "“明日こそは”なんて　夢見てた",
+          "pronunciation": "아시타코소와난테 유메미테타",
+          "translation": "‘내일이야말로’라고 꿈꾸던"
+        },
+        {
+          "number": 42,
+          "original": "臆病な私は　おしまい",
+          "pronunciation": "오쿠뵤오나 와타시와 오시마이",
+          "translation": "겁 많은 나는 이제 끝"
+        },
+        {
+          "number": 43,
+          "original": "今あなたに　伝えるの",
+          "pronunciation": "이마 아나타니 츠타에루노",
+          "translation": "지금 너에게 전할게"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 44,
+          "original": "波打つ心で　唱えて",
+          "pronunciation": "나미우츠 코코로데 토나에테",
+          "translation": "물결치는 마음으로 읊조려"
+        },
+        {
+          "number": 45,
+          "original": "飲み込んできた言葉",
+          "pronunciation": "노미콘데키타 코토바",
+          "translation": "삼켜왔던 말을"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 46,
+          "original": "Close to you",
+          "pronunciation": "클로스 투 유",
+          "translation": "네 곁에 가까이"
+        },
+        {
+          "number": 47,
+          "original": "Stay with me",
+          "pronunciation": "스테이 위드 미",
+          "translation": "내 곁에 있어줘"
+        },
+        {
+          "number": 48,
+          "original": "Anytime… Forever…",
+          "pronunciation": "애니타임 포레버",
+          "translation": "언제나… 영원히…"
+        }
+      ]
+    }
+  ]
+}

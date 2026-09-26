@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "laca-25301-03",
+  "albumId": "laca-25301",
+  "trackNumber": 3,
+  "title": "ハグルマヒマワリ",
+  "vocal": "小宮果穂",
+  "source": {
+    "type": "user-provided",
+    "receivedAt": "2026-09-27",
+    "inputFile": "manual_input/ハグルマヒマワリ.txt",
+    "sha256": "a4e99e5ce36f960557717c15126f03f7b9eeb64db56ff3f5412594a9f46d8cca",
+    "originalFile": "laca-25301-03.original.txt",
+    "normalization": "원본 파일을 바이트 그대로 별도 보관. JSON은 줄바꿈으로 분리하고 빈 줄을 연 구분으로 처리하며 각 가사 줄의 공백과 문장부호를 유지."
+  },
+  "pronunciation": {
+    "language": "ko",
+    "method": "원문의 문맥에 따른 한글 근사 발음. 장음을 모음으로 표시하고 영어도 한글로 표기. 실제 가창 미검증.",
+    "audioVerified": false
+  },
+  "translation": {
+    "language": "ko",
+    "method": "원문 줄별 문맥 번역",
+    "official": false
+  },
+  "notes": [
+    "和オン은 和音(화음)과 개 짖는 소리의 말장난으로 해석했습니다.",
+    "全オープン의 全은 '젠'으로 가정했으며 실제 가창은 미확인입니다."
+  ],
+  "stanzas": [
+    {
+      "number": 1,
+      "lines": [
+        {
+          "number": 1,
+          "original": "満タン110パーセント",
+          "pronunciation": "만탄 햐쿠주우 파아센토",
+          "translation": "가득 채워 110퍼센트"
+        },
+        {
+          "number": 2,
+          "original": "入れたてが好き　自転車の空気",
+          "pronunciation": "이레타테가 스키 지텐샤노 쿠우키",
+          "translation": "막 넣은 게 좋아, 자전거의 공기"
+        },
+        {
+          "number": 3,
+          "original": "名だたる　でこぼこ道が",
+          "pronunciation": "나다타루 데코보코 미치가",
+          "translation": "이름난 울퉁불퉁한 길들이"
+        },
+        {
+          "number": 4,
+          "original": "偉い人いわく　待ち受ける",
+          "pronunciation": "에라이 히토 이와쿠 마치우케루",
+          "translation": "높으신 분들 말씀으론 기다리고 있대"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        {
+          "number": 5,
+          "original": "夕立　トンネル　雨上がり",
+          "pronunciation": "유우다치 톤네루 아메아가리",
+          "translation": "소나기, 터널, 비 갠 뒤"
+        },
+        {
+          "number": 6,
+          "original": "タイヤのギア　ひまわりみたいね",
+          "pronunciation": "타이야노 기아 히마와리 미타이네",
+          "translation": "바퀴의 기어는 해바라기 같네"
+        },
+        {
+          "number": 7,
+          "original": "お日様　目指したら",
+          "pronunciation": "오히사마 메자시타라",
+          "translation": "햇님을 향해 가면"
+        },
+        {
+          "number": 8,
+          "original": "登り坂だってカタパルト",
+          "pronunciation": "노보리자카닷테 카타파루토",
+          "translation": "오르막길도 발사대야"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        {
+          "number": 9,
+          "original": "日焼け跡　おそろいなのに",
+          "pronunciation": "히야케아토 오소로이나노니",
+          "translation": "햇볕에 탄 자국은 서로 똑같은데"
+        },
+        {
+          "number": 10,
+          "original": "消えてしまう訳は",
+          "pronunciation": "키에테시마우 와케와",
+          "translation": "사라져 버리는 이유는"
+        },
+        {
+          "number": 11,
+          "original": "もっと　強いキラキラ",
+          "pronunciation": "못토 츠요이 키라키라",
+          "translation": "더 강한 반짝임을"
+        },
+        {
+          "number": 12,
+          "original": "きっと　新しく浴びる　旅支度だから",
+          "pronunciation": "킷토 아타라시쿠 아비루 타비지타쿠다카라",
+          "translation": "분명 새로 맞이할 여행 준비이기 때문이야"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        {
+          "number": 13,
+          "original": "ぐんぐん　惑星探査中なんです(Let's go yeah)",
+          "pronunciation": "군군 와쿠세이 탄사추우난데스 (렛츠 고 예)",
+          "translation": "쭉쭉 행성을 탐사하는 중이에요 (가자, 예!)"
+        },
+        {
+          "number": 14,
+          "original": "どんな失敗も　強風も",
+          "pronunciation": "돈나 싯파이모 쿄오후우모",
+          "translation": "어떤 실패도 거센 바람도"
+        },
+        {
+          "number": 15,
+          "original": "わくわくには敵わない",
+          "pronunciation": "와쿠와쿠니와 카나와나이",
+          "translation": "두근대는 설렘은 이길 수 없어"
+        },
+        {
+          "number": 16,
+          "original": "夏色ペダルを急回転(Let's go yeah)",
+          "pronunciation": "나츠이로 페다루오 큐우카이텐 (렛츠 고 예)",
+          "translation": "여름빛 페달을 힘껏 돌려 (가자, 예!)"
+        },
+        {
+          "number": 17,
+          "original": "いつの　約束も　最強の",
+          "pronunciation": "이츠노 야쿠소쿠모 사이쿄오노",
+          "translation": "언제 한 약속이든 가장 강력한"
+        },
+        {
+          "number": 18,
+          "original": "お守りだって分かった今日は",
+          "pronunciation": "오마모리닷테 와캇타 쿄오와",
+          "translation": "부적이라는 걸 깨달은 오늘은"
+        },
+        {
+          "number": 19,
+          "original": "世界フル加速デー",
+          "pronunciation": "세카이 후루 카소쿠 데에",
+          "translation": "세상을 전속력으로 달리는 날"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        {
+          "number": 20,
+          "original": "夕焼けに書いた　五線譜みたいな",
+          "pronunciation": "유우야케니 카이타 고센후 미타이나",
+          "translation": "노을에 그린 오선보 같은"
+        },
+        {
+          "number": 21,
+          "original": "電線にとまる　カラスがキンコンカン",
+          "pronunciation": "덴센니 토마루 카라스가 킹콘칸",
+          "translation": "전선에 앉은 까마귀가 딩동댕"
+        },
+        {
+          "number": 22,
+          "original": "全オープンなブレーキと　全音符なお月様",
+          "pronunciation": "젠 오오푼나 부레에키토 젠온푸나 오츠키사마",
+          "translation": "완전히 풀린 브레이크와 온음표 같은 달님"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "lines": [
+        {
+          "number": 23,
+          "original": "和オンと鳴いた　仔犬の声も",
+          "pronunciation": "와온토 나이타 코이누노 코에모",
+          "translation": "화음처럼 멍 하고 짖은 강아지의 목소리도"
+        },
+        {
+          "number": 24,
+          "original": "何か願うのかな",
+          "pronunciation": "나니카 네가우노카나",
+          "translation": "무언가를 바라는 걸까"
+        },
+        {
+          "number": 25,
+          "original": "もっと　強くなりたい",
+          "pronunciation": "못토 츠요쿠 나리타이",
+          "translation": "더 강해지고 싶어"
+        },
+        {
+          "number": 26,
+          "original": "そう　聴こえる心は",
+          "pronunciation": "소오 키코에루 코코로와",
+          "translation": "그렇게 들리는 이 마음은"
+        },
+        {
+          "number": 27,
+          "original": "今だけなのかな",
+          "pronunciation": "이마다케나노카나",
+          "translation": "지금뿐인 걸까"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "lines": [
+        {
+          "number": 28,
+          "original": "流星　追いかける特訓です(Let's go yeah)",
+          "pronunciation": "류우세이 오이카케루 톳쿤데스 (렛츠 고 예)",
+          "translation": "유성을 뒤쫓는 특별 훈련이에요 (가자, 예!)"
+        },
+        {
+          "number": 29,
+          "original": "どんな　最高の　星空も",
+          "pronunciation": "돈나 사이코오노 호시조라모",
+          "translation": "아무리 멋진 별하늘을 봐도"
+        },
+        {
+          "number": 30,
+          "original": "きれい！　スゴい！　しか言えない",
+          "pronunciation": "키레이! 스고이! 시카 이에나이",
+          "translation": "예뻐! 대단해! 라는 말밖엔 못 하겠어"
+        },
+        {
+          "number": 31,
+          "original": "単純明快サイクルだって(Let's go yeah)",
+          "pronunciation": "탄준메이카이 사이쿠루닷테 (렛츠 고 예)",
+          "translation": "단순명쾌하게 반복되는 일이어도 (가자, 예!)"
+        },
+        {
+          "number": 32,
+          "original": "いつも　ぐんぐんと　ギュンギュンと",
+          "pronunciation": "이츠모 군군토 귱귱토",
+          "translation": "언제나 쭉쭉, 쌩쌩"
+        },
+        {
+          "number": 33,
+          "original": "立ち漕ぎするほどライトはね",
+          "pronunciation": "타치코기스루 호도 라이토와네",
+          "translation": "일어서서 페달을 밟을수록 불빛은 말이야"
+        },
+        {
+          "number": 34,
+          "original": "先を照らしてく",
+          "pronunciation": "사키오 테라시테쿠",
+          "translation": "앞을 비춰 가"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "lines": [
+        {
+          "number": 35,
+          "original": "なぞなぞみたい",
+          "pronunciation": "나조나조 미타이",
+          "translation": "수수께끼 같아"
+        },
+        {
+          "number": 36,
+          "original": "大切なのに　何気なさすぎたり",
+          "pronunciation": "타이세츠나노니 나니게나사스기타리",
+          "translation": "소중한데도 너무나 평범하게 느껴지기도 하고"
+        },
+        {
+          "number": 37,
+          "original": "ひとりじめよりも",
+          "pronunciation": "히토리지메 요리모",
+          "translation": "혼자 차지하는 것보다"
+        },
+        {
+          "number": 38,
+          "original": "分け合った方が大きくなる",
+          "pronunciation": "와케앗타 호오가 오오키쿠 나루",
+          "translation": "함께 나눌 때 더 커져"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "lines": [
+        {
+          "number": 39,
+          "original": "日焼け跡　ハモった言葉",
+          "pronunciation": "히야케아토 하못타 코토바",
+          "translation": "햇볕에 탄 자국, 화음을 이룬 말들"
+        },
+        {
+          "number": 40,
+          "original": "何かで溢れてる",
+          "pronunciation": "나니카데 아후레테루",
+          "translation": "무언가로 넘쳐 나"
+        },
+        {
+          "number": 41,
+          "original": "もっと　そんなキラキラ",
+          "pronunciation": "못토 손나 키라키라",
+          "translation": "더 많이, 그런 반짝임을"
+        },
+        {
+          "number": 42,
+          "original": "もっと　この先で全部を",
+          "pronunciation": "못토 코노 사키데 젠부오",
+          "translation": "앞으로 더 많이, 그 전부를"
+        },
+        {
+          "number": 43,
+          "original": "ぎゅっとしたいから",
+          "pronunciation": "귯토 시타이카라",
+          "translation": "꼭 끌어안고 싶으니까"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "lines": [
+        {
+          "number": 44,
+          "original": "小さいてっぺんでも到達点",
+          "pronunciation": "치이사이 텟펜데모 토오타츠텐",
+          "translation": "작은 꼭대기라도 도달한 지점이야"
+        },
+        {
+          "number": 45,
+          "original": "空は澄み切って　そうまるで",
+          "pronunciation": "소라와 스미킷테 소오 마루데",
+          "translation": "하늘은 맑게 개어, 그래, 마치"
+        },
+        {
+          "number": 46,
+          "original": "進級した日の青空",
+          "pronunciation": "신큐우시타 히노 아오조라",
+          "translation": "한 학년 올라간 날의 푸른 하늘"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "lines": [
+        {
+          "number": 47,
+          "original": "ぐんぐん　惑星探査中なんです(Let's go yeah)",
+          "pronunciation": "군군 와쿠세이 탄사추우난데스 (렛츠 고 예)",
+          "translation": "쭉쭉 행성을 탐사하는 중이에요 (가자, 예!)"
+        },
+        {
+          "number": 48,
+          "original": "どんな失敗も　強風も",
+          "pronunciation": "돈나 싯파이모 쿄오후우모",
+          "translation": "어떤 실패도 거센 바람도"
+        },
+        {
+          "number": 49,
+          "original": "わくわくには敵わない",
+          "pronunciation": "와쿠와쿠니와 카나와나이",
+          "translation": "두근대는 설렘은 이길 수 없어"
+        },
+        {
+          "number": 50,
+          "original": "歯車ヒマワリ　急回転(Let's go yeah)",
+          "pronunciation": "하구루마 히마와리 큐우카이텐 (렛츠 고 예)",
+          "translation": "톱니바퀴 해바라기, 빠르게 돌아 (가자, 예!)"
+        },
+        {
+          "number": 51,
+          "original": "いつの　約束も　最強の",
+          "pronunciation": "이츠노 야쿠소쿠모 사이쿄오노",
+          "translation": "언제 한 약속이든 가장 강력한"
+        },
+        {
+          "number": 52,
+          "original": "お守りだって分かった今日は",
+          "pronunciation": "오마모리닷테 와캇타 쿄오와",
+          "translation": "부적이라는 걸 깨달은 오늘은"
+        },
+        {
+          "number": 53,
+          "original": "世界フル加速デー",
+          "pronunciation": "세카이 후루 카소쿠 데에",
+          "translation": "세상을 전속력으로 달리는 날"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "lines": [
+        {
+          "number": 54,
+          "original": "太陽を巻き込んで！",
+          "pronunciation": "타이요오오 마키콘데!",
+          "translation": "태양까지 끌어들여!"
+        }
+      ]
+    }
+  ]
+}
